@@ -856,9 +856,9 @@
                 "description": "Try the Receptionist"
             },
             "banner_3": {
-                "cta": "See plans",
-                "title": "Save Big on Global Calling",
-                "description": "Upto 70% off "
+                "cta": "Set it Up",
+                "title": "A Virtual Voice",
+                "description": "Answers calls for you"
             },
             "banner_4": {
                 "cta": "Recharge now",
@@ -1664,7 +1664,7 @@
         "zwe": "Zimbabwe"
     },
 
-    
+
     "report-issue": {
         "note": "Make sure you checked FAQ before sending the issue.",
         "title": "Report Issue",
