@@ -1,0 +1,382 @@
+{
+  "sms-credit": {
+    "terms": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  "verify-kyc": {
+    "title": "Información"
+  },
+  "call-screen": {
+    "unstable-connection": "Conexión inestable"
+  },
+  "maintanance": {
+    "cta": "Reintentar",
+    "title": "¡Volvemos en seguida!",
+    "description": "Estamos en mantenimiento para mejorar tu experiencia. Vuelve en breve."
+  },
+  "my-products": {
+    "info-banners": {
+      "left": {
+        "title": "Invita y gana",
+        "subtext": "Cobra"
+      },
+      "right": {
+        "title": "Ofertas especiales",
+        "subtext": "Mejores ofertas"
+      }
+    }
+  },
+  "promo-cards": {
+    "no-codes": "Sin códigos prepago"
+  },
+  "upload-docs": {
+    "256-encrypted": "Cifrado 256.",
+    "gdpr-compliant": "Cumple GDPR."
+  },
+  "video_inapp": {
+    "ai_bot": {
+      "title": "Asistente IA",
+      "subtitle": "Cómo configurar"
+    },
+    "ivr_help": {
+      "title": "Cómo funciona la centralita",
+      "subtitle": "Instala y lánzalo"
+    },
+    "esim_help": {
+      "title": "Cómo funciona eSIM",
+      "subtitle": "Instala y lánzalo"
+    },
+    "kyc_numbers": {
+      "title": "Verifica para números (KYC)",
+      "subtitle": "Sube docs en minutos"
+    }
+  },
+  "ai-assistant": {
+    "help": "Ayuda",
+    "guide": {
+      "bottomSection": {
+        "label": "Buster leerá y aprenderá.",
+        "badge_label": "Guía docs"
+      },
+      "pick_role_desc": "Dale un rol: soporte, ventas, reservas…",
+      "pick_role_title": "Elige un rol",
+      "hire_buster_desc": "¡Último paso! Voz, número y listo.",
+      "hire_buster_title": "Contrata a Buster",
+      "teach_buster_desc": "Sube docs o info para que Buster aprenda.",
+      "teach_buster_title": "Enseña a Buster",
+      "interview_buster_desc": "Responde y Buster entiende tu negocio y tono.",
+      "interview_buster_title": "Entrevista a Buster"
+    },
+    "my-team": {
+      "empty-title": "No hay miembros"
+    },
+    "optional": "(opcional)",
+    "doc-guide": {
+      "title": "Guía de documentos",
+      "avoid-section": {
+        "title": "Qué evitar",
+        "step-1": {
+          "title": "Imágenes, gráficos, capturas"
+        },
+        "step-2": {
+          "title": "PDFs solo con imágenes"
+        },
+        "step-3": {
+          "title": "Links externos (no se seguirán)"
+        },
+        "step-4": {
+          "title": "Videos incrustados o formularios"
+        },
+        "step-5": {
+          "title": "Manuales internos con jerga"
+        },
+        "step-6": {
+          "title": "Word con formato/sellos innecesarios"
+        },
+        "description": "Esto puede confundir o romper el entrenamiento:"
+      },
+      "include-section": {
+        "title": "Qué incluir",
+        "step-1": {
+          "title": "Sobre tu negocio",
+          "description": "Qué haces, a quién ayudas, cómo trabajas"
+        },
+        "step-2": {
+          "title": "Productos o servicios",
+          "description": "Nombres, precios, claves"
+        },
+        "step-3": {
+          "title": "FAQs o preguntas comunes",
+          "description": "Plazos, reservas, devoluciones, horario"
+        },
+        "step-4": {
+          "title": "Guiones o respuestas telefónicas",
+          "description": "Saludos de llamada y explicaciones"
+        },
+        "step-5": {
+          "title": "Ofertas o promos",
+          "description": "Lo de hoy (descuentos, promos)"
+        },
+        "step-6": {
+          "title": "Datos del negocio",
+          "description": "Ubicación, horario, email, teléfono, normas"
+        },
+        "description": "Esto ayuda a Buster a responder bien:"
+      },
+      "pro-tips-section": {
+        "title": "Tips pro: mejores resultados",
+        "description": "1. Escribe claro y simple.",
+        "description-2": "2. Usa viñetas o párrafos cortos.",
+        "description-3": "3. Es para un nuevo: ¿qué debe saber?"
+      },
+      "template-section": {
+        "title": "Plantilla de ejemplo",
+        "description": "¡Bienvenido a Spark Cleaning!",
+        "description-2": "Limpieza hogar y oficina en Londres.",
+        "description-3": "Hacemos limpieza a fondo, ventanas y mantenimiento.",
+        "description-4": "Precios desde $49 por visita.",
+        "description-5": "Abrimos lun–sáb, 9–18h.",
+        "description-6": "Preguntas comunes:",
+        "description-7": "¿Cuánto dura? (2–3 h)",
+        "description-8": "¿Traen equipo? (Sí)",
+        "description-9": "¿Reprogramar? (Llama o email 24h antes)"
+      }
+    },
+    "hire-desk": {
+      "card-left": {
+        "steps": {
+          "deploy": "Lanzar",
+          "training": "Entrenamiento",
+          "interview": "Entrevista"
+        },
+        "title": "Contrata a Buster",
+        "subtitle": "a su trabajo ideal"
+      },
+      "card-right": {
+        "title": "Horario",
+        "subtitle": "Planes y minutos"
+      },
+      "assign-button-label": "Asigna rol a Buster"
+    },
+    "main-tabs": {
+      "my-team": "Mi equipo",
+      "hiring-desk": "Mesa de contratación"
+    },
+    "my-buster": {
+      "title": "Mi bot",
+      "button": "Probar este Buster",
+      "sections": {
+        "call-setup": {
+          "title": "Config. de llamadas"
+        },
+        "qa-briefing": {
+          "items": {
+            "item-1": {
+              "title": "¿Cómo se llama tu negocio?"
+            },
+            "item-2": {
+              "title": "¿Qué hace tu negocio?"
+            },
+            "item-3": {
+              "title": "¿Qué digo si preguntan precios?",
+              "answer": "Irme de vacaciones"
+            },
+            "item-4": {
+              "title": "¿Qué tono uso?"
+            },
+            "item-5": {
+              "title": "¿Cómo manejas llamadas difíciles?"
+            },
+            "item-6": {
+              "title": "Idioma"
+            }
+          },
+          "title": "Brief de preguntas"
+        },
+        "upload-docs": {
+          "title": "Subir docs",
+          "instructions": "2. Instrucciones",
+          "upload-button": "pdf, doc, docx"
+        },
+        "call-history": {
+          "title": "Subir docs",
+          "subtitle": "(transcripciones)"
+        },
+        "what-buster-knows": {
+          "title": "Lo que sabe Buster",
+          "description": "Escribe info clave y preguntas comunes",
+          "placeholder": "Ejemplo:\n- Hacemos fontanería\n- Abrimos lun–sáb, 9–18h\n- Pregunta típica: ¿cobran visita?\n- Resp.: 30 min gratis"
+        },
+        "communication-style": {
+          "title": "Estilo de comunicación",
+          "input-title-1": "¿Cómo debe hablar Buster?",
+          "input-title-2": "Idioma / acento",
+          "buster-will-speak": "Buster hablará en: "
+        }
+      }
+    },
+    "hire-buster": {
+      "title": "Contrata a Buster",
+      "tones": {
+        "excited": "Entusiasta",
+        "neutral": "Neutro",
+        "serious": "Serio",
+        "friendly": "Amable",
+        "professional": "Profesional"
+      },
+      "training-step": {
+        "title": "3. Entrenamiento",
+        "description": "Enseña a responder mejor",
+        "help-button": "Ayuda",
+        "badge-button": "Guía docs",
+        "business-info-accordion": {
+          "title": "a. Info y FAQs",
+          "input-title-1": "Escribe info clave y preguntas comunes",
+          "input-1-placeholder": "Ejemplo:\n- Hacemos fontanería\n- Abrimos lun–sáb, 9–18h\n- Pregunta típica: ¿cobran visita?\n- Resp.: 30 min gratis",
+          "you-will-be-able-upload-docs-later": "*Subir docs tras Contratar"
+        },
+        "buster-identity-accordion": {
+          "title": "c. Nombra a Buster",
+          "subtitle": "(Identidad)",
+          "input-title-1": "¿Cómo debe presentarse Buster?",
+          "input-1-placeholder": "ej: Bob, Alice"
+        },
+        "document-upload-accordion": {
+          "title": "b. Subir documento",
+          "subtitle": "(opcional)",
+          "info-label-1": "Buster leerá y aprenderá.",
+          "info-label-2": "Cumple GDPR/CCPA. Tus datos seguros.",
+          "input-title-1": "pdf, doc, docx"
+        }
+      },
+      "bottom-buttons": {
+        "back": "Atrás",
+        "next": "Siguiente"
+      },
+      "interview-step": {
+        "title": "2. Entrevista",
+        "description": "Unas preguntas para Buster",
+        "business-info-accordion": {
+          "title": "a. Sobre tu negocio",
+          "input-title-1": "¿Cómo se llama tu negocio?",
+          "input-title-2": "¿Qué hace tu negocio?",
+          "input-1-placeholder": "¿Cómo se llama?",
+          "input-2-placeholder": "p.ej. florista, abogado, café…"
+        },
+        "communication-style-accordion": {
+          "title": "b. Estilo de comunicación",
+          "input-title-1": "¿Cómo debe hablar Buster?",
+          "input-title-2": "Idioma / acento",
+          "buster-will-speak": "Buster hablará en: "
+        },
+        "handling-situations-accordion": {
+          "title": "c. Manejo de situaciones",
+          "input-title-1": "¿Algo que evitar sí o sí?",
+          "input-1-placeholder": "p.ej. devoluciones, descuentos, promos"
+        }
+      },
+      "find-vacancy-step": {
+        "title": "1. Cubre una vacante",
+        "description": "¿Qué debe hacer Buster?"
+      }
+    },
+    "how-to-hire": {
+      "title": "Cómo contratar",
+      "button": "Contrata a Buster"
+    },
+    "screen-title": "Asistente IA",
+    "team-members": {
+      "bot": "Bot",
+      "max": "Max",
+      "alex": "Alex",
+      "dominic": "Dominic"
+    },
+    "bot-vacancies": {
+      "info-bot": {
+        "title": "Bot de info",
+        "description": "Comparte horario, ubicación u otros datos"
+      },
+      "custom-role": {
+        "title": "Rol personalizado",
+        "description": "Define tu rol de asistente"
+      },
+      "hotline-bot": {
+        "title": "Bot de urgencias",
+        "description": "Responde urgencias rápido"
+      },
+      "sales-queries": {
+        "title": "Consultas de ventas",
+        "description": "Explica y guía a clientes"
+      },
+      "support-calls": {
+        "title": "Llamadas de soporte",
+        "description": "Responde dudas de soporte"
+      },
+      "knowledge-base": {
+        "title": "Base de conocimiento",
+        "description": "Responde con tus docs y FAQ"
+      }
+    },
+    "accent-language": {
+      "amy": "Inglés (GB) - Mujer",
+      "matthew": "Inglés (US) - Mujer",
+      "tiffany": "Inglés (US) - Hombre"
+    },
+    "mention-refunds": "¿Devoluciones? ¿Frases a evitar?",
+    "call-transcripts": {
+      "title": "Transcripciones"
+    },
+    "create-completed": {
+      "title": "¿Listo para contratar a Buster?",
+      "subtitle": "Vamos en vivo. ¡Listo para trabajar!",
+      "swipe-button-label": "Desliza y contrata"
+    },
+    "number-selection": {
+      "title": "Elige un número",
+      "subtitle": "Marcarán aquí para hablar con Buster."
+    },
+    "choose-buster-setup": {
+      "title": "Config. de Buster",
+      "description": "¿Desde dónde debe responder?",
+      "simple-title": "Línea directa (simple)",
+      "receptionist-title": "Parte de centralita (IVR)",
+      "simple-description": "Buster responde en un número directo",
+      "receptionist-description": "Buster atiende tras pulsar 1, 2 o 3"
+    },
+    "communication-style": {
+      "excited": "Entusiasta",
+      "neutral": "Neutro",
+      "serious": "Serio",
+      "friendly": "Amable",
+      "professional": "Profesional"
+    },
+    "handling-situations": "c. Manejo de situaciones",
+    "call-transcripts-detail": {
+      "title": "Transcripciones",
+      "ai-bot-label": "Agente de voz IA",
+      "caller-label": "Llamante"
+    }
+  },
+  "app-language": {
+    "title": "Idioma de la app"
+  },
+  "call-credits": {
+    "extra": "extra",
+    "plans": {
+      "plan-1": "Plan básico",
+      "plan-2": "Ahorro smart",
+      "plan-3": "Ahorro power +",
+      "plan-4": "Uso intensivo",
+      "subtitle-1": "Añade $10 de crédito",
+      "subtitle-2": "Añade $15 de crédito",
+      "subtitle-3": "Añade $20 de crédito",
+      "subtitle-4": "Añade $20 de crédito"
+    },
+    "title": "Crédito voz*",
+    "heavy-user": "Uso intensivo",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "power-saver": "Ahorro power",
+    "top-up-bonus": "Bono por recarga",
+    "description-card": "para llamar (recibir en números gratis)",
+    "bonus-credit-deals": "Bonos de crédito"
+  }
+}

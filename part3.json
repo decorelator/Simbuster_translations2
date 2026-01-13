@@ -1,0 +1,382 @@
+{
+        "sms-credit": {
+        "terms": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    "verify-kyc": {
+        "title": "Information"
+    },
+    "call-screen": {
+        "unstable-connection": "Unstable connection"
+    },
+    "maintanance": {
+        "cta": "Retry",
+        "title": "We’ll Be Right Back!",
+        "description": "We’re currently performing some maintenance to improve your experience. This feature is temporarily unavailable. Please check back shortly."
+    },
+    "my-products": {
+        "info-banners": {
+            "left": {
+                "title": "Refer & Earn",
+                "subtext": "Get paid"
+            },
+            "right": {
+                "title": "Special offers",
+                "subtext": "Top Deals"
+            }
+        }
+    },
+    "promo-cards": {
+        "no-codes": "No prepaid codes"
+    },
+    "upload-docs": {
+        "256-encrypted": "256 Encrypted.",
+        "gdpr-compliant": "GDPR compliant."
+    },
+    "video_inapp": {
+        "ai_bot": {
+            "title": "AI Assistant",
+            "subtitle": "How to SetUpHow to SetUp"
+        },
+        "ivr_help": {
+            "title": "How IVR works",
+            "subtitle": "Install and go live"
+        },
+        "esim_help": {
+            "title": "How eSIM works",
+            "subtitle": "Install and go live"
+        },
+        "kyc_numbers": {
+            "title": "Verify for numbers (KYC)",
+            "subtitle": "Upload docs in minutes"
+        }
+    },
+    "ai-assistant": {
+        "help": "Help",
+        "guide": {
+            "bottomSection": {
+                "label": "Buster will read and learn.",
+                "badge_label": "Doc guide"
+            },
+            "pick_role_desc": "Assign Buster a job based on what you need—support, sales, booking, and more.",
+            "pick_role_title": "Pick a Role",
+            "hire_buster_desc": "Final step! Choose a voice, assign a number, and go live.",
+            "hire_buster_title": "Hire Buster",
+            "teach_buster_desc": "Upload documents or share your business knowledge so Buster can learn what's important.",
+            "teach_buster_title": "Teach Buster",
+            "interview_buster_desc": "Answer a few simple questions so Buster understands your business and tone.",
+            "interview_buster_title": "Interview Buster"
+        },
+        "my-team": {
+            "empty-title": "No team members found"
+        },
+        "optional": "(optional)",
+        "doc-guide": {
+            "title": "Document Guide",
+            "avoid-section": {
+                "title": "What to Avoid",
+                "step-1": {
+                    "title": "Images, charts, screenshots"
+                },
+                "step-2": {
+                    "title": "PDFs with only images"
+                },
+                "step-3": {
+                    "title": "Links to external content they won't be followed"
+                },
+                "step-4": {
+                    "title": "Embedded videos or interactive forms"
+                },
+                "step-5": {
+                    "title": "Jargon-heavy internal manuals"
+                },
+                "step-6": {
+                    "title": "Word docs with unnecessary formatting or signatures"
+                },
+                "description": "These can confuse or break Buster's training:"
+            },
+            "include-section": {
+                "title": "What to Include",
+                "step-1": {
+                    "title": "About Your Business",
+                    "description": "What you do, who you help, how you work"
+                },
+                "step-2": {
+                    "title": "Products or Services",
+                    "description": "Names, descriptions, pricing, key features"
+                },
+                "step-3": {
+                    "title": "FAQs or Common Questions",
+                    "description": "Delivery time, booking process, refund policy, support hours"
+                },
+                "step-4": {
+                    "title": "Scripts or Phone Replies You Use",
+                    "description": "Sample call greetings, how you explain things to customers"
+                },
+                "step-5": {
+                    "title": "Special Offers or Promos",
+                    "description": "Anything you're running right now (discounts, seasonal deals)"
+                },
+                "step-6": {
+                    "title": "Business Details",
+                    "description": "Location, hours, email, phone, policies"
+                },
+                "description": "These help Buster give accurate answers to your callers:"
+            },
+            "pro-tips-section": {
+                "title": "Pro Tips for Better Results",
+                "description": "1. Keep your writing clear and simple.",
+                "description-2": "2. Use bullet points or short paragraphs.",
+                "description-3": "3. Imagine you're writing for a new hire what do they need to know?"
+            },
+            "template-section": {
+                "title": "Example Template",
+                "description": "Welcome to Spark Cleaning!",
+                "description-2": "We offer home and office cleaning in London.",
+                "description-3": "Our services include deep cleaning, window washing, and weekly maintenance.",
+                "description-4": "Prices start at $49 per visit.",
+                "description-5": "We are open Mon-Sat, 9am-6pm.",
+                "description-6": "Customers often ask:",
+                "description-7": "How long does a visit take? (Usually 2-3 hours)",
+                "description-8": "Do you bring your own equipment? (Yes)",
+                "description-9": "How do I reschedule? (Call or email 24 hours before)"
+            }
+        },
+        "hire-desk": {
+            "card-left": {
+                "steps": {
+                    "deploy": "Deploy",
+                    "training": "Training",
+                    "interview": "Interview"
+                },
+                "title": "Hire Buster",
+                "subtitle": "to a Dream Job"
+            },
+            "card-right": {
+                "title": "Work Hours",
+                "subtitle": "Plans & Minutes"
+            },
+            "assign-button-label": "Assign Buster a Role"
+        },
+        "main-tabs": {
+            "my-team": "My Team",
+            "hiring-desk": "Hiring Desk"
+        },
+        "my-buster": {
+            "title": "My Bot",
+            "button": "Test this Buster",
+            "sections": {
+                "call-setup": {
+                    "title": "Call Setup"
+                },
+                "qa-briefing": {
+                    "items": {
+                        "item-1": {
+                            "title": "What is the name of your Business"
+                        },
+                        "item-2": {
+                            "title": "What does your business do?"
+                        },
+                        "item-3": {
+                            "title": "How should I respond if someone asks about prices?",
+                            "answer": "Go on Holiday"
+                        },
+                        "item-4": {
+                            "title": "How should my tone be?"
+                        },
+                        "item-5": {
+                            "title": "How do you handle difficult callers?"
+                        },
+                        "item-6": {
+                            "title": "Language"
+                        }
+                    },
+                    "title": "Q&A Briefing"
+                },
+                "upload-docs": {
+                    "title": "Upload Docs",
+                    "instructions": "2. Instructions",
+                    "upload-button": "pdf, doc, docx"
+                },
+                "call-history": {
+                    "title": "Upload Docs",
+                    "subtitle": "(transcripts)"
+                },
+                "what-buster-knows": {
+                    "title": "What Buster Knows",
+                    "description": "Type important info, common questions, and anything Buster should know",
+                    "placeholder": "Example:\n- We offer plumbing services\n- Open Mon–Sat, 9am–6pm\n- Most common question: Do you charge call-out fees?\n- Answer: First 30 mins are free"
+                },
+                "communication-style": {
+                    "title": "Communication Style",
+                    "input-title-1": "How should Buster speak?",
+                    "input-title-2": "Language / accent",
+                    "buster-will-speak": "Buster will speak in: "
+                }
+            }
+        },
+        "hire-buster": {
+            "title": "Hire Buster",
+            "tones": {
+                "excited": "Excited",
+                "neutral": "Neutral",
+                "serious": "Serious",
+                "friendly": "Friendly",
+                "professional": "Professional"
+            },
+            "training-step": {
+                "title": "3. The Training",
+                "description": "Teach Buster to answer better",
+                "help-button": "Help",
+                "badge-button": "Doc guide",
+                "business-info-accordion": {
+                    "title": "a. Business Info & FAQs",
+                    "input-title-1": "Type important info, common questions, and anything Buster should know",
+                    "input-1-placeholder": "Example:\n- We offer plumbing services\n- Open Mon–Sat, 9am–6pm\n- Most common question: Do you charge call-out fees?\n- Answer: First 30 mins are free",
+                    "you-will-be-able-upload-docs-later": "*Document upload is available after Hire"
+                },
+                "buster-identity-accordion": {
+                    "title": "c. Name Buster",
+                    "subtitle": "(Identity)",
+                    "input-title-1": "What should Buster call itself on calls?",
+                    "input-1-placeholder": "eg: Bob, Alice"
+                },
+                "document-upload-accordion": {
+                    "title": "b. Upload document",
+                    "subtitle": "(optional)",
+                    "info-label-1": "Buster will read and learn.",
+                    "info-label-2": "GDPR & CCPA compliant. Your data is secure.",
+                    "input-title-1": "pdf, doc, docx"
+                }
+            },
+            "bottom-buttons": {
+                "back": "Back",
+                "next": "Next"
+            },
+            "interview-step": {
+                "title": "2. The Interview",
+                "description": "A few questions to help Buster",
+                "business-info-accordion": {
+                    "title": "a. About your Business",
+                    "input-title-1": "What is the name of your Business",
+                    "input-title-2": "What does your business do?",
+                    "input-1-placeholder": "What's your business called?",
+                    "input-2-placeholder": "e.g. florist, legal consultant, cafe..."
+                },
+                "communication-style-accordion": {
+                    "title": "b. Communication style",
+                    "input-title-1": "How should Buster speak?",
+                    "input-title-2": "Language / accent",
+                    "buster-will-speak": "Buster will speak in: "
+                },
+                "handling-situations-accordion": {
+                    "title": "c. Handling situations",
+                    "input-title-1": "Anything important to avoid?",
+                    "input-1-placeholder": "e.g. refunds, discounts, special offers"
+                }
+            },
+            "find-vacancy-step": {
+                "title": "1. Fill a Vacancy",
+                "description": "What should Buster do for you?"
+            }
+        },
+        "how-to-hire": {
+            "title": "How to hire",
+            "button": "Hire Buster"
+        },
+        "screen-title": "AI Assistant",
+        "team-members": {
+            "bot": "Bot",
+            "max": "Max",
+            "alex": "Alex",
+            "dominic": "Dominic"
+        },
+        "bot-vacancies": {
+            "info-bot": {
+                "title": "Info Bot",
+                "description": "Share opening hours, location, or other info"
+            },
+            "custom-role": {
+                "title": "Custom Role",
+                "description": "Define your own assistant role"
+            },
+            "hotline-bot": {
+                "title": "Hotline Bot",
+                "description": "Answer urgent or emergency calls fast"
+            },
+            "sales-queries": {
+                "title": "Sales Queries",
+                "description": "Help explain products and guide buyers"
+            },
+            "support-calls": {
+                "title": "Support calls",
+                "description": "Answer common support questions"
+            },
+            "knowledge-base": {
+                "title": "Knowledge Base",
+                "description": "Answer based on your document and FAQ"
+            }
+        },
+        "accent-language": {
+            "amy": "English (GB) - Female",
+            "matthew": "English (US) - Female",
+            "tiffany": "English (US) - Male"
+        },
+        "mention-refunds": "Mention refunds? Phrases to avoid?",
+        "call-transcripts": {
+            "title": "Call Transcripts"
+        },
+        "create-completed": {
+            "title": "Ready to Hire Buster?",
+            "subtitle": "Let's go live. Ready to work!",
+            "swipe-button-label": "Slide to Hire"
+        },
+        "number-selection": {
+            "title": "Choose a number",
+            "subtitle": "People will dial this to talk to Buster."
+        },
+        "choose-buster-setup": {
+            "title": "Call setup for Buster",
+            "description": "Where should Buster answer from?",
+            "simple-title": "Direct Line (Simple)",
+            "receptionist-title": "Part of Receptionist (IVR)",
+            "simple-description": "Buster answers directly on a dedicated number",
+            "receptionist-description": "Buster handles calls after the caller presses 1, 2, or 3"
+        },
+        "communication-style": {
+            "excited": "Excited",
+            "neutral": "Neutral",
+            "serious": "Serious",
+            "friendly": "Friendly",
+            "professional": "Professional"
+        },
+        "handling-situations": "c. Handling situations",
+        "call-transcripts-detail": {
+            "title": "Call Transcripts",
+            "ai-bot-label": "AI Voice Agent",
+            "caller-label": "Caller"
+        }
+    },
+    "app-language": {
+        "title": "App language"
+    },
+    "call-credits": {
+        "extra": "extra",
+        "plans": {
+            "plan-1": "Basic Plan",
+            "plan-2": "Smart Saver",
+            "plan-3": "Bonus Power Saver",
+            "plan-4": "Heavy User",
+            "subtitle-1": "Credit added $10",
+            "subtitle-2": "Credit added $15",
+            "subtitle-3": "Credit added $20",
+            "subtitle-4": "Credit added $20"
+        },
+        "title": "Call Credit*",
+        "heavy-user": "Heavy User",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "power-saver": "Power Saver",
+        "top-up-bonus": "Top-Up Bonus",
+        "description-card": "for calling, (receiving on toll-free numbers)",
+        "bonus-credit-deals": "Bonus Credit Deals"
+    }
+}

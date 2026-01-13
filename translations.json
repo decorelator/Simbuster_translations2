@@ -499,6 +499,11 @@
         "november": "November",
         "september": "September"
     },
+
+
+
+
+
     "search": "Search",
     "my-esim": {
         "tab-current": "Current",
@@ -1025,6 +1030,10 @@
         "earnings-from-referral-purchases": "Earnings from referral purchases",
         "go-to-earnings-or-wallet-section": "Go to the Earnings or Wallet section"
     },
+
+
+
+
     "sms-credit": {
         "terms": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
@@ -1405,6 +1414,9 @@
         "description-card": "for calling, (receiving on toll-free numbers)",
         "bonus-credit-deals": "Bonus Credit Deals"
     },
+
+
+
     "country_name": {
         "abw": "Aruba",
         "afg": "Afghanistan",
@@ -1651,6 +1663,8 @@
         "zmb": "Zambia",
         "zwe": "Zimbabwe"
     },
+
+    
     "report-issue": {
         "note": "Make sure you checked FAQ before sending the issue.",
         "title": "Report Issue",
