@@ -1,0 +1,502 @@
+{
+  "faq": {
+    "title": "FAQ"
+  },
+  "ivr": {
+    "menu": "Menú",
+    "plan": {
+      "ivr-2": {
+        "top-label": "Elige quién contesta → x2"
+      },
+      "ivr-3": {
+        "top-label": "Envía a app, teléfono o IA → x3"
+      },
+      "messages": {
+        "footer1": "Sin respuesta →",
+        "footer2": "enviar a Buzón",
+        "footer3": "Fuera de horario → ",
+        "footer4": "mensaje de ausencia",
+        "footer5": "Sin respuesta → enviar a",
+        "footer6": "Buzón",
+        "message1": "Te están llamando",
+        "message2": "Dile a {avatar_name} qué decir\ncuando alguien llame",
+        "message3": "La llamada va directo\na tu app o teléfono\n→ tú eliges",
+        "message4": "En horario laboral",
+        "message5": "Pulsa 1 ventas, 2\nsoporte → tú decides",
+        "message6": "Elige a dónde va cada\nopción → app, tel., equipo",
+        "message7": "Pulsa 1 ventas, 2\nsoporte, 3 técnico → tú decides",
+        "message8": "Elige a dónde va cada\nopción → app, tel., asistente"
+      },
+      "direct-route": {
+        "top-label": "Contesta con mensaje → Yo"
+      }
+    },
+    "step1": {
+      "cta": "Generar audio",
+      "desc": "Así suena…",
+      "title": "Mensaje de bienvenida",
+      "title2": "Vista previa",
+      "input-label": "¿Qué oyen al llamar?",
+      "input-placeholder": "p. ej.: Thanks for calling [Name]..."
+    },
+    "step2": {
+      "cta": "Generar audio",
+      "for": "para",
+      "desc": "Así suena…",
+      "title1": "Mi menú",
+      "title2": "Vista previa",
+      "press-1": "Pulsa",
+      "inputs-label": "Opciones que oye quien llama…",
+      "input2-placeholder": "p. ej.: Support, Reception....",
+      "input-placeholder-1": "p. ej.: Sales",
+      "input-placeholder-2": "p. ej.: Billing...",
+      "input-placeholder-3": "p. ej.: Support..."
+    },
+    "step3": {
+      "desc": "Si pulsan {{0}}, va a…",
+      "desc2": "Si pulsan 1 o 2, va a…",
+      "email": "Email",
+      "phone": "Teléfono",
+      "title": "¿Quién recibe?",
+      "option": "Opción",
+      "no-bots": "No disponible",
+      "option1": "Un usuario Simbuster",
+      "option2": "Núm. teléfono",
+      "option3": "Yo (Elegir)",
+      "option4": "Asistente IA",
+      "email-placeholder": "Email de Simbuster",
+      "phone-placeholder": "número (empieza con +)"
+    },
+    "step4": {
+      "desc": "Así suena…",
+      "title": "Ajustes",
+      "weekdays": {
+        "friday": "Viernes",
+        "monday": "Lunes",
+        "sunday": "Domingo",
+        "tuesday": "Martes",
+        "saturday": "Sábado",
+        "thursday": "Jueves",
+        "wednesday": "Miércoles"
+      },
+      "days-label": "¿Qué días trabajas?",
+      "hours-label": "¿Cuándo atiendes llamadas?",
+      "input-label": "¿Qué decimos fuera de horario?",
+      "input2-label": "¿Cómo llamamos a esta línea?",
+      "switch-label": "Buzón a email",
+      "phone-line-name": "Bienvenida",
+      "name-placeholder": "Nombra tu centralita",
+      "input-placeholder": "Perdón, ahora cerramos. Deja un mensaje.",
+      "input2-placeholder": "Nombra tu centralita"
+    },
+    "tab-all": "Todo",
+    "welcome": "Bienvenida",
+    "ivr-info": {
+      "menu": "Menú",
+      "welcome": "Bienvenida",
+      "transfer": "Transferir",
+      "test-line": "Probar esta línea",
+      "add-number": "Añadir número",
+      "change-option": "Cambiar opción",
+      "leave-message": "Deja un mensaje",
+      "opening-hours": "Horario",
+      "test-line-desc": "Usa minutos del operador",
+      "assigned-numbers": "Números asignados",
+      "day-selector-label": "¿Qué días trabajas?",
+      "time-selector-label": "¿Cuándo atiendes llamadas?",
+      "location-selector-label": "¿Dónde estás?"
+    },
+    "plan-cta": "Configúralo ya",
+    "tab-male": "Hombre",
+    "transfer": "Transferir",
+    "completed": {
+      "cta": "Desliza para crear",
+      "desc": "Vamos a crear tu centralita…",
+      "title": "¡Todo listo!"
+    },
+    "doc-guide": "Guía de docs",
+    "submit-cta": "Crear mi centralita",
+    "tab-female": "Mujer",
+    "generalError": "Ocurrió un error",
+    "header-tab-1": "Empezar",
+    "header-tab-2": "Mi centralita",
+    "info-banners": {
+      "puzzle": {
+        "desc": "Paso a paso",
+        "title": "Guía de creación"
+      },
+      "credits": {
+        "title": "Crédito de voz"
+      },
+      "tutorial": {
+        "desc": "Ver video",
+        "title": "Tutorial"
+      },
+      "how-to-hire": {
+        "desc": "paso a paso",
+        "title": "Cómo contratar"
+      }
+    },
+    "my-reception": {
+      "no-reception-title": "Sin centralita",
+      "no-reception-button": "Crear la centralita"
+    },
+    "num-profiles": "+{{0}} perfiles",
+    "screen-title": "Recepcionista",
+    "leave-message": "Deja un mensaje",
+    "opening-hours": "Horario",
+    "textFieldError": "Error de texto",
+    "assigned-numbers": "Números asignados",
+    "build-guide-data": {
+      "title": "Guía de creación",
+      "header": "Elige el tipo de centralita",
+      "puzzle": {
+        "title": "Menú de opciones (Puzzle)",
+        "details": {
+          "steps": {
+            "title-1": "Elige tu recepcionista",
+            "title-2": "Crea con bloques Puzzle",
+            "title-3": "Decide quién recibe",
+            "title-4": "Centralita activa en tu línea",
+            "description-1": "Elige la voz que oirán",
+            "description-2": "Arrastra bloques y arma tu centralita: como un puzzle.",
+            "description-3": "Envía cada opción a ti, a tu equipo o a otro número",
+            "description-4": "Actívala. ¡Lista para llamadas!"
+          },
+          "title": "Guía del menú"
+        },
+        "buttonTitle": "Guía del Puzzle",
+        "description": "Que marquen 1/2/3 para llegar a gente, teléfonos o IA: crea tu flujo."
+      },
+      "simple": {
+        "title": "Solo yo (Básico)",
+        "details": {
+          "steps": {
+            "title-1": "Mensaje de saludo",
+            "title-2": "Destino de llamada",
+            "title-3": "Nombra tu centralita",
+            "description-1": "¿Qué oyen cuando te llaman?",
+            "description-2": "¿A dónde va la llamada?",
+            "description-3": "Ponle un nombre"
+          },
+          "title": "Guía básica"
+        },
+        "buttonTitle": "Guía básica",
+        "description": "Saludo y todas las llamadas a ti: rápido y simple."
+      },
+      "change-later": "Luego puedes cambiar o personalizar tu flujo",
+      "build-my-reception": "Crear mi centralita"
+    },
+    "create-reception": "Crear centralita",
+    "number-selection": {
+      "desc": "Necesitas un número para tu centralita",
+      "desc-2": "¿Qué número deben llamar?",
+      "screen-title": "Obtener un número",
+      "screen-title-2": "Elige un número",
+      "get-free-number": "Consigue un número gratis",
+      "get-phone-number": "Obtener un número"
+    },
+    "delete-phone-desc": "Se quitará de esta línea, pero seguirás recibiendo llamadas",
+    "onboarding-step-1": "Arrastra el bloque al lugar",
+    "onboarding-step-2": "Toma un bloque aquí",
+    "perfect-voice-cta": "Encuentra tu voz ideal",
+    "textFieldRequired": "El campo es obligatorio.",
+    "textNotEnoughCredit": "Sin crédito TTS",
+    "language-placeholder": "Todos los idiomas",
+    "choose-call-setup-modal": {
+      "desc": "¿Cómo gestionamos llamadas?",
+      "title": "Elige un flujo de llamadas",
+      "basic-row": {
+        "desc": "Greet callers and send\ncalls to me",
+        "title": "Solo yo (Básico)"
+      },
+      "puzzle-row": {
+        "desc": "Marcan 1, 2 o 3 para\nllegar a alguien",
+        "title": "Menú de opciones (Puzzle)"
+      }
+    },
+    "voice-language-mismatch": {
+      "cta": "Cambiar voz",
+      "desc": "Esa voz no está en tu idioma. Elige otra.",
+      "title": "Voz no compatible"
+    },
+    "build-reception-tutorial": {
+      "desc1": "Elige la voz que oirán",
+      "desc2": "Arrastra bloques y arma tu centralita: como un puzzle.",
+      "desc3": "Envía cada opción a ti, a tu equipo o a otro número",
+      "desc4": "Elige la voz que oirán",
+      "title1": "Elige tu recepcionista",
+      "title2": "Crea con bloques Puzzle",
+      "title3": "Decide quién recibe",
+      "title4": "Centralita activa en tu línea"
+    },
+    "country-selection-screen-title": "Países disponibles"
+  },
+  "auth": {
+    "otp": {
+      "desc": "Enviado a ",
+      "title": "Ingresa el código",
+      "resend-cta": "Reenviar",
+      "continue-login-cta": "Entrar",
+      "continue-signup-cta": "Crear cuenta"
+    },
+    "login": {
+      "title": "Entrar",
+      "input-label": "Email",
+      "input-placeholder": "Ingresa tu email"
+    },
+    "signup": {
+      "title": "Crear cuenta",
+      "email-label": "Email",
+      "continue-cta": "Continuar",
+      "full-name-label": "Nombre completo",
+      "email-placeholder": "Ingresa tu email",
+      "country-picker-label": "País",
+      "full-name-placeholder": "Nombre completo"
+    }
+  },
+  "back": "Atrás",
+  "chat": {
+    "enter-message": "Escribe un mensaje",
+    "meeting-tomorrow": "¿Qué tal la reunión mañana?"
+  },
+  "esim": {
+    "info": "Info",
+    "guide": "Guía",
+    "terms": "Términos",
+    "how-to": "¿Cómo?",
+    "warning": "¡Ojo! La mayoría de eSIM solo se instalan 1 vez. Si la borras, no podrás reinstalarla.",
+    "data-esim": "eSIM de datos",
+    "guide-steps": {
+      "pay": {
+        "title": "Pagar",
+        "description": "Pago listo. eSIM al instante."
+      },
+      "install": {
+        "title": "Instala (con Wi‑Fi, antes de salir)"
+      },
+      "pick-plan": {
+        "title": "Elige plan",
+        "description": "Elige datos + días. Sin contrato."
+      },
+      "give-label": {
+        "title": "Pon nombre a la eSIM",
+        "description": "Ajustes → Celular/Móvil → renombra a Simbuster"
+      },
+      "on-arrival": {
+        "title": "Al llegar: usa datos",
+        "description": "Set Mobile Data = Trip eSIM and Data Roaming ON.\n(iPhone: Settings → Mobile Data. Android:\nSettings → Network → SIMs.)\n"
+      },
+      "monitor-usage": {
+        "title": "Controla uso y añade packs"
+      },
+      "choose-destination": {
+        "title": "Elige destino",
+        "description": "Selecciona país/región"
+      }
+    },
+    "mobile-data": "Datos móviles",
+    "rename-esim": "¿Cómo quieres llamar a esta eSIM?",
+    "select-esim": "Elige eSIM para datos",
+    "watch-video": "Ver video",
+    "install-esim": "Instalar eSIM",
+    "manual-guide": {
+      "activate": {
+        "title": "Activar eSIM",
+        "button": "Activar",
+        "description": "Activa solo en destino",
+        "after-arrive": "Al llegar"
+      },
+      "tab-title": "Manual",
+      "give-label": {
+        "title": "Pon nombre a la eSIM"
+      },
+      "add-mobile-plan": {
+        "title": "Añadir plan móvil",
+        "description": "Ajustes > Servicio móvil > Añadir eSIM"
+      },
+      "enter-activation-code": {
+        "title": "Introduce el código",
+        "sm-dp-address": "Dirección SM‑DP+",
+        "activation-code": "Código de activación"
+      }
+    },
+    "step-by-step": "paso a paso",
+    "activate-esim": "Activar eSIM",
+    "install-guide": {
+      "warning": "¡Ojo! La mayoría de eSIM solo se instalan 1 vez. Si la borras, no podrás reinstalarla.",
+      "not-working": "¿No va? Activa modo avión 10 s. Puede tardar hasta 10 min.",
+      "installed-success": "¡Tu eSIM Simbuster está lista!",
+      "completed-correctly": "Si completaste todos los pasos.",
+      "guide-available-offline": "Tranquilo: esta guía está offline.",
+      "steps-after-arrival-info": "Estos pasos son solo tras llegar e instalar tu eSIM."
+    },
+    "install-title": "Instalar mi eSIM",
+    "activate-title": "Activar eSIM",
+    "install-button": "Instalar",
+    "share-qr-guide": {
+      "scan-qr": {
+        "title": "Escanea el QR"
+      },
+      "send-qr": {
+        "title": "Enviar QR a otro dispositivo o PC",
+        "button": "Enviar QR",
+        "share-message": "Enviar QR"
+      },
+      "activate": {
+        "title": "Activar eSIM",
+        "button": "Activar",
+        "description": "Activa solo en destino",
+        "after-arrive": "Al llegar"
+      },
+      "tab-title": "Compartir QR",
+      "give-label": {
+        "title": "Pon nombre a la eSIM"
+      },
+      "add-mobile-plan": {
+        "title": "Añadir plan móvil",
+        "description": "Ajustes > Servicio móvil > SIMs > Añadir eSIM"
+      }
+    },
+    "where-internet": "¿Dónde necesitas internet?",
+    "activate-button": "Activar",
+    "my-device-guide": {
+      "install": {
+        "title": "Instalar eSIM",
+        "description": "Instálala antes del viaje: con internet."
+      },
+      "activate": {
+        "title": "Activar eSIM",
+        "button": "Activar",
+        "description": "Activa solo en destino",
+        "after-arrive": "Al llegar"
+      },
+      "tab-title": "Mi dispositivo",
+      "install-profile": {
+        "title": "Instala el perfil eSIM",
+        "button": "Instalación 1 toque",
+        "description": "Toca \"Instalar mi perfil eSIM\" y permite acceso"
+      },
+      "android-link-info": "Para otros Android"
+    },
+    "turn-on-roaming": "Activa roaming de datos",
+    "after-you-arrive": "Al llegar",
+    "before-you-leave": "Antes de salir",
+    "rename-placeholder": "Renombrar eSIM",
+    "install-description": "Instálala antes del viaje: con internet.",
+    "steps-after-arrival": "Estos pasos son solo tras llegar e instalar tu eSIM.",
+    "activate-description": "Activa solo en destino"
+  },
+  "home": {
+    "show-popup": "Mostrar popup",
+    "show-banner": "Mostrar banner"
+  },
+  "next": "Siguiente",
+  "save": "Guardar",
+  "calls": {
+    "messages": {
+      "empty-desc": "Inicia un chat y verás tus mensajes aquí.",
+      "empty-title": "Aún no hay mensajes",
+      "screen-title": "Mensajes",
+      "message-input-preview": "Te envió un mensaje"
+    },
+    "contact-options": {
+      "wifi": "Wi‑Fi/Datos",
+      "locked": "Bloqueado",
+      "callback": "Callback",
+      "wifi-desc": "Usa internet",
+      "local-number": "Número local",
+      "callback-desc": "No usa minutos",
+      "local-number-desc": "No usa minutos"
+    },
+    "recent-calls-screen-title": "Recientes",
+    "contacts-list-screen-title": "Contactos",
+    "contacts-search-placeholder": "Buscar contactos",
+    "undefined-phone-numbers-desc": "* guarda el número en formato internacional."
+  },
+  "esims": {
+    "title": "eSIM de datos",
+    "tab-esims": "Mis eSIM",
+    "tab-local": "Local",
+    "tab-global": "Global",
+    "tab-regional": "Regional",
+    "all-countries": "Todos los países",
+    "countries-list": "Buscar",
+    "popular-countries": "Destinos populares",
+    "search-placeholder": "Buscar"
+  },
+  "hello": "Hola",
+  "choose": "Elegir",
+  "common": {
+    "me": "Yo",
+    "days": "días",
+    "info": "Info",
+    "save": "Guardar",
+    "agent": "Agente",
+    "error": "Error",
+    "month": "mes",
+    "reply": "Responder",
+    "unltd": "Ilimit.",
+    "change": "Cambiar",
+    "extend": "Extender",
+    "months": "meses",
+    "search": "Buscar",
+    "expires": "Vence",
+    "continue": "Continuar",
+    "counties": "países",
+    "earnings": "Ganancias",
+    "my-esims": "Mis eSIM",
+    "one-year": "1 año",
+    "one-month": "1 mes",
+    "best-value": "Mejor valor",
+    "my-prepaid": "Mi prepago",
+    "six-months": "6 meses",
+    "verify-now": "Verifica ya",
+    "call-credit": "Crédito voz",
+    "my-products": "Mis productos",
+    "offer-rates": "Tarifas promo",
+    "call-goes-to": "Llamada va a",
+    "data-balance": "Saldo datos",
+    "july-01-2025": "01 jul, 2025",
+    "my-recharges": "Mis recargas",
+    "phone-number": "Núm. teléfono",
+    "receptionist": "Recepcionista",
+    "three-months": "3 meses",
+    "phone-numbers": "Números",
+    "twelve-months": "12 meses",
+    "august-01-2025": "01 ago, 2025",
+    "popular-numbers": "Números populares",
+    "my-phone-numbers": "Mis números",
+    "terms-of-service": "Términos de uso",
+    "upload-documents": "Subir documentos",
+    "start-earning-now": "Regístrate y gana",
+    "invite-friends-now": "Invita amigos ya",
+    "describe-your-issue": "Describe tu problema",
+    "refer-and-earn-desc": "Dales $3 en DATA eSIM",
+    "call-credit-required": "Requiere crédito voz",
+    "refer-and-earn-title": "Invita y gana",
+    "verify-your-identity": "Verifica tu identidad",
+    "call-credit-required-note": "Nota: Requiere crédito voz para llamar y para recibir en números... El uso depende del destino y el enrutado.",
+    "verify-your-identity-desc": "Por seguridad, completa KYC para obtener tu número. Servicio seguro y sin cortes."
+  },
+  "delete": "Eliminar",
+  "gender": {
+    "male": "Hombre",
+    "female": "Mujer"
+  },
+  "id_doc": "Documento de ID",
+  "months": {
+    "may": "Mayo",
+    "july": "Julio",
+    "june": "Junio",
+    "april": "Abril",
+    "march": "Marzo",
+    "august": "Agosto",
+    "january": "Enero",
+    "october": "Octubre",
+    "december": "Diciembre",
+    "february": "Febrero",
+    "november": "Noviembre",
+    "september": "Septiembre"
+  }
+}

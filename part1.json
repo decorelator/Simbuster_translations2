@@ -1,0 +1,502 @@
+{
+    "faq": {
+        "title": "FAQ"
+    },
+    "ivr": {
+        "menu": "Menu",
+        "plan": {
+            "ivr-2": {
+                "top-label": "Choose who answers → x2"
+            },
+            "ivr-3": {
+                "top-label": "Send calls to app, phone, or AI → x3"
+            },
+            "messages": {
+                "footer1": "No answer →",
+                "footer2": "send to  Voicemail",
+                "footer3": "Outside working hours → ",
+                "footer4": "away message",
+                "footer5": "No answer → send to",
+                "footer6": "Voicemail",
+                "message1": "Someone is calling you",
+                "message2": "Tell {avatar_name} what to say\nwhen someone calls",
+                "message3": "Call is sent directly\nto your app or phone\n→ you decide",
+                "message4": "During working hours",
+                "message5": "press 1 for sales, 2 for\nsupport → you decide",
+                "message6": "choose where each option\ngoes → app, phone, teammate",
+                "message7": "press 1 for sales, 2 for\nsupport, 3 for tech → you decide",
+                "message8": "choose → where each option\ngoes → app, phone, voice assistant"
+            },
+            "direct-route": {
+                "top-label": "Answer calls with a message → Me"
+            }
+        },
+        "step1": {
+            "cta": "Generate audio",
+            "desc": "Here’s what it sounds like..",
+            "title": "Welcome message",
+            "title2": "Preview message",
+            "input-label": "What should callers hear?",
+            "input-placeholder": "eg: Thanks for calling [Name]..."
+        },
+        "step2": {
+            "cta": "Generate audio",
+            "for": "for",
+            "desc": "Here’s what it sounds like...",
+            "title1": "My menu",
+            "title2": "Preview menu",
+            "press-1": "Press",
+            "inputs-label": "Options heard by the caller...",
+            "input2-placeholder": "eg: Support, Reception....",
+            "input-placeholder-1": "eg: Sales",
+            "input-placeholder-2": "eg: Billing...",
+            "input-placeholder-3": "eg: Support..."
+        },
+        "step3": {
+            "desc": "When someone presses {{0}}, call goes to...",
+            "desc2": "Someone presses 1 or 2 call goes to...",
+            "email": "Email",
+            "phone": "Phone",
+            "title": "Who gets the call?",
+            "option": "Option",
+            "no-bots": "Not available",
+            "option1": "A Simbuster User",
+            "option2": "Phone number",
+            "option3": "Me (Select)",
+            "option4": "AI Assistant",
+            "email-placeholder": "SimBuster user email",
+            "phone-placeholder": "number (starting with +)"
+        },
+        "step4": {
+            "desc": "Here’s what it sounds like...",
+            "title": "Settings",
+            "weekdays": {
+                "friday": "Friday",
+                "monday": "Monday",
+                "sunday": "Sunday",
+                "tuesday": "Tuesday",
+                "saturday": "Saturday",
+                "thursday": "Thursday",
+                "wednesday": "Wednesday"
+            },
+            "days-label": "Which days do you work?",
+            "hours-label": "When are you open for calls?",
+            "input-label": "What should we say after hours?",
+            "input2-label": "What should we call this phone line?",
+            "switch-label": "Voicemail to email",
+            "phone-line-name": "Welcome",
+            "name-placeholder": "Name your reception",
+            "input-placeholder": "Sorry, we are closed right now. Please leave a message.",
+            "input2-placeholder": "Name your reception"
+        },
+        "tab-all": "All",
+        "welcome": "Welcome",
+        "ivr-info": {
+            "menu": "Menu",
+            "welcome": "Welcome",
+            "transfer": "Transfer",
+            "test-line": "Test this phone line",
+            "add-number": "Add number",
+            "change-option": "Change option",
+            "leave-message": "Leave a message",
+            "opening-hours": "Opening hours",
+            "test-line-desc": "Use carrier minutes to test line",
+            "assigned-numbers": "Assigned Numbers",
+            "day-selector-label": "Which days do you work?",
+            "time-selector-label": "When are you open for calls?",
+            "location-selector-label": "Where are you located?"
+        },
+        "plan-cta": "Set this up now",
+        "tab-male": "Male",
+        "transfer": "Transfer",
+        "completed": {
+            "cta": "Slide to build",
+            "desc": "Let’s build your reception now...",
+            "title": "You are all set!"
+        },
+        "doc-guide": "Doc Guide",
+        "submit-cta": "Build my reception",
+        "tab-female": "Female",
+        "generalError": "An error occurred",
+        "header-tab-1": "Get started",
+        "header-tab-2": "My Reception",
+        "info-banners": {
+            "puzzle": {
+                "desc": "Step by Step",
+                "title": "Build guide"
+            },
+            "credits": {
+                "title": "Speech Credit"
+            },
+            "tutorial": {
+                "desc": "Watch video",
+                "title": "Tutorial"
+            },
+            "how-to-hire": {
+                "desc": "step by step",
+                "title": "How to hire"
+            }
+        },
+        "my-reception": {
+            "no-reception-title": "No Reception Setup",
+            "no-reception-button": "Build the reception"
+        },
+        "num-profiles": "+{{0}} profiles",
+        "screen-title": "Receptionist",
+        "leave-message": "Leave a message",
+        "opening-hours": "Opening hours",
+        "textFieldError": "Text field error",
+        "assigned-numbers": "Assigned Numbers",
+        "build-guide-data": {
+            "title": "Build guide",
+            "header": "Choose a Receptionist call setup",
+            "puzzle": {
+                "title": "Menu Options (Puzzle)",
+                "details": {
+                    "steps": {
+                        "title-1": "Choose your Receptionist",
+                        "title-2": "Build with Puzzle blocks",
+                        "title-3": "Decide Who Gets the Calls",
+                        "title-4": "Reception is live on your phone line",
+                        "description-1": "Start by picking the voice your callers will hear",
+                        "description-2": "Drag blocks into place to build your reception. It’s as easy as snapping a puzzle.",
+                        "description-3": "Set where each option goes – to yourself, a teammate, or any other number",
+                        "description-4": "Go live. Your new reception is ready to take calls!"
+                    },
+                    "title": "Menu Options Guide"
+                },
+                "buttonTitle": "Puzzle Builder Guide",
+                "description": "Let callers press 1, 2, or 3 to reach teammates, phones, or AI: build your own flow."
+            },
+            "simple": {
+                "title": "Just Me (Basic)",
+                "details": {
+                    "steps": {
+                        "title-1": "Greeting message",
+                        "title-2": "Call target",
+                        "title-3": "Name your Reception",
+                        "description-1": "What should callers hear when they call you?",
+                        "description-2": "Where should the call go?",
+                        "description-3": "Give this setup a name"
+                    },
+                    "title": "Basic Setup Guide"
+                },
+                "buttonTitle": "Basic Setup Guide",
+                "description": "Play a greeting and send all calls directly to you: fast and simple."
+            },
+            "change-later": "You can always change or customize your flow later",
+            "build-my-reception": "Build my Reception"
+        },
+        "create-reception": "Create Reception",
+        "number-selection": {
+            "desc": "you need a number for your reception",
+            "desc-2": "Which number should people call?",
+            "screen-title": "Get a number",
+            "screen-title-2": "Choose a number",
+            "get-free-number": "Get a free number",
+            "get-phone-number": "Get a phone number"
+        },
+        "delete-phone-desc": "The number will be deleted from this line but you will still receive calls",
+        "onboarding-step-1": "Drag puzzle block to right spot",
+        "onboarding-step-2": "Take a block from here",
+        "perfect-voice-cta": "Find your perfect voice",
+        "textFieldRequired": "The text field is required.",
+        "textNotEnoughCredit": "Not Enough TTS Credit",
+        "language-placeholder": "All languages",
+        "choose-call-setup-modal": {
+            "desc": "How calls should be handled?",
+            "title": "Choose a call setup",
+            "basic-row": {
+                "desc": "Greet callers and send\ncalls to me",
+                "title": "Just Me (Basic)"
+            },
+            "puzzle-row": {
+                "desc": "Callers press 1, 2, or 3 to\nreach someone",
+                "title": "Menu Options (Puzzle)"
+            }
+        },
+        "voice-language-mismatch": {
+            "cta": "Change voice",
+            "desc": "The voice you selected is not available in your language. Please select a different voice.",
+            "title": "Voice Language Mismatch"
+        },
+        "build-reception-tutorial": {
+            "desc1": "Start by picking the voice your callers will hear",
+            "desc2": "Drag blocks into place to build your reception. It’s as easy as snapping a puzzle.",
+            "desc3": "Set where each option goes – to yourself, a teammate, or any other number",
+            "desc4": "Start by picking the voice your callers will hear",
+            "title1": "Choose your Receptionist",
+            "title2": "Build with Puzzle blocks",
+            "title3": "Decide Who Gets the Calls",
+            "title4": "Reception is live on your phone line"
+        },
+        "country-selection-screen-title": "Available countries"
+    },
+    "auth": {
+        "otp": {
+            "desc": "Sent to ",
+            "title": "Enter Code",
+            "resend-cta": "Resend",
+            "continue-login-cta": "Login",
+            "continue-signup-cta": "Sign up"
+        },
+        "login": {
+            "title": "Login",
+            "input-label": "Email",
+            "input-placeholder": "Enter your email"
+        },
+        "signup": {
+            "title": "Sign Up",
+            "email-label": "Email",
+            "continue-cta": "Continue",
+            "full-name-label": "Full Name",
+            "email-placeholder": "Enter your email",
+            "country-picker-label": "Country",
+            "full-name-placeholder": "Full Name"
+        }
+    },
+    "back": "Back",
+    "chat": {
+        "enter-message": "Enter message",
+        "meeting-tomorrow": "How about the meeting tomorrow?"
+    },
+    "esim": {
+        "info": "Info",
+        "guide": "Guide",
+        "terms": "Terms",
+        "how-to": "How to?",
+        "warning": "Warning! Most eSIMs can only be installed once. If you remove eSim from your device, you cannot install it again.",
+        "data-esim": "Data eSim",
+        "guide-steps": {
+            "pay": {
+                "title": "Pay",
+                "description": "Checkout. eSIM issued instantly."
+            },
+            "install": {
+                "title": "Install (on Wi-Fi, before you leave)"
+            },
+            "pick-plan": {
+                "title": "Pick plan",
+                "description": "Choose data + days. No contract."
+            },
+            "give-label": {
+                "title": "Give label to new eSIM",
+                "description": "Settings → Cellular/Mobile → rename to Simbuster"
+            },
+            "on-arrival": {
+                "title": "On arrival: use for data",
+                "description": "Set Mobile Data = Trip eSIM and Data Roaming ON.\n(iPhone: Settings → Mobile Data. Android:\nSettings → Network → SIMs.)\n"
+            },
+            "monitor-usage": {
+                "title": "Monitor usage & Add bundles anytime"
+            },
+            "choose-destination": {
+                "title": "Choose destination",
+                "description": "Select country/region"
+            }
+        },
+        "mobile-data": "Mobile Data",
+        "rename-esim": "How do you want to call this eSim?",
+        "select-esim": "Select eSIM for Mobile Data",
+        "watch-video": "Watch video",
+        "install-esim": "Install eSim",
+        "manual-guide": {
+            "activate": {
+                "title": "Activate eSim",
+                "button": "Activate",
+                "description": "Activate only at your destination",
+                "after-arrive": "After you arrive"
+            },
+            "tab-title": "Manual",
+            "give-label": {
+                "title": "Give label to new eSIM"
+            },
+            "add-mobile-plan": {
+                "title": "Add Mobile Plan",
+                "description": "Settings > Mobile Service > Add eSIM"
+            },
+            "enter-activation-code": {
+                "title": "Enter the Activation Code",
+                "sm-dp-address": "SM-DP+Address",
+                "activation-code": "Activation code"
+            }
+        },
+        "step-by-step": "step by step",
+        "activate-esim": "Activate eSim",
+        "install-guide": {
+            "warning": "Warning! Most eSIMs can only be installed once. If you remove eSim from your device, you cannot install it again.",
+            "not-working": "Not working? If there is a network issue, turn on Flight Mode for 10 seconds. The connection may take up to 10 minutes.",
+            "installed-success": "Your SimBuster eSim is installed!",
+            "completed-correctly": "If you have completed all the steps correctly.",
+            "guide-available-offline": "Don't worry, this guide will be available offline.",
+            "steps-after-arrival-info": "These steps are only after arriving at your destination and installing your eSIM."
+        },
+        "install-title": "Install my eSim",
+        "activate-title": "Activate eSim",
+        "install-button": "Install",
+        "share-qr-guide": {
+            "scan-qr": {
+                "title": "Scan the QR code"
+            },
+            "send-qr": {
+                "title": "Send QR Code to another device or PC",
+                "button": "Send QR Code",
+                "share-message": "Send QR Code"
+            },
+            "activate": {
+                "title": "Activate eSim",
+                "button": "Activate",
+                "description": "Activate only at your destination",
+                "after-arrive": "After you arrive"
+            },
+            "tab-title": "Share QR",
+            "give-label": {
+                "title": "Give label to new eSIM"
+            },
+            "add-mobile-plan": {
+                "title": "Add mobile plan",
+                "description": "Settings > Mobile Service > SIMs  >  Add eSIM"
+            }
+        },
+        "where-internet": "Where do you need Internet?",
+        "activate-button": "Activate",
+        "my-device-guide": {
+            "install": {
+                "title": "Install eSim",
+                "description": "Install it before your trip -  make sure you have an internet connection."
+            },
+            "activate": {
+                "title": "Activate eSim",
+                "button": "Activate",
+                "description": "Activate only at your destination",
+                "after-arrive": "After you arrive"
+            },
+            "tab-title": "My Device",
+            "install-profile": {
+                "title": "Install the eSim profile",
+                "button": "One-click Install",
+                "description": "Tap \"Install my eSIM profile\" and allow access to profiles"
+            },
+            "android-link-info": "For other Android models"
+        },
+        "turn-on-roaming": "Turn on Data Roaming",
+        "after-you-arrive": "After you arrive",
+        "before-you-leave": "Before you leave",
+        "rename-placeholder": "Rename eSim",
+        "install-description": "Install it before your trip -  make sure you have an internet connection.",
+        "steps-after-arrival": "These steps are only after arriving at your destination and installing your eSIM.",
+        "activate-description": "Activate only at your destination"
+    },
+    "home": {
+        "show-popup": "Show popup",
+        "show-banner": "Show banner"
+    },
+    "next": "Next",
+    "save": "Save",
+    "calls": {
+        "messages": {
+            "empty-desc": "Start a new conversation to see your messages here. Once you do, they’ll appear in this space.",
+            "empty-title": "No Messages Yet",
+            "screen-title": "Messages",
+            "message-input-preview": "Sent you a message"
+        },
+        "contact-options": {
+            "wifi": "Wi-Fi/Mobile",
+            "locked": "Locked",
+            "callback": "Callback",
+            "wifi-desc": "Uses internet",
+            "local-number": "Local number",
+            "callback-desc": "No minutes used",
+            "local-number-desc": "No minutes used"
+        },
+        "recent-calls-screen-title": "Recent",
+        "contacts-list-screen-title": "Contacts",
+        "contacts-search-placeholder": "Search contacts",
+        "undefined-phone-numbers-desc": "* save number in its international format."
+    },
+    "esims": {
+        "title": "Data eSIMs",
+        "tab-esims": "My Esims",
+        "tab-local": "Local",
+        "tab-global": "Global",
+        "tab-regional": "Regional",
+        "all-countries": "All Countries",
+        "countries-list": "Search",
+        "popular-countries": "Popular destinations",
+        "search-placeholder": "Search"
+    },
+    "hello": "Hello",
+    "choose": "Choose",
+    "common": {
+        "me": "Me",
+        "days": "days",
+        "info": "Info",
+        "save": "Save",
+        "agent": "Agent",
+        "error": "Error",
+        "month": "month",
+        "reply": "Reply",
+        "unltd": "Unltd",
+        "change": "Change",
+        "extend": "Extend",
+        "months": "months",
+        "search": "Search",
+        "expires": "Expires",
+        "continue": "Continue",
+        "counties": "countries",
+        "earnings": "Earnings",
+        "my-esims": "My eSIMs",
+        "one-year": "1 year",
+        "one-month": "1 month",
+        "best-value": "Best value",
+        "my-prepaid": "My Prepaid",
+        "six-months": "6 months",
+        "verify-now": "Verify now",
+        "call-credit": "Call credit",
+        "my-products": "My Products",
+        "offer-rates": "Offer rates",
+        "call-goes-to": "Call goes to",
+        "data-balance": "Data balance",
+        "july-01-2025": "01 Jul, 2025",
+        "my-recharges": "My Recharges",
+        "phone-number": "Phone Number",
+        "receptionist": "Receptionist",
+        "three-months": "3 months",
+        "phone-numbers": "Phone Numbers",
+        "twelve-months": "12 months",
+        "august-01-2025": "01 Aug, 2025",
+        "popular-numbers": "Popular Numbers",
+        "my-phone-numbers": "My Phone Numbers",
+        "terms-of-service": "Terms of service",
+        "upload-documents": "Upload documents",
+        "start-earning-now": "Sign Up & Start Earning",
+        "invite-friends-now": "Invite Friends Now",
+        "describe-your-issue": "Describe your issue",
+        "refer-and-earn-desc": "Get friends $3 on eSIM DATA",
+        "call-credit-required": "Call credit required",
+        "refer-and-earn-title": "Refer and Earn",
+        "verify-your-identity": "Verify Your Identity",
+        "call-credit-required-note": "Note: Call credit is required for making outbound calls and for receiving calls on toll-free and paid virtual numbers. Credit usage depends on destination and routing type.",
+        "verify-your-identity-desc": "For security reasons, please complete KYC verification to get your number. This ensures safe and seamless service."
+    },
+    "delete": "Delete",
+    "gender": {
+        "male": "Male",
+        "female": "Female"
+    },
+    "id_doc": "ID document",
+    "months": {
+        "may": "May",
+        "july": "July",
+        "june": "June",
+        "april": "April",
+        "march": "March",
+        "august": "August",
+        "january": "January",
+        "october": "October",
+        "december": "December",
+        "february": "February",
+        "november": "November",
+        "september": "September"
+    }
+}
