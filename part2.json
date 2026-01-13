@@ -1,0 +1,528 @@
+{
+        "search": "Search",
+    "my-esim": {
+        "tab-current": "Current",
+        "tab-expired": "Expired",
+        "screen-title": "My Esim"
+    },
+    "payment": {
+        "plan-fail-modal": {
+            "cta": "Try Again",
+            "desc": "Your plan was not added",
+            "title": "Failed"
+        },
+        "plan-success-modal": {
+            "cta": "Go to Dashboard",
+            "desc": "Your plan was successfully added",
+            "title": "Plan Added"
+        }
+    },
+    "profile": {
+        "id": "10000038",
+        "email": "demo@simbuster.com",
+        "title": "Profile",
+        "refer-earn": "Refer & Earn",
+        "terms-of-use": "Terms of Use",
+        "video-guides": "Video Guides",
+        "delete-account": "Delete Account",
+        "privacy-policy": "Privacy Policy",
+        "restore-purchases": "Restore Purchases"
+    },
+    "screens": {
+        "sms": {
+            "get-mobile-number": "Get a mobile number",
+            "select-sender-number": "Select sender number",
+            "get-mobile-number-button": "Get mobile number",
+            "you-need-one-to-send-sms": "You need one to send SMS",
+            "can-only-text-same-country": "Can only text same country contacts"
+        },
+        "back": "Back",
+        "esim": {
+            "otp": "OTP",
+            "terms": {
+                "content": "By continuing, you agree to our Terms of Service and Privacy Policy. It’s your responsibility to confirm your device supports eSim and the selected plan/region. Refunds are guaranteed if eSim is unused or your travel plans change. No refunds once the eSim is activated.",
+                "terms-replace": "Terms of Service",
+                "privacy-replace": "Privacy Policy"
+            },
+            "network": "Network",
+            "buy-esims": "Buy eSIMs",
+            "data-only": "Data Only",
+            "mobile-data": "Mobile Data",
+            "plans-terms": "This e-sim is for travellers to the United States. The coverage applies to all 50 states of United States.'",
+            "rename-esim": "Rename eSim",
+            "top-up-data": "Top-up data",
+            "usage-terms": "This e-sim is for travellers to the United States. The coverage applies to all 50 states of United States.'",
+            "save-changes": "Save changes",
+            "prices-up-to-60": "Prices up to 60% lower then other competitors.",
+            "show-archived-esims": "Show archived eSims",
+            "rename-esim-description": "How do you want to call this eSim?",
+            "plan-details-network-desc": "The network choice and speed of connection may vay based on location."
+        },
+        "fail": "FAIL",
+        "info": "Info",
+        "keep": "Keep",
+        "save": "Save",
+        "clear": "Clear",
+        "esims": "eSims",
+        "guide": "Guide",
+        "retry": "Retry",
+        "terms": "Terms",
+        "alerts": {
+            "error": "Error",
+            "purchase-error": "Purchase Error",
+            "purchase-failed": "Purchase failed",
+            "failed-to-purchase": "Failed to purchase product",
+            "product-not-available": "Product Not Available"
+        },
+        "fulfil": "Fulfil",
+        "how-to": "How to?",
+        "rename": "Rename",
+        "search": "Search",
+        "archive": "Archive",
+        "collect": "Collect",
+        "credits": {
+            "no-expiry": "No Expiry",
+            "sms-credit": "Sms Credit",
+            "terms-of-use": "Terms of Use",
+            "speech-credit": "Speech Credit",
+            "buster-minutes": "Buster Minutes"
+        },
+        "go-back": "Go back",
+        "payment": {
+            "cvv": "CVV",
+            "mm-yyyy": "MM/YYYY",
+            "month-mm": "Month (MM)",
+            "year-yyyy": "Year (YYYY)",
+            "card-number": "Card Number",
+            "checkout-id": "Checkout ID",
+            "card-payment": "Card Payment",
+            "pay-with-card": "Pay with Card",
+            "cardholder-name": "Cardholder Name",
+            "initialize-payment": "Initialize Payment",
+            "pay-with-apple-pay": "Pay with Apple Pay",
+            "pay-with-google-pay": "Pay with Google Pay",
+            "generate-test-checkout-id": "Generate test Checkout ID"
+        },
+        "port-in": "Port In",
+        "prepare": "Prepare",
+        "success": "SUCCESS",
+        "surveys": "Surveys",
+        "warning": "Warning!",
+        "you-won": "You won",
+        "youtube": "Youtube",
+        "continue": "Continue",
+        "earnings": "Earnings",
+        "my-plans": "My plans",
+        "no-esims": "No eSIMs",
+        "port-out": "Port Out",
+        "withdraw": "Withdraw",
+        "scan-card": "Scan card",
+        "try-again": "Try again",
+        "unarchive": "Unarchive",
+        "hot-offers": "Hot offers",
+        "promo-code": "Promo code",
+        "show-popup": "Show popup",
+        "sip-config": "SIP Config",
+        "sms-credit": "SMS Credit",
+        "switch-off": "Switch off",
+        "validation": {
+            "cvv-invalid": "CVV must contain only digits",
+            "card-number-invalid": "Card number must be between 13 and 19 digits",
+            "expiry-date-invalid": "Expiry date must be in MM/YYYY format",
+            "card-number-required": "Card number is required",
+            "expiry-date-required": "Expiry date is required",
+            "business-name-required": "Business name is required",
+            "business-name-too-long": "Business name is too long",
+            "language-accent-required": "Language/accent is required",
+            "communication-style-required": "Communication style is required",
+            "business-description-required": "Business description is required",
+            "business-description-too-long": "Business description is too long"
+        },
+        "call-credit": "Call Credit",
+        "collect-big": "Collect Big",
+        "detect-esim": "Detect eSIM",
+        "new-message": "New Message",
+        "reward-zone": "Reward Zone",
+        "show-banner": "Show banner",
+        "transfer-in": "Transfer In",
+        "voip-config": "Voip Config",
+        "watch-video": "Watch video",
+        "ai-assistant": {
+            "bot": "Bot",
+            "help": "Help"
+        },
+        "archive-esim": "Archive eSim",
+        "are-you-sure": "Are you sure?",
+        "no-codes-yet": "No Codes yet",
+        "payment-test": "Payment Test",
+        "step-by-step": "Step by step",
+        "terms-of-use": "Terms of use",
+        "transfer-out": "Transfer Out",
+        "video-guides": "Video Guides",
+        "voice-credit": "Speech Credit",
+        "activate-esim": "Activate eSim",
+        "calling-plans": "Plans",
+        "cancel-number": "Cancel number",
+        "collect-coins": {
+            "claim": "Claim",
+            "title": "Collect Coins",
+            "redeem": "Redeem",
+            "surveys": "Surveys",
+            "spin-now": "Spin now",
+            "use-coins": "Use your coins to get this reward.",
+            "hot-offers": "Hot offers",
+            "collect-big": "Collect Big",
+            "two-minutes": "2 minutes",
+            "cannot-claim": "This reward cannot be claimed at the moment",
+            "coin-journey": "Coin journey",
+            "just-me-basic": "Just me (Basic)",
+            "daily-check-in": "Daily Check-in",
+            "slide-to-redeem": "Slid to redeem",
+            "try-again-later": "Try again later",
+            "offer-unavailable": "Offer unavailable",
+            "confirm-redemption": "Confirm Redemption",
+            "use-coins-to-get-reward": "Use your coins to get this reward.",
+            "watch-ads-to-collect-coins": "Watch ads to collect coins",
+            "watch-videos-to-collect-coins": "Watch videos to collect coins"
+        },
+        "enter-message": "Enter message",
+        "excluding-tax": "Excluding Tax",
+        "mobile-top-up": "Mobile Top-up",
+        "phone-numbers": "Phone Numbers",
+        "prepaid-codes": "Prepaid Codes",
+        "sms-countries": "SMS countries",
+        "archived-esims": "Archived eSims",
+        "esim-detection": "Esim detection",
+        "no-numbers-yet": "No numbers yet",
+        "show-animation": "Show show_animation",
+        "copy-push-token": "Copy push token",
+        "get-free-number": "Get free number",
+        "install-my-esim": "Install my eSim",
+        "try-again-later": "Try again later",
+        "call-transcripts": "Call Transcripts",
+        "enter-promo-code": "Enter your promo code",
+        "get-prepaid-code": "Get a Prepaid Code",
+        "network-degraded": "Network degraded",
+        "number-activated": "Number Activated!",
+        "clear-all-history": "Clear all history?",
+        "country-of-region": "Country of region",
+        "offer-unavailable": "Offer unavailable",
+        "payment-simulator": "Payment Simulator",
+        "promo-code-button": "PROMO CODE",
+        "rename-number-tag": "Rename number tag",
+        "ai-assistant-title": "AI Assistant",
+        "build-my-reception": "Build my Reception",
+        "clear-recent-calls": "Clear recent calls",
+        "how-to-call-number": "How do you want to call this number?",
+        "no-plans-available": "No Plans Available",
+        "required-documents": "Required documents",
+        "show-fullscreen-ad": "Show fullscreen_ad",
+        "subscription-terms": "Subscription Terms",
+        "we-need-these-docs": "We need these docs",
+        "dont-renew-manually": "If you don't renew manually, this number will be cancelled and may be lost.",
+        "local-calling-plans": "Local Calling Plans",
+        "see-recharge-status": "See recharge status",
+        "where-need-internet": "Where do you need Internet?",
+        "nomupay-payment-test": "Nomupay Payment test",
+        "terms-and-conditions": "Terms & Conditions",
+        "will-delete-call-logs": "This will delete your recent call logs",
+        "esim-will-be-available": "This eSim will be available in your archive",
+        "action-cannot-be-undone": "This action cannot be undone. The number will stop working and may be lost permanently.",
+        "disabling-smart-calling": "Disabling Smart Calling may cost more. Local calling plans won't be used.",
+        "reward-cannot-be-claimed": "This reward cannot be claimed at the moment",
+        "go-to-esim-activation-guide": "Go to eSim Activation Guide",
+        "switch-off-automatic-renewal": "Switch off Automatic Renewal?",
+        "number-successfully-purchased": "Your number has been successfully purchased and is ready to use.",
+        "share-your-link-to-start-earning": "Share Your Link to Start Earning"
+    },
+    "support": {
+        "faq": "FAQ",
+        "tab1": "Help & Contact",
+        "tab2": "My Requests",
+        "agent": "AGENT",
+        "links": {
+            "cant_buy": "Can't buy eSIM number",
+            "bad_voice": "Poor voice quality",
+            "cant_hear": "Can't hear anything",
+            "no_credit": "No credit added",
+            "cant_recharge": "Not able to recharge",
+            "no_calls_esim": "Not receiving calls on my eSIM",
+            "cant_see_number": "People can't see my number",
+            "esim_not_renewed": "eSIM not renewed automatically",
+            "dailing_not_ringing": "Dialing but not ringing"
+        },
+        "titles": {
+            "title1": "Hello!",
+            "title2": "How can we help you?"
+        },
+        "cta-title": "Submit a Request",
+        "empty-desc": "Need help? Submit a request.\nWe are here to help!",
+        "empty-title": "No Requests yet",
+        "screen-title": "Support",
+        "submit-request": "Submit a Request",
+        "contact-support": "Contact Support",
+        "onboarding-flow": "Onboarding flow – tasks related to user onboarding…",
+        "partner-with-us": "Partner with us",
+        "whatsapp-support": "WhatsApp Support",
+        "content-not-available": "Some content isn't available yet",
+        "phone-number-info-needed": "Some info for phone number is needed"
+    },
+    "continue": "Continue",
+    "kyc-flow": {
+        "key-action-items": {
+            "cta": "Submit",
+            "title": "Verification",
+            "pending": "Pending",
+            "description": "Number will be ready after approval. Approximate time 1-2 business days.",
+            "info-banners": {
+                "how-to": {
+                    "title": "How to?",
+                    "subtext": "Video Guide"
+                },
+                "verification": {
+                    "title": "Verification",
+                    "subtext": "step by step"
+                }
+            },
+            "info-required": "Info Required",
+            "cta-processing": "Processing",
+            "identity-section": {
+                "title": "Identity",
+                "subtext": "Personal or Business"
+            },
+            "agreement-section": {
+                "title": "Agreement",
+                "subtext": "Signature"
+            },
+            "documents-section": {
+                "title": "Documents",
+                "subtext": "Upload"
+            },
+            "required-documents": {
+                "address": {
+                    "title": "Address",
+                    "default": "Address should match the number area code",
+                    "worldwide": "Any worldwide address acccepted"
+                },
+                "business": {
+                    "title": "Business",
+                    "certificate": "Incorporation certificate"
+                },
+                "personal": {
+                    "title": "Personal",
+                    "identity": "Passport number or national ID",
+                    "certificate": "Incorporation certificate",
+                    "utility-bill": "A recent utility bill (under 6 months)"
+                }
+            }
+        }
+    },
+    "settings": {
+        "title": "Settings",
+        "currency": "Currency",
+        "app-language": "App language",
+        "release-esim": "Release eSim",
+        "notifications": "Notifications",
+        "default-country": "Default country"
+    },
+    "sign-out": {
+        "title": "Sign out?",
+        "cancel": "Cancel",
+        "confirm": "Sign out",
+        "description": "You'll be logged out from this device. Are you sure you want to continue?"
+    },
+    "ai-credit": {
+        "terms": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    "countries": {
+        "screen-title": "Countries and network"
+    },
+    "dashboard": {
+        "refer": "Refer & Earn",
+        "banners": {
+            "banner_1": {
+                "cta": "Recharge now",
+                "title": "Running Low?",
+                "description": "Top-up in seconds"
+            },
+            "banner_2": {
+                "cta": "Try it",
+                "title": "New: AI Assistnat is Live",
+                "description": "Try the Receptionist"
+            },
+            "banner_3": {
+                "cta": "See plans",
+                "title": "Save Big on Global Calling",
+                "description": "Upto 70% off "
+            },
+            "banner_4": {
+                "cta": "Recharge now",
+                "title": "Running Low?",
+                "description": "Top-up in seconds "
+            },
+            "banner_5": {
+                "cta": "Choose now",
+                "title": "Need a Second Number?",
+                "description": "Mobile & Landline "
+            },
+            "banner_6": {
+                "cta": "View details",
+                "title": "Limited time deals",
+                "description": "Up to 90% off "
+            }
+        },
+        "support": "Support",
+        "mobile_data": "Data eSims",
+        "my_products": "My Products",
+        "ai_assistant": "AI Assistant",
+        "banner_cta_1": "Invite Now",
+        "banner_cta_2": "try it",
+        "banner_cta_3": "See Plans",
+        "calling_plan": "Plans & Bundles",
+        "coin_balance": "Coins",
+        "receptionist": "Receptionist",
+        "rewards_zone": "Rewards Zone",
+        "phone_numbers": "Phone Numbers",
+        "prepaid_codes": "Prepaid Codes",
+        "banner_label_1": "Refer and Earn",
+        "banner_label_2": "Refer & Earn",
+        "banner_label_3": "Refer and Earn",
+        "refer_and_earn": "Refer and Earn",
+        "special_offers": "Special Offers",
+        "wallet_balance": "Balance",
+        "mobile_recharge": "Mobile Recharge",
+        "banner_subtitle_1": "Get friends $3 on eSIM DATA",
+        "banner_subtitle_2": "Get friends $3 on eSIM DATA",
+        "banner_subtitle_3": "Get friends $3 on eSIM DATA"
+    },
+    "esim-card": {
+        "data": "Data",
+        "info": "Info",
+        "voice-plus": "Voice+"
+    },
+    "gift-card": {
+        "terms-of-use": "Terms of use",
+        "enjoy-message": "Enjoy your gift card!"
+    },
+    "components": {
+        "id": "ID",
+        "free": "Free",
+        "oops": "Oops!",
+        "copy-stack-trace": "Copy stack trace to clipboard",
+        "available-countries": "Available countries"
+    },
+    "issue-info": {
+        "title": "Issue Info",
+        "agent-message": "Just checking in to see if you had a chance to review the onboarding flow issue details. Please let me know if you have any questions or feedback. Thanks!"
+    },
+    "phone-book": {
+        "no-permission-cta": "Go to Settings",
+        "no-permission-desc1": "SimBuster can’t help you make cheap international/national calls without your contacts",
+        "no-permission-desc2": "Please allow access from below",
+        "no-permission-title": "You didn’t allow access to your address book",
+        "phone-number-placeholder": "enter number"
+    },
+    "refer-earn": {
+        "test": "Test",
+        "earn-tab": {
+            "faq": {
+                "step1": {
+                    "title": "Step 1",
+                    "description": "Share your referral link/code with your friends"
+                },
+                "step2": {
+                    "title": "Step 2",
+                    "description": "Your friend registers on SimBuster using your referrel link/code"
+                },
+                "step3": {
+                    "title": "Step 3",
+                    "description": "You earn when your friend makes a purchase on SimBuster."
+                },
+                "title": "FAQ"
+            },
+            "un-sign-in": {
+                "tip1": "Invite & Earn* from Purchases",
+                "tip2": "Track Your Earnings in App",
+                "tip3": "Withdraw Earnings to your Bank"
+            },
+            "how-it-works": {
+                "earn": {
+                    "title": "You earn every time they buy",
+                    "description": "Earnings add up as they keep purchasing on SimBuster."
+                },
+                "join": {
+                    "title": "They sign up & buy",
+                    "description": "Your friend signs up and buys a service."
+                },
+                "refer": {
+                    "title": "Share your link",
+                    "description": "Send your personal invite link to friends."
+                },
+                "title": "How it works"
+            },
+            "become-an-affiliate": "Become and Partner"
+        },
+        "earnings": "Earnings",
+        "withdraw": "Withdraw",
+        "share-link": "Share my link now",
+        "bank-details": "Enter your bank details and confirm",
+        "how-it-works": "How it works",
+        "screen-title": "Refer & Earn",
+        "whos-earning": "Who's Earning You Money",
+        "track-amounts": "Track amounts in-app",
+        "log-in-website": "Log in on our website",
+        "my-network-tab": {
+            "level": "Level",
+            "balance": "Balance",
+            "earnings": "Earnings",
+            "top-tab1": "My Referrals",
+            "top-tab2": "Refer & Earn",
+            "bottom-tab1": "My Progress",
+            "bottom-tab2": "Top Earners",
+            "my-team-tab": {
+                "label": "Level"
+            },
+            "balance-badge": {
+                "title": "Balance"
+            },
+            "steps-section": {
+                "step1": "Refer",
+                "step2": "Join",
+                "step3": "Earn"
+            },
+            "earnings-badge": {
+                "title": "Earnings"
+            },
+            "training-badge": {
+                "title": "Training",
+                "description": "school"
+            },
+            "tutorial-badge": {
+                "title": "Tutorial",
+                "description": "watch video"
+            },
+            "store-referal-link": "Store referal link",
+            "invite-button-label": "Share Your Link to Start Earning",
+            "unlock-to-start-earning": "Unlock to Start Earning",
+            "share-referral-link-label": "Share referral link"
+        },
+        "total-earnings": "Your Total Earnings",
+        "earn-every-time": "You earn every time they buy",
+        "earnings-wallet": "Go to the Earnings or Wallet section",
+        "share-your-link": "Share your link",
+        "share-link-start": "Share Your Link to Start Earning",
+        "share-my-link-now": "Share my link now",
+        "withdraw-securely": "Withdraw securely to Bank",
+        "earnings-generated": "Earnings are generated only from purchases made by referred users.",
+        "secure-withdrawals": "Secure Withdrawals",
+        "your-total-earnings": "Your Total Earnings",
+        "track-amounts-in-app": "Track amounts in-app",
+        "log-in-on-our-website": "Log in on our website",
+        "earnings-from-referrals": "Earnings from referral purchases",
+        "withdraw-securely-to-bank": "Withdraw securely to Bank",
+        "number-of-referrals-to-unlock": "more referrals to unlock",
+        "enter-bank-details-and-confirm": "Enter your bank details and confirm",
+        "earnings-from-referral-purchases": "Earnings from referral purchases",
+        "go-to-earnings-or-wallet-section": "Go to the Earnings or Wallet section"
+    }
+}
