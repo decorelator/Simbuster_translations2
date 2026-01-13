@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "project": "Simbuster_translations",
+    "version": "0.1.0",
+    "defaultLocale": "en"
+  },
+  "translations": {
+    "en": {
+      "greeting": "Hello",
+      "farewell": "Goodbye",
+      "welcome_message": "Welcome to Simbuster"
+    },
+    "es": {
+      "greeting": "Hola",
+      "farewell": "Adiós",
+      "welcome_message": "Bienvenido a Simbuster"
+    },
+    "fr": {
+      "greeting": "Bonjour",
+      "farewell": "Au revoir",
+      "welcome_message": "Bienvenue sur Simbuster"
+    }
+  }
+}
