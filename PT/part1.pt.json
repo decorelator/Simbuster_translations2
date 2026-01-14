@@ -1,0 +1,502 @@
+{
+    "faq": {
+        "title": "FAQ"
+    },
+    "ivr": {
+        "menu": "Menu",
+        "plan": {
+            "ivr-2": {
+                "top-label": "Escolha quem atende → x2"
+            },
+            "ivr-3": {
+                "top-label": "Enviar chamadas para app, telefone ou IA → x3"
+            },
+            "messages": {
+                "footer1": "Sem resposta →",
+                "footer2": "enviar para Voicemail",
+                "footer3": "Fora do horário → ",
+                "footer4": "mensagem de ausência",
+                "footer5": "Sem resposta → enviar para",
+                "footer6": "Voicemail",
+                "message1": "Alguém está a ligar-lhe",
+                "message2": "Diga a {avatar_name} o que dizer\nquando alguém ligar",
+                "message3": "A chamada é enviada diretamente\npara a sua app ou telefone\n→ decide você",
+                "message4": "Durante o horário de trabalho",
+                "message5": "prima 1 para vendas, 2 para\nsuporte → decide você",
+                "message6": "escolha para onde cada opção\nvai → app, telefone, colega",
+                "message7": "prima 1 para vendas, 2 para\nsuporte, 3 para técnico → decide você",
+                "message8": "escolha → para onde cada opção\nvai → app, telefone, assistente de voz"
+            },
+            "direct-route": {
+                "top-label": "Atender chamadas com mensagem → Eu"
+            }
+        },
+        "step1": {
+            "cta": "Gerar áudio",
+            "desc": "Eis como soa...",
+            "title": "Mensagem de boas-vindas",
+            "title2": "Pré-visualizar mensagem",
+            "input-label": "O que devem ouvir os chamadores?",
+            "input-placeholder": "ex.: Obrigado por ligar para [Nome]..."
+        },
+        "step2": {
+            "cta": "Gerar áudio",
+            "for": "para",
+            "desc": "Eis como soa...",
+            "title1": "O meu menu",
+            "title2": "Pré-visualizar menu",
+            "press-1": "Prima",
+            "inputs-label": "Opções ouvidas pelo chamador...",
+            "input2-placeholder": "ex.: Suporte, Receção...",
+            "input-placeholder-1": "ex.: Vendas",
+            "input-placeholder-2": "ex.: Faturação...",
+            "input-placeholder-3": "ex.: Suporte..."
+        },
+        "step3": {
+            "desc": "Quando alguém prime {{0}}, a chamada vai para...",
+            "desc2": "Alguém prime 1 ou 2, a chamada vai para...",
+            "email": "E-mail",
+            "phone": "Telefone",
+            "title": "Quem recebe a chamada?",
+            "option": "Opção",
+            "no-bots": "Indisponível",
+            "option1": "Um utilizador Simbuster",
+            "option2": "Número de telefone",
+            "option3": "Eu (Selecionar)",
+            "option4": "Assistente IA",
+            "email-placeholder": "E-mail do utilizador Simbuster",
+            "phone-placeholder": "número (a começar por +)"
+        },
+        "step4": {
+            "desc": "Eis como soa...",
+            "title": "Definições",
+            "weekdays": {
+                "friday": "Sexta-feira",
+                "monday": "Segunda-feira",
+                "sunday": "Domingo",
+                "tuesday": "Terça-feira",
+                "saturday": "Sábado",
+                "thursday": "Quinta-feira",
+                "wednesday": "Quarta-feira"
+            },
+            "days-label": "Que dias trabalha?",
+            "hours-label": "Quando está aberto para chamadas?",
+            "input-label": "O que devemos dizer fora do horário?",
+            "input2-label": "Como devemos chamar esta linha?",
+            "switch-label": "Voicemail para e-mail",
+            "phone-line-name": "Boas-vindas",
+            "name-placeholder": "Dê um nome à sua receção",
+            "input-placeholder": "Lamentamos, estamos encerrados. Deixe uma mensagem.",
+            "input2-placeholder": "Nomeie a sua receção"
+        },
+        "tab-all": "Todos",
+        "welcome": "Boas-vindas",
+        "ivr-info": {
+            "menu": "Menu",
+            "welcome": "Boas-vindas",
+            "transfer": "Transferir",
+            "test-line": "Testar esta linha",
+            "add-number": "Adicionar número",
+            "change-option": "Alterar opção",
+            "leave-message": "Deixar mensagem",
+            "opening-hours": "Horário de funcionamento",
+            "test-line-desc": "Use minutos do operador para testar a linha",
+            "assigned-numbers": "Números atribuídos",
+            "day-selector-label": "Que dias trabalha?",
+            "time-selector-label": "Quando está aberto para chamadas?",
+            "location-selector-label": "Onde está localizado?"
+        },
+        "plan-cta": "Configurar agora",
+        "tab-male": "Masculino",
+        "transfer": "Transferir",
+        "completed": {
+            "cta": "Deslize para criar",
+            "desc": "Vamos criar a sua receção agora...",
+            "title": "Está tudo pronto!"
+        },
+        "doc-guide": "Guia de documentos",
+        "submit-cta": "Criar a minha receção",
+        "tab-female": "Feminino",
+        "generalError": "Ocorreu um erro",
+        "header-tab-1": "Começar",
+        "header-tab-2": "A minha receção",
+        "info-banners": {
+            "puzzle": {
+                "desc": "Passo a passo",
+                "title": "Guia de criação"
+            },
+            "credits": {
+                "title": "Crédito de voz"
+            },
+            "tutorial": {
+                "desc": "Ver vídeo",
+                "title": "Tutorial"
+            },
+            "how-to-hire": {
+                "desc": "passo a passo",
+                "title": "Como contratar"
+            }
+        },
+        "my-reception": {
+            "no-reception-title": "Sem receção configurada",
+            "no-reception-button": "Criar receção"
+        },
+        "num-profiles": "+{{0}} perfis",
+        "screen-title": "Rececionista",
+        "leave-message": "Deixar mensagem",
+        "opening-hours": "Horário de funcionamento",
+        "textFieldError": "Erro no campo de texto",
+        "assigned-numbers": "Números atribuídos",
+        "build-guide-data": {
+            "title": "Guia de criação",
+            "header": "Escolha a configuração da rececionista",
+            "puzzle": {
+                "title": "Opções de menu (Puzzle)",
+                "details": {
+                    "steps": {
+                        "title-1": "Escolha a sua rececionista",
+                        "title-2": "Construa com blocos Puzzle",
+                        "title-3": "Decida quem recebe as chamadas",
+                        "title-4": "Receção ativa na sua linha",
+                        "description-1": "Comece por escolher a voz que os chamadores ouvirão",
+                        "description-2": "Arraste blocos para criar a sua receção. É tão simples como um puzzle.",
+                        "description-3": "Defina para onde vai cada opção – para si, um colega ou outro número",
+                        "description-4": "Ative. A sua nova receção está pronta a atender!"
+                    },
+                    "title": "Guia de opções de menu"
+                },
+                "buttonTitle": "Guia do construtor Puzzle",
+                "description": "Permita que os chamadores primam 1, 2 ou 3 para chegar a colegas, telefones ou IA."
+            },
+            "simple": {
+                "title": "Só eu (Básico)",
+                "details": {
+                    "steps": {
+                        "title-1": "Mensagem de saudação",
+                        "title-2": "Destino da chamada",
+                        "title-3": "Nomeie a sua receção",
+                        "description-1": "O que devem ouvir os chamadores?",
+                        "description-2": "Para onde deve ir a chamada?",
+                        "description-3": "Dê um nome a esta configuração"
+                    },
+                    "title": "Guia de configuração básica"
+                },
+                "buttonTitle": "Guia básico",
+                "description": "Reproduza uma saudação e envie todas as chamadas diretamente para si."
+            },
+            "change-later": "Pode alterar ou personalizar o fluxo mais tarde",
+            "build-my-reception": "Criar a minha receção"
+        },
+        "create-reception": "Criar receção",
+        "number-selection": {
+            "desc": "precisa de um número para a sua receção",
+            "desc-2": "Que número devem as pessoas ligar?",
+            "screen-title": "Obter um número",
+            "screen-title-2": "Escolher um número",
+            "get-free-number": "Obter número grátis",
+            "get-phone-number": "Obter um número"
+        },
+        "delete-phone-desc": "O número será removido desta linha, mas continuará a receber chamadas",
+        "onboarding-step-1": "Arraste o bloco puzzle para o local certo",
+        "onboarding-step-2": "Pegue num bloco aqui",
+        "perfect-voice-cta": "Encontre a voz perfeita",
+        "textFieldRequired": "O campo de texto é obrigatório.",
+        "textNotEnoughCredit": "Crédito TTS insuficiente",
+        "language-placeholder": "Todos os idiomas",
+        "choose-call-setup-modal": {
+            "desc": "Como devem ser tratadas as chamadas?",
+            "title": "Escolher configuração",
+            "basic-row": {
+                "desc": "Cumprimentar e enviar\nchamadas para mim",
+                "title": "Só eu (Básico)"
+            },
+            "puzzle-row": {
+                "desc": "Chamadores primem 1, 2 ou 3",
+                "title": "Opções de menu (Puzzle)"
+            }
+        },
+        "voice-language-mismatch": {
+            "cta": "Alterar voz",
+            "desc": "A voz selecionada não está disponível no seu idioma.",
+            "title": "Idioma da voz incompatível"
+        },
+        "build-reception-tutorial": {
+            "desc1": "Comece por escolher a voz",
+            "desc2": "Arraste blocos para criar a receção",
+            "desc3": "Defina para onde vai cada opção",
+            "desc4": "A receção fica ativa na linha",
+            "title1": "Escolha a rececionista",
+            "title2": "Construa com blocos Puzzle",
+            "title3": "Decida quem recebe as chamadas",
+            "title4": "Receção ativa"
+        },
+        "country-selection-screen-title": "Países disponíveis"
+    },
+    "auth": {
+        "otp": {
+            "desc": "Enviado para ",
+            "title": "Introduzir código",
+            "resend-cta": "Reenviar",
+            "continue-login-cta": "Entrar",
+            "continue-signup-cta": "Registar"
+        },
+        "login": {
+            "title": "Entrar",
+            "input-label": "E-mail",
+            "input-placeholder": "Introduza o seu e-mail"
+        },
+        "signup": {
+            "title": "Registar",
+            "email-label": "E-mail",
+            "continue-cta": "Continuar",
+            "full-name-label": "Nome completo",
+            "email-placeholder": "Introduza o seu e-mail",
+            "country-picker-label": "País",
+            "full-name-placeholder": "Nome completo"
+        }
+    },
+    "back": "Voltar",
+    "chat": {
+        "enter-message": "Introduzir mensagem",
+        "meeting-tomorrow": "Que tal a reunião amanhã?"
+    },
+    "esim": {
+        "info": "Info",
+        "guide": "Guia",
+        "terms": "Termos",
+        "how-to": "Como?",
+        "warning": "Aviso! A maioria dos eSIMs só pode ser instalada uma vez.",
+        "data-esim": "eSIM de dados",
+        "guide-steps": {
+            "pay": {
+                "title": "Pagar",
+                "description": "Checkout. eSIM emitido instantaneamente."
+            },
+            "install": {
+                "title": "Instalar (em Wi‑Fi, antes de sair)"
+            },
+            "pick-plan": {
+                "title": "Escolher plano",
+                "description": "Dados + dias. Sem contrato."
+            },
+            "give-label": {
+                "title": "Dar etiqueta ao novo eSIM",
+                "description": "Definições → Dados móveis → renomear para Simbuster"
+            },
+            "on-arrival": {
+                "title": "À chegada: usar dados",
+                "description": "Defina Dados móveis = eSIM de viagem e Roaming ligado."
+            },
+            "monitor-usage": {
+                "title": "Monitorizar uso e adicionar pacotes"
+            },
+            "choose-destination": {
+                "title": "Escolher destino",
+                "description": "Selecionar país/região"
+            }
+        },
+        "mobile-data": "Dados móveis",
+        "rename-esim": "Como quer chamar este eSIM?",
+        "select-esim": "Selecionar eSIM para dados móveis",
+        "watch-video": "Ver vídeo",
+        "install-esim": "Instalar eSIM",
+        "manual-guide": {
+            "activate": {
+                "title": "Ativar eSIM",
+                "button": "Ativar",
+                "description": "Ativar apenas no destino",
+                "after-arrive": "Após chegar"
+            },
+            "tab-title": "Manual",
+            "give-label": {
+                "title": "Dar etiqueta ao novo eSIM"
+            },
+            "add-mobile-plan": {
+                "title": "Adicionar plano móvel",
+                "description": "Definições > Serviço móvel > Adicionar eSIM"
+            },
+            "enter-activation-code": {
+                "title": "Introduzir código de ativação",
+                "sm-dp-address": "Endereço SM‑DP+",
+                "activation-code": "Código de ativação"
+            }
+        },
+        "step-by-step": "passo a passo",
+        "activate-esim": "Ativar eSIM",
+        "install-guide": {
+            "warning": "Aviso! A maioria dos eSIMs só pode ser instalada uma vez.",
+            "not-working": "Não funciona? Ative o modo avião por 10 segundos.",
+            "installed-success": "O seu eSIM Simbuster está instalado!",
+            "completed-correctly": "Se completou todos os passos corretamente.",
+            "guide-available-offline": "Este guia estará disponível offline.",
+            "steps-after-arrival-info": "Estes passos são apenas após chegar ao destino."
+        },
+        "install-title": "Instalar o meu eSIM",
+        "activate-title": "Ativar eSIM",
+        "install-button": "Instalar",
+        "share-qr-guide": {
+            "scan-qr": {
+                "title": "Ler código QR"
+            },
+            "send-qr": {
+                "title": "Enviar QR para outro dispositivo",
+                "button": "Enviar QR",
+                "share-message": "Enviar QR"
+            },
+            "activate": {
+                "title": "Ativar eSIM",
+                "button": "Ativar",
+                "description": "Ativar apenas no destino",
+                "after-arrive": "Após chegar"
+            },
+            "tab-title": "Partilhar QR",
+            "give-label": {
+                "title": "Dar etiqueta ao novo eSIM"
+            },
+            "add-mobile-plan": {
+                "title": "Adicionar plano móvel",
+                "description": "Definições > Serviço móvel > SIMs > Adicionar eSIM"
+            }
+        },
+        "where-internet": "Onde precisa de Internet?",
+        "activate-button": "Ativar",
+        "my-device-guide": {
+            "install": {
+                "title": "Instalar eSIM",
+                "description": "Instale antes da viagem — necessita de Internet."
+            },
+            "activate": {
+                "title": "Ativar eSIM",
+                "button": "Ativar",
+                "description": "Ativar apenas no destino",
+                "after-arrive": "Após chegar"
+            },
+            "tab-title": "O meu dispositivo",
+            "install-profile": {
+                "title": "Instalar perfil eSIM",
+                "button": "Instalação em 1 clique",
+                "description": "Toque em \"Instalar o meu perfil eSIM\""
+            },
+            "android-link-info": "Para outros modelos Android"
+        },
+        "turn-on-roaming": "Ativar roaming de dados",
+        "after-you-arrive": "Após chegar",
+        "before-you-leave": "Antes de sair",
+        "rename-placeholder": "Renomear eSIM",
+        "install-description": "Instale antes da viagem — precisa de ligação à Internet.",
+        "steps-after-arrival": "Passos apenas após chegar ao destino.",
+        "activate-description": "Ativar apenas no destino"
+    },
+    "home": {
+        "show-popup": "Mostrar popup",
+        "show-banner": "Mostrar banner"
+    },
+    "next": "Seguinte",
+    "save": "Guardar",
+    "calls": {
+        "messages": {
+            "empty-desc": "Inicie uma conversa para ver mensagens aqui.",
+            "empty-title": "Sem mensagens",
+            "screen-title": "Mensagens",
+            "message-input-preview": "Enviou-lhe uma mensagem"
+        },
+        "contact-options": {
+            "wifi": "Wi‑Fi/Dados",
+            "locked": "Bloqueado",
+            "callback": "Retorno",
+            "wifi-desc": "Usa Internet",
+            "local-number": "Número local",
+            "callback-desc": "Sem minutos",
+            "local-number-desc": "Sem minutos"
+        },
+        "recent-calls-screen-title": "Recentes",
+        "contacts-list-screen-title": "Contactos",
+        "contacts-search-placeholder": "Pesquisar contactos",
+        "undefined-phone-numbers-desc": "* guarde o número no formato internacional."
+    },
+    "esims": {
+        "title": "eSIMs de dados",
+        "tab-esims": "Os meus eSIMs",
+        "tab-local": "Local",
+        "tab-global": "Global",
+        "tab-regional": "Regional",
+        "all-countries": "Todos os países",
+        "countries-list": "Pesquisar",
+        "popular-countries": "Destinos populares",
+        "search-placeholder": "Pesquisar"
+    },
+    "hello": "Olá",
+    "choose": "Escolher",
+    "common": {
+        "me": "Eu",
+        "days": "dias",
+        "info": "Info",
+        "save": "Guardar",
+        "agent": "Agente",
+        "error": "Erro",
+        "month": "mês",
+        "reply": "Responder",
+        "unltd": "Ilimitado",
+        "change": "Alterar",
+        "extend": "Prolongar",
+        "months": "meses",
+        "search": "Pesquisar",
+        "expires": "Expira",
+        "continue": "Continuar",
+        "counties": "países",
+        "earnings": "Ganhos",
+        "my-esims": "Os meus eSIMs",
+        "one-year": "1 ano",
+        "one-month": "1 mês",
+        "best-value": "Melhor valor",
+        "my-prepaid": "Os meus pré‑pagos",
+        "six-months": "6 meses",
+        "verify-now": "Verificar agora",
+        "call-credit": "Crédito de chamadas",
+        "my-products": "Os meus produtos",
+        "offer-rates": "Tarifas da oferta",
+        "call-goes-to": "A chamada vai para",
+        "data-balance": "Saldo de dados",
+        "july-01-2025": "01 jul. 2025",
+        "my-recharges": "As minhas recargas",
+        "phone-number": "Número de telefone",
+        "receptionist": "Rececionista",
+        "three-months": "3 meses",
+        "phone-numbers": "Números de telefone",
+        "twelve-months": "12 meses",
+        "august-01-2025": "01 ago. 2025",
+        "popular-numbers": "Números populares",
+        "my-phone-numbers": "Os meus números",
+        "terms-of-service": "Termos de serviço",
+        "upload-documents": "Carregar documentos",
+        "start-earning-now": "Registe-se e comece a ganhar",
+        "invite-friends-now": "Convide amigos agora",
+        "describe-your-issue": "Descreva o seu problema",
+        "refer-and-earn-desc": "Ofereça $3 aos amigos em dados eSIM",
+        "call-credit-required": "Crédito necessário",
+        "refer-and-earn-title": "Indique e ganhe",
+        "verify-your-identity": "Verificar identidade",
+        "call-credit-required-note": "Nota: é necessário crédito para chamadas.",
+        "verify-your-identity-desc": "Por segurança, conclua a verificação KYC."
+    },
+    "delete": "Eliminar",
+    "gender": {
+        "male": "Masculino",
+        "female": "Feminino"
+    },
+    "id_doc": "Documento de identificação",
+    "months": {
+        "may": "Maio",
+        "july": "Julho",
+        "june": "Junho",
+        "april": "Abril",
+        "march": "Março",
+        "august": "Agosto",
+        "january": "Janeiro",
+        "october": "Outubro",
+        "december": "Dezembro",
+        "february": "Fevereiro",
+        "november": "Novembro",
+        "september": "Setembro"
+    }
+}

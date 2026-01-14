@@ -1,0 +1,528 @@
+{
+  "search": "Buscar",
+  "my-esim": {
+    "tab-current": "Atuais",
+    "tab-expired": "Expirados",
+    "screen-title": "Minhas eSIM"
+  },
+  "payment": {
+    "plan-fail-modal": {
+      "cta": "Tentar de novo",
+      "desc": "Seu plano não foi adicionado",
+      "title": "Falhou"
+    },
+    "plan-success-modal": {
+      "cta": "Ir ao painel",
+      "desc": "Seu plano foi adicionado",
+      "title": "Plano adicionado"
+    }
+  },
+  "profile": {
+    "id": "10000038",
+    "email": "demo@simbuster.com",
+    "title": "Perfil",
+    "refer-earn": "Indique e ganhe",
+    "terms-of-use": "Termos de uso",
+    "video-guides": "Guias em vídeo",
+    "delete-account": "Excluir conta",
+    "privacy-policy": "Política de privacidade",
+    "restore-purchases": "Restaurar compras"
+  },
+  "screens": {
+    "sms": {
+      "get-mobile-number": "Obter número móvel",
+      "select-sender-number": "Escolher número remetente",
+      "get-mobile-number-button": "Obter número móvel",
+      "you-need-one-to-send-sms": "Você precisa de um para enviar SMS",
+      "can-only-text-same-country": "Só SMS para o mesmo país"
+    },
+    "back": "Voltar",
+    "esim": {
+      "otp": "OTP",
+      "terms": {
+        "content": "Ao continuar, você aceita os Termos de Serviço e a Política de Privacidade. Confirme que seu aparelho suporta eSIM e o plano/região escolhidos. Reembolso garantido se a eSIM não for usada ou se a viagem mudar. Sem reembolso após ativar.",
+        "terms-replace": "Termos of Service",
+        "privacy-replace": "Política de privacidade"
+      },
+      "network": "Rede",
+      "buy-esims": "Comprar eSIMs",
+      "data-only": "Só dados",
+      "mobile-data": "Dados móveis",
+      "plans-terms": "Esta eSIM é para viajantes nos EUA. Cobertura em todos os 50 estados.",
+      "rename-esim": "Renomear eSIM",
+      "top-up-data": "Recarregar dados",
+      "usage-terms": "Esta eSIM é para viajantes nos EUA. Cobertura em todos os 50 estados.",
+      "save-changes": "Salvar alterações",
+      "prices-up-to-60": "Até 60% mais barato que outros.",
+      "show-archived-esims": "Mostrar eSIMs arquivadas",
+      "rename-esim-description": "Como quer chamar esta eSIM?",
+      "plan-details-network-desc": "Rede e velocidade variam por local."
+    },
+    "fail": "FALHA",
+    "info": "Info",
+    "keep": "Manter",
+    "save": "Salvar",
+    "clear": "Limpar",
+    "esims": "eSIMs",
+    "guide": "Guia",
+    "retry": "Repetir",
+    "terms": "Termos",
+    "alerts": {
+      "error": "Erro",
+      "purchase-error": "Erro na compra",
+      "purchase-failed": "Compra falhou",
+      "failed-to-purchase": "Falha ao comprar produto",
+      "product-not-available": "Produto indisponível"
+    },
+    "fulfil": "Processar",
+    "how-to": "Como?",
+    "rename": "Renomear",
+    "search": "Buscar",
+    "archive": "Arquivar",
+    "collect": "Coletar",
+    "credits": {
+      "no-expiry": "Sem validade",
+      "sms-credit": "Crédito SMS",
+      "terms-of-use": "Termos de uso",
+      "speech-credit": "Crédito voz",
+      "buster-minutes": "Minutos Buster"
+    },
+    "go-back": "Voltar",
+    "payment": {
+      "cvv": "CVV",
+      "mm-yyyy": "MM/AAAA",
+      "month-mm": "Mês (MM)",
+      "year-yyyy": "Ano (AAAA)",
+      "card-number": "Número do cartão",
+      "checkout-id": "ID do checkout",
+      "card-payment": "Pagamento por cartão",
+      "pay-with-card": "Pagar com cartão",
+      "cardholder-name": "Nome no cartão",
+      "initialize-payment": "Iniciar pagamento",
+      "pay-with-apple-pay": "Pagar com Apple Pay",
+      "pay-with-google-pay": "Pagar com Google Pay",
+      "generate-test-checkout-id": "Gerar checkout ID teste"
+    },
+    "port-in": "Portar p/ dentro",
+    "prepare": "Preparar",
+    "success": "SUCESSO",
+    "surveys": "Pesquisas",
+    "warning": "Atenção!",
+    "you-won": "Você ganhou",
+    "youtube": "YouTube",
+    "continue": "Continuar",
+    "earnings": "Ganhos",
+    "my-plans": "Meus planos",
+    "no-esims": "Sem eSIMs",
+    "port-out": "Portar p/ fora",
+    "withdraw": "Sacar",
+    "scan-card": "Escanear cartão",
+    "try-again": "Tentar de novo",
+    "unarchive": "Desarquivar",
+    "hot-offers": "Ofertas quentes",
+    "promo-code": "Código promo",
+    "show-popup": "Mostrar pop-up",
+    "sip-config": "Config SIP",
+    "sms-credit": "Crédito SMS",
+    "switch-off": "Desativar",
+    "validation": {
+      "cvv-invalid": "CVV must contain only digits",
+      "card-number-invalid": "Card número must be between 13 and 19 digits",
+      "expiry-date-invalid": "Expiry date must be in MM/YYYY format",
+      "card-number-required": "Card número is required",
+      "expiry-date-required": "Expiry date is required",
+      "business-name-required": "Business name is required",
+      "business-name-too-long": "Business name is too long",
+      "language-accent-required": "Language/accent is required",
+      "communication-style-required": "Communication style is required",
+      "business-description-required": "Business description is required",
+      "business-description-too-long": "Business description is too long"
+    },
+    "call-credit": "Crédito voz",
+    "collect-big": "Coletar +",
+    "detect-esim": "Detectar eSIM",
+    "new-message": "Nova mensagem",
+    "reward-zone": "Zona de recompensas",
+    "show-banner": "Mostrar banner",
+    "transfer-in": "Transferir p/ dentro",
+    "voip-config": "Config VoIP",
+    "watch-video": "Ver vídeo",
+    "ai-assistant": {
+      "bot": "Bot",
+      "help": "Ajuda"
+    },
+    "archive-esim": "Arquivar eSIM",
+    "are-you-sure": "Tem certeza?",
+    "no-codes-yet": "Sem códigos ainda",
+    "payment-test": "Teste de pagamento",
+    "step-by-step": "Passo a passo",
+    "terms-of-use": "Termos de uso",
+    "transfer-out": "Transferir p/ fora",
+    "video-guides": "Guias em vídeo",
+    "voice-credit": "Crédito voz",
+    "activate-esim": "Ativar eSIM",
+    "calling-plans": "Planos",
+    "cancel-number": "Cancelar número",
+    "collect-coins": {
+      "claim": "Resgatar",
+      "title": "Coletar moedas",
+      "redeem": "Trocar",
+      "surveys": "Pesquisas",
+      "spin-now": "Girar agora",
+      "use-coins": "Use moedas para pegar o prêmio.",
+      "hot-offers": "Ofertas quentes",
+      "collect-big": "Coletar +",
+      "two-minutes": "2 min",
+      "cannot-claim": "Prêmio indisponível agora",
+      "coin-journey": "Jornada de moedas",
+      "just-me-basic": "Só eu (Básico)",
+      "daily-check-in": "Check-in diário",
+      "slide-to-redeem": "Deslize p/ trocar",
+      "try-again-later": "Tente mais tarde",
+      "offer-unavailable": "Oferta indisponível",
+      "confirm-redemption": "Confirmar troca",
+      "use-coins-to-get-reward": "Use moedas para pegar o prêmio.",
+      "watch-ads-to-collect-coins": "Ver anúncios p/ moedas",
+      "watch-videos-to-collect-coins": "Ver vídeos p/ moedas"
+    },
+    "enter-message": "Digite a mensagem",
+    "excluding-tax": "Sem impostos",
+    "mobile-top-up": "Recarga móvel",
+    "phone-numbers": "Números",
+    "prepaid-codes": "Códigos pré-pagos",
+    "sms-countries": "Países SMS",
+    "archived-esims": "eSIMs arquivadas",
+    "esim-detection": "Detecção eSIM",
+    "no-numbers-yet": "Sem números ainda",
+    "show-animation": "Mostrar show_animation",
+    "copy-push-token": "Copiar token push",
+    "get-free-number": "Pegar número grátis",
+    "install-my-esim": "Instalar minha eSIM",
+    "try-again-later": "Tente mais tarde",
+    "call-transcripts": "Transcrições",
+    "enter-promo-code": "Digite seu código promo",
+    "get-prepaid-code": "Obter código pré-pago",
+    "network-degraded": "Rede degradada",
+    "number-activated": "Número ativado!",
+    "clear-all-history": "Limpar histórico?",
+    "country-of-region": "País/região",
+    "offer-unavailable": "Oferta indisponível",
+    "payment-simulator": "Simulador de pagamento",
+    "promo-code-button": "CÓDIGO PROMO",
+    "rename-number-tag": "Renomear etiqueta",
+    "ai-assistant-title": "Assistente IA",
+    "build-my-reception": "Criar minha Central",
+    "clear-recent-calls": "Limpar chamadas",
+    "how-to-call-number": "Como quer chamar este número?",
+    "no-plans-available": "Sem planos",
+    "required-documents": "Docs obrigatórios",
+    "show-fullscreen-ad": "Mostrar fullscreen_ad",
+    "subscription-terms": "Termos da assinatura",
+    "we-need-these-docs": "Precisamos destes docs",
+    "dont-renew-manually": "Se não renovar, o número será cancelado.",
+    "local-calling-plans": "Planos locais",
+    "see-recharge-status": "Ver status da recarga",
+    "where-need-internet": "Onde precisa de Internet?",
+    "nomupay-payment-test": "Teste Nomupay",
+    "terms-and-conditions": "Termos e condições",
+    "will-delete-call-logs": "Isso apaga chamadas recentes",
+    "esim-will-be-available": "Esta eSIM vai para o arquivo",
+    "action-cannot-be-undone": "Ação irreversível. O número pode ser perdido.",
+    "disabling-smart-calling": "Sem Smart Calling pode custar mais.",
+    "reward-cannot-be-claimed": "Prêmio indisponível agora",
+    "go-to-esim-activation-guide": "Ir ao guia de ativação",
+    "switch-off-automatic-renewal": "Desativar renovação?",
+    "number-successfully-purchased": "Seu número foi comprado e está pronto.",
+    "share-your-link-to-start-earning": "Compartilhe seu link e ganhe"
+  },
+  "support": {
+    "faq": "FAQ",
+    "tab1": "Ajuda e contato",
+    "tab2": "Meus pedidos",
+    "agent": "AGENTE",
+    "links": {
+      "cant_buy": "Não consigo comprar número eSIM",
+      "bad_voice": "Áudio ruim",
+      "cant_hear": "Não ouço nada",
+      "no_credit": "Sem crédito",
+      "cant_recharge": "Não consigo recarregar",
+      "no_calls_esim": "Não recebo chamadas na eSIM",
+      "cant_see_number": "Não veem meu número",
+      "esim_not_renewed": "eSIM não renovou",
+      "dailing_not_ringing": "Chama e não toca"
+    },
+    "titles": {
+      "title1": "Olá!",
+      "title2": "Como podemos ajudar?"
+    },
+    "cta-title": "Enviar pedido",
+    "empty-desc": "Precisa de ajuda?\nEnvie um pedido.",
+    "empty-title": "Sem pedidos ainda",
+    "screen-title": "Suporte",
+    "submit-request": "Enviar pedido",
+    "contact-support": "Falar com suporte",
+    "onboarding-flow": "Onboarding flow – tasks related to user onboarding…",
+    "partner-with-us": "Seja parceiro",
+    "whatsapp-support": "Suporte WhatsApp",
+    "content-not-available": "Algum conteúdo ainda não está",
+    "phone-number-info-needed": "Falta info do número"
+  },
+  "continue": "Continuar",
+  "kyc-flow": {
+    "key-action-items": {
+      "cta": "Enviar",
+      "title": "Verificação",
+      "pending": "Pendente",
+      "description": "Pronto após aprovação (1–2 dias úteis).",
+      "info-banners": {
+        "how-to": {
+          "title": "Como?",
+          "subtext": "Guia em vídeo"
+        },
+        "verification": {
+          "title": "Verificação",
+          "subtext": "step by step"
+        }
+      },
+      "info-required": "Info necessária",
+      "cta-processing": "Processando",
+      "identity-section": {
+        "title": "Identidade",
+        "subtext": "Pessoal ou empresa"
+      },
+      "agreement-section": {
+        "title": "Acordo",
+        "subtext": "Assinatura"
+      },
+      "documents-section": {
+        "title": "Documentos",
+        "subtext": "Enviar"
+      },
+      "required-documents": {
+        "address": {
+          "title": "Endereço",
+          "default": "Endereço = DDD do número",
+          "worldwide": "Endereço mundial aceito"
+        },
+        "business": {
+          "title": "Empresa",
+          "certificate": "Certificado de registro"
+        },
+        "personal": {
+          "title": "Pessoal",
+          "identity": "Passaporte ou ID",
+          "certificate": "Certificado de registro",
+          "utility-bill": "Conta recente (≤6 meses)"
+        }
+      }
+    }
+  },
+  "settings": {
+    "title": "Configurações",
+    "currency": "Moeda",
+    "app-language": "Idioma do app",
+    "release-esim": "Liberar eSIM",
+    "notifications": "Notificações",
+    "default-country": "País padrão"
+  },
+  "sign-out": {
+    "title": "Sair?",
+    "cancel": "Cancelar",
+    "confirm": "Sair",
+    "description": "Você sairá deste aparelho. Continuar?"
+  },
+  "ai-credit": {
+    "terms": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  "countries": {
+    "screen-title": "Países e rede"
+  },
+  "dashboard": {
+    "refer": "Indique e ganhe",
+    "banners": {
+      "banner_1": {
+        "cta": "Recarregar",
+        "title": "Acabando?",
+        "description": "Recarregue em segundos"
+      },
+      "banner_2": {
+        "cta": "Testar",
+        "title": "Novo: IA ao vivo",
+        "description": "Teste a Central"
+      },
+      "banner_3": {
+        "cta": "Ver planos",
+        "title": "Economize em chamadas",
+        "description": "Até 70% off"
+      },
+      "banner_4": {
+        "cta": "Recarregar",
+        "title": "Acabando?",
+        "description": "Recarregar in seconds "
+      },
+      "banner_5": {
+        "cta": "Escolher",
+        "title": "Precisa de 2º número?",
+        "description": "Móvel e fixo"
+      },
+      "banner_6": {
+        "cta": "Ver detalhes",
+        "title": "Ofertas por tempo",
+        "description": "Até 90% off"
+      }
+    },
+    "support": "Suporte",
+    "mobile_data": "eSIMs de dados",
+    "my_products": "Meus produtos",
+    "ai_assistant": "Assistente IA",
+    "banner_cta_1": "Convidar",
+    "banner_cta_2": "testar",
+    "banner_cta_3": "Ver planos",
+    "calling_plan": "Planos e pacotes",
+    "coin_balance": "Moedas",
+    "receptionist": "Central",
+    "rewards_zone": "Zona de recompensas",
+    "phone_numbers": "Números",
+    "prepaid_codes": "Códigos pré-pagos",
+    "banner_label_1": "Indique e ganhe",
+    "banner_label_2": "Indique e ganhe",
+    "banner_label_3": "Indique e ganhe",
+    "refer_and_earn": "Indique e ganhe",
+    "special_offers": "Ofertas especiais",
+    "wallet_balance": "Saldo",
+    "mobile_recharge": "Recarga móvel",
+    "banner_subtitle_1": "Dê US$3 em dados eSIM",
+    "banner_subtitle_2": "Dê US$3 em dados eSIM",
+    "banner_subtitle_3": "Dê US$3 em dados eSIM"
+  },
+  "esim-card": {
+    "data": "Dados",
+    "info": "Info",
+    "voice-plus": "Voz+"
+  },
+  "gift-card": {
+    "terms-of-use": "Termos de uso",
+    "enjoy-message": "Aproveite seu gift card!"
+  },
+  "components": {
+    "id": "ID",
+    "free": "Grátis",
+    "oops": "Ops!",
+    "copy-stack-trace": "Copiar stack trace",
+    "available-countries": "Países disponíveis"
+  },
+  "issue-info": {
+    "title": "Info do problema",
+    "agent-message": "Só passando para ver se você conseguiu revisar os detalhes do fluxo de onboarding. Se tiver dúvidas ou feedback, me avise. Obrigado!"
+  },
+  "phone-book": {
+    "no-permission-cta": "Ir às configurações",
+    "no-permission-desc1": "Sem contatos, não dá p/ baratear chamadas",
+    "no-permission-desc2": "Permita o acesso abaixo",
+    "no-permission-title": "Você não liberou contatos",
+    "phone-number-placeholder": "digite o número"
+  },
+  "refer-earn": {
+    "test": "Teste",
+    "earn-tab": {
+      "faq": {
+        "step1": {
+          "title": "Passo 1",
+          "description": "Compartilhe seu link/código"
+        },
+        "step2": {
+          "title": "Passo 2",
+          "description": "Amigo se cadastra pelo seu link"
+        },
+        "step3": {
+          "title": "Passo 3",
+          "description": "Você ganha quando ele compra."
+        },
+        "title": "FAQ"
+      },
+      "un-sign-in": {
+        "tip1": "Convide e ganhe*",
+        "tip2": "Acompanhe ganhos no app",
+        "tip3": "Saque para o banco"
+      },
+      "how-it-works": {
+        "earn": {
+          "title": "Você ganha quando compram",
+          "description": "Ganhos somam a cada compra."
+        },
+        "join": {
+          "title": "Eles se cadastram e compram",
+          "description": "Seu amigo compra um serviço."
+        },
+        "refer": {
+          "title": "Compartilhe seu link",
+          "description": "Envie seu link pessoal."
+        },
+        "title": "Como funciona"
+      },
+      "become-an-affiliate": "Virar parceiro"
+    },
+    "earnings": "Ganhos",
+    "withdraw": "Sacar",
+    "share-link": "Compartilhar meu link",
+    "bank-details": "Informe dados bancários",
+    "how-it-works": "Como funciona",
+    "screen-title": "Indique e ganhe",
+    "whos-earning": "Quem está te rendendo",
+    "track-amounts": "Acompanhe no app",
+    "log-in-website": "Entre no site",
+    "my-network-tab": {
+      "level": "Nível",
+      "balance": "Saldo",
+      "earnings": "Ganhos",
+      "top-tab1": "Meus indicados",
+      "top-tab2": "Indique e ganhe",
+      "bottom-tab1": "Meu progresso",
+      "bottom-tab2": "Top ganhadores",
+      "my-team-tab": {
+        "label": "Nível"
+      },
+      "balance-badge": {
+        "title": "Saldo"
+      },
+      "steps-section": {
+        "step1": "Refer",
+        "step2": "Join",
+        "step3": "Earn"
+      },
+      "earnings-badge": {
+        "title": "Ganhos"
+      },
+      "training-badge": {
+        "title": "Treino",
+        "description": "escola"
+      },
+      "tutorial-badge": {
+        "title": "Tutorial",
+        "description": "ver vídeo"
+      },
+      "store-referal-link": "Salvar link",
+      "invite-button-label": "Compartilhe seu link e ganhe",
+      "unlock-to-start-earning": "Desbloqueie p/ ganhar",
+      "share-referral-link-label": "Compartilhar link"
+    },
+    "total-earnings": "Seus ganhos totais",
+    "earn-every-time": "Você ganha quando compram",
+    "earnings-wallet": "Vá em Ganhos ou Carteira",
+    "share-your-link": "Compartilhe seu link",
+    "share-link-start": "Compartilhe seu link e ganhe",
+    "share-my-link-now": "Compartilhar meu link",
+    "withdraw-securely": "Saque seguro p/ banco",
+    "earnings-generated": "Ganhos só de compras dos indicados.",
+    "secure-withdrawals": "Saques seguros",
+    "your-total-earnings": "Seus ganhos totais",
+    "track-amounts-in-app": "Acompanhe no app",
+    "log-in-on-our-website": "Entre no site",
+    "earnings-from-referrals": "Ganhos por indicação",
+    "withdraw-securely-to-bank": "Saque seguro p/ banco",
+    "number-of-referrals-to-unlock": "mais indicações p/ liberar",
+    "enter-bank-details-and-confirm": "Informe dados bancários",
+    "earnings-from-referral-purchases": "Ganhos por indicação",
+    "go-to-earnings-or-wallet-section": "Vá em Ganhos ou Carteira"
+  }
+}

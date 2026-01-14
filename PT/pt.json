@@ -1,0 +1,2353 @@
+{
+        "faq": {
+        "title": "FAQ"
+    },
+    "ivr": {
+        "menu": "Menu",
+        "plan": {
+            "ivr-2": {
+                "top-label": "Escolha quem atende → x2"
+            },
+            "ivr-3": {
+                "top-label": "Enviar chamadas para app, telefone ou IA → x3"
+            },
+            "messages": {
+                "footer1": "Sem resposta →",
+                "footer2": "enviar para Voicemail",
+                "footer3": "Fora do horário → ",
+                "footer4": "mensagem de ausência",
+                "footer5": "Sem resposta → enviar para",
+                "footer6": "Voicemail",
+                "message1": "Alguém está a ligar-lhe",
+                "message2": "Diga a {avatar_name} o que dizer\nquando alguém ligar",
+                "message3": "A chamada é enviada diretamente\npara a sua app ou telefone\n→ decide você",
+                "message4": "Durante o horário de trabalho",
+                "message5": "prima 1 para vendas, 2 para\nsuporte → decide você",
+                "message6": "escolha para onde cada opção\nvai → app, telefone, colega",
+                "message7": "prima 1 para vendas, 2 para\nsuporte, 3 para técnico → decide você",
+                "message8": "escolha → para onde cada opção\nvai → app, telefone, assistente de voz"
+            },
+            "direct-route": {
+                "top-label": "Atender chamadas com mensagem → Eu"
+            }
+        },
+        "step1": {
+            "cta": "Gerar áudio",
+            "desc": "Eis como soa...",
+            "title": "Mensagem de boas-vindas",
+            "title2": "Pré-visualizar mensagem",
+            "input-label": "O que devem ouvir os chamadores?",
+            "input-placeholder": "ex.: Obrigado por ligar para [Nome]..."
+        },
+        "step2": {
+            "cta": "Gerar áudio",
+            "for": "para",
+            "desc": "Eis como soa...",
+            "title1": "O meu menu",
+            "title2": "Pré-visualizar menu",
+            "press-1": "Prima",
+            "inputs-label": "Opções ouvidas pelo chamador...",
+            "input2-placeholder": "ex.: Suporte, Receção...",
+            "input-placeholder-1": "ex.: Vendas",
+            "input-placeholder-2": "ex.: Faturação...",
+            "input-placeholder-3": "ex.: Suporte..."
+        },
+        "step3": {
+            "desc": "Quando alguém prime {{0}}, a chamada vai para...",
+            "desc2": "Alguém prime 1 ou 2, a chamada vai para...",
+            "email": "E-mail",
+            "phone": "Telefone",
+            "title": "Quem recebe a chamada?",
+            "option": "Opção",
+            "no-bots": "Indisponível",
+            "option1": "Um utilizador Simbuster",
+            "option2": "Número de telefone",
+            "option3": "Eu (Selecionar)",
+            "option4": "Assistente IA",
+            "email-placeholder": "E-mail do utilizador Simbuster",
+            "phone-placeholder": "número (a começar por +)"
+        },
+        "step4": {
+            "desc": "Eis como soa...",
+            "title": "Definições",
+            "weekdays": {
+                "friday": "Sexta-feira",
+                "monday": "Segunda-feira",
+                "sunday": "Domingo",
+                "tuesday": "Terça-feira",
+                "saturday": "Sábado",
+                "thursday": "Quinta-feira",
+                "wednesday": "Quarta-feira"
+            },
+            "days-label": "Que dias trabalha?",
+            "hours-label": "Quando está aberto para chamadas?",
+            "input-label": "O que devemos dizer fora do horário?",
+            "input2-label": "Como devemos chamar esta linha?",
+            "switch-label": "Voicemail para e-mail",
+            "phone-line-name": "Boas-vindas",
+            "name-placeholder": "Dê um nome à sua receção",
+            "input-placeholder": "Lamentamos, estamos encerrados. Deixe uma mensagem.",
+            "input2-placeholder": "Nomeie a sua receção"
+        },
+        "tab-all": "Todos",
+        "welcome": "Boas-vindas",
+        "ivr-info": {
+            "menu": "Menu",
+            "welcome": "Boas-vindas",
+            "transfer": "Transferir",
+            "test-line": "Testar esta linha",
+            "add-number": "Adicionar número",
+            "change-option": "Alterar opção",
+            "leave-message": "Deixar mensagem",
+            "opening-hours": "Horário de funcionamento",
+            "test-line-desc": "Use minutos do operador para testar a linha",
+            "assigned-numbers": "Números atribuídos",
+            "day-selector-label": "Que dias trabalha?",
+            "time-selector-label": "Quando está aberto para chamadas?",
+            "location-selector-label": "Onde está localizado?"
+        },
+        "plan-cta": "Configurar agora",
+        "tab-male": "Masculino",
+        "transfer": "Transferir",
+        "completed": {
+            "cta": "Deslize para criar",
+            "desc": "Vamos criar a sua receção agora...",
+            "title": "Está tudo pronto!"
+        },
+        "doc-guide": "Guia de documentos",
+        "submit-cta": "Criar a minha receção",
+        "tab-female": "Feminino",
+        "generalError": "Ocorreu um erro",
+        "header-tab-1": "Começar",
+        "header-tab-2": "A minha receção",
+        "info-banners": {
+            "puzzle": {
+                "desc": "Passo a passo",
+                "title": "Guia de criação"
+            },
+            "credits": {
+                "title": "Crédito de voz"
+            },
+            "tutorial": {
+                "desc": "Ver vídeo",
+                "title": "Tutorial"
+            },
+            "how-to-hire": {
+                "desc": "passo a passo",
+                "title": "Como contratar"
+            }
+        },
+        "my-reception": {
+            "no-reception-title": "Sem receção configurada",
+            "no-reception-button": "Criar receção"
+        },
+        "num-profiles": "+{{0}} perfis",
+        "screen-title": "Rececionista",
+        "leave-message": "Deixar mensagem",
+        "opening-hours": "Horário de funcionamento",
+        "textFieldError": "Erro no campo de texto",
+        "assigned-numbers": "Números atribuídos",
+        "build-guide-data": {
+            "title": "Guia de criação",
+            "header": "Escolha a configuração da rececionista",
+            "puzzle": {
+                "title": "Opções de menu (Puzzle)",
+                "details": {
+                    "steps": {
+                        "title-1": "Escolha a sua rececionista",
+                        "title-2": "Construa com blocos Puzzle",
+                        "title-3": "Decida quem recebe as chamadas",
+                        "title-4": "Receção ativa na sua linha",
+                        "description-1": "Comece por escolher a voz que os chamadores ouvirão",
+                        "description-2": "Arraste blocos para criar a sua receção. É tão simples como um puzzle.",
+                        "description-3": "Defina para onde vai cada opção – para si, um colega ou outro número",
+                        "description-4": "Ative. A sua nova receção está pronta a atender!"
+                    },
+                    "title": "Guia de opções de menu"
+                },
+                "buttonTitle": "Guia do construtor Puzzle",
+                "description": "Permita que os chamadores primam 1, 2 ou 3 para chegar a colegas, telefones ou IA."
+            },
+            "simple": {
+                "title": "Só eu (Básico)",
+                "details": {
+                    "steps": {
+                        "title-1": "Mensagem de saudação",
+                        "title-2": "Destino da chamada",
+                        "title-3": "Nomeie a sua receção",
+                        "description-1": "O que devem ouvir os chamadores?",
+                        "description-2": "Para onde deve ir a chamada?",
+                        "description-3": "Dê um nome a esta configuração"
+                    },
+                    "title": "Guia de configuração básica"
+                },
+                "buttonTitle": "Guia básico",
+                "description": "Reproduza uma saudação e envie todas as chamadas diretamente para si."
+            },
+            "change-later": "Pode alterar ou personalizar o fluxo mais tarde",
+            "build-my-reception": "Criar a minha receção"
+        },
+        "create-reception": "Criar receção",
+        "number-selection": {
+            "desc": "precisa de um número para a sua receção",
+            "desc-2": "Que número devem as pessoas ligar?",
+            "screen-title": "Obter um número",
+            "screen-title-2": "Escolher um número",
+            "get-free-number": "Obter número grátis",
+            "get-phone-number": "Obter um número"
+        },
+        "delete-phone-desc": "O número será removido desta linha, mas continuará a receber chamadas",
+        "onboarding-step-1": "Arraste o bloco puzzle para o local certo",
+        "onboarding-step-2": "Pegue num bloco aqui",
+        "perfect-voice-cta": "Encontre a voz perfeita",
+        "textFieldRequired": "O campo de texto é obrigatório.",
+        "textNotEnoughCredit": "Crédito TTS insuficiente",
+        "language-placeholder": "Todos os idiomas",
+        "choose-call-setup-modal": {
+            "desc": "Como devem ser tratadas as chamadas?",
+            "title": "Escolher configuração",
+            "basic-row": {
+                "desc": "Cumprimentar e enviar\nchamadas para mim",
+                "title": "Só eu (Básico)"
+            },
+            "puzzle-row": {
+                "desc": "Chamadores primem 1, 2 ou 3",
+                "title": "Opções de menu (Puzzle)"
+            }
+        },
+        "voice-language-mismatch": {
+            "cta": "Alterar voz",
+            "desc": "A voz selecionada não está disponível no seu idioma.",
+            "title": "Idioma da voz incompatível"
+        },
+        "build-reception-tutorial": {
+            "desc1": "Comece por escolher a voz",
+            "desc2": "Arraste blocos para criar a receção",
+            "desc3": "Defina para onde vai cada opção",
+            "desc4": "A receção fica ativa na linha",
+            "title1": "Escolha a rececionista",
+            "title2": "Construa com blocos Puzzle",
+            "title3": "Decida quem recebe as chamadas",
+            "title4": "Receção ativa"
+        },
+        "country-selection-screen-title": "Países disponíveis"
+    },
+    "auth": {
+        "otp": {
+            "desc": "Enviado para ",
+            "title": "Introduzir código",
+            "resend-cta": "Reenviar",
+            "continue-login-cta": "Entrar",
+            "continue-signup-cta": "Registar"
+        },
+        "login": {
+            "title": "Entrar",
+            "input-label": "E-mail",
+            "input-placeholder": "Introduza o seu e-mail"
+        },
+        "signup": {
+            "title": "Registar",
+            "email-label": "E-mail",
+            "continue-cta": "Continuar",
+            "full-name-label": "Nome completo",
+            "email-placeholder": "Introduza o seu e-mail",
+            "country-picker-label": "País",
+            "full-name-placeholder": "Nome completo"
+        }
+    },
+    "back": "Voltar",
+    "chat": {
+        "enter-message": "Introduzir mensagem",
+        "meeting-tomorrow": "Que tal a reunião amanhã?"
+    },
+    "esim": {
+        "info": "Info",
+        "guide": "Guia",
+        "terms": "Termos",
+        "how-to": "Como?",
+        "warning": "Aviso! A maioria dos eSIMs só pode ser instalada uma vez.",
+        "data-esim": "eSIM de dados",
+        "guide-steps": {
+            "pay": {
+                "title": "Pagar",
+                "description": "Checkout. eSIM emitido instantaneamente."
+            },
+            "install": {
+                "title": "Instalar (em Wi‑Fi, antes de sair)"
+            },
+            "pick-plan": {
+                "title": "Escolher plano",
+                "description": "Dados + dias. Sem contrato."
+            },
+            "give-label": {
+                "title": "Dar etiqueta ao novo eSIM",
+                "description": "Definições → Dados móveis → renomear para Simbuster"
+            },
+            "on-arrival": {
+                "title": "À chegada: usar dados",
+                "description": "Defina Dados móveis = eSIM de viagem e Roaming ligado."
+            },
+            "monitor-usage": {
+                "title": "Monitorizar uso e adicionar pacotes"
+            },
+            "choose-destination": {
+                "title": "Escolher destino",
+                "description": "Selecionar país/região"
+            }
+        },
+        "mobile-data": "Dados móveis",
+        "rename-esim": "Como quer chamar este eSIM?",
+        "select-esim": "Selecionar eSIM para dados móveis",
+        "watch-video": "Ver vídeo",
+        "install-esim": "Instalar eSIM",
+        "manual-guide": {
+            "activate": {
+                "title": "Ativar eSIM",
+                "button": "Ativar",
+                "description": "Ativar apenas no destino",
+                "after-arrive": "Após chegar"
+            },
+            "tab-title": "Manual",
+            "give-label": {
+                "title": "Dar etiqueta ao novo eSIM"
+            },
+            "add-mobile-plan": {
+                "title": "Adicionar plano móvel",
+                "description": "Definições > Serviço móvel > Adicionar eSIM"
+            },
+            "enter-activation-code": {
+                "title": "Introduzir código de ativação",
+                "sm-dp-address": "Endereço SM‑DP+",
+                "activation-code": "Código de ativação"
+            }
+        },
+        "step-by-step": "passo a passo",
+        "activate-esim": "Ativar eSIM",
+        "install-guide": {
+            "warning": "Aviso! A maioria dos eSIMs só pode ser instalada uma vez.",
+            "not-working": "Não funciona? Ative o modo avião por 10 segundos.",
+            "installed-success": "O seu eSIM Simbuster está instalado!",
+            "completed-correctly": "Se completou todos os passos corretamente.",
+            "guide-available-offline": "Este guia estará disponível offline.",
+            "steps-after-arrival-info": "Estes passos são apenas após chegar ao destino."
+        },
+        "install-title": "Instalar o meu eSIM",
+        "activate-title": "Ativar eSIM",
+        "install-button": "Instalar",
+        "share-qr-guide": {
+            "scan-qr": {
+                "title": "Ler código QR"
+            },
+            "send-qr": {
+                "title": "Enviar QR para outro dispositivo",
+                "button": "Enviar QR",
+                "share-message": "Enviar QR"
+            },
+            "activate": {
+                "title": "Ativar eSIM",
+                "button": "Ativar",
+                "description": "Ativar apenas no destino",
+                "after-arrive": "Após chegar"
+            },
+            "tab-title": "Partilhar QR",
+            "give-label": {
+                "title": "Dar etiqueta ao novo eSIM"
+            },
+            "add-mobile-plan": {
+                "title": "Adicionar plano móvel",
+                "description": "Definições > Serviço móvel > SIMs > Adicionar eSIM"
+            }
+        },
+        "where-internet": "Onde precisa de Internet?",
+        "activate-button": "Ativar",
+        "my-device-guide": {
+            "install": {
+                "title": "Instalar eSIM",
+                "description": "Instale antes da viagem — necessita de Internet."
+            },
+            "activate": {
+                "title": "Ativar eSIM",
+                "button": "Ativar",
+                "description": "Ativar apenas no destino",
+                "after-arrive": "Após chegar"
+            },
+            "tab-title": "O meu dispositivo",
+            "install-profile": {
+                "title": "Instalar perfil eSIM",
+                "button": "Instalação em 1 clique",
+                "description": "Toque em \"Instalar o meu perfil eSIM\""
+            },
+            "android-link-info": "Para outros modelos Android"
+        },
+        "turn-on-roaming": "Ativar roaming de dados",
+        "after-you-arrive": "Após chegar",
+        "before-you-leave": "Antes de sair",
+        "rename-placeholder": "Renomear eSIM",
+        "install-description": "Instale antes da viagem — precisa de ligação à Internet.",
+        "steps-after-arrival": "Passos apenas após chegar ao destino.",
+        "activate-description": "Ativar apenas no destino"
+    },
+    "home": {
+        "show-popup": "Mostrar popup",
+        "show-banner": "Mostrar banner"
+    },
+    "next": "Seguinte",
+    "save": "Guardar",
+    "calls": {
+        "messages": {
+            "empty-desc": "Inicie uma conversa para ver mensagens aqui.",
+            "empty-title": "Sem mensagens",
+            "screen-title": "Mensagens",
+            "message-input-preview": "Enviou-lhe uma mensagem"
+        },
+        "contact-options": {
+            "wifi": "Wi‑Fi/Dados",
+            "locked": "Bloqueado",
+            "callback": "Retorno",
+            "wifi-desc": "Usa Internet",
+            "local-number": "Número local",
+            "callback-desc": "Sem minutos",
+            "local-number-desc": "Sem minutos"
+        },
+        "recent-calls-screen-title": "Recentes",
+        "contacts-list-screen-title": "Contactos",
+        "contacts-search-placeholder": "Pesquisar contactos",
+        "undefined-phone-numbers-desc": "* guarde o número no formato internacional."
+    },
+    "esims": {
+        "title": "eSIMs de dados",
+        "tab-esims": "Os meus eSIMs",
+        "tab-local": "Local",
+        "tab-global": "Global",
+        "tab-regional": "Regional",
+        "all-countries": "Todos os países",
+        "countries-list": "Pesquisar",
+        "popular-countries": "Destinos populares",
+        "search-placeholder": "Pesquisar"
+    },
+    "hello": "Olá",
+    "choose": "Escolher",
+    "common": {
+        "me": "Eu",
+        "days": "dias",
+        "info": "Info",
+        "save": "Guardar",
+        "agent": "Agente",
+        "error": "Erro",
+        "month": "mês",
+        "reply": "Responder",
+        "unltd": "Ilimitado",
+        "change": "Alterar",
+        "extend": "Prolongar",
+        "months": "meses",
+        "search": "Pesquisar",
+        "expires": "Expira",
+        "continue": "Continuar",
+        "counties": "países",
+        "earnings": "Ganhos",
+        "my-esims": "Os meus eSIMs",
+        "one-year": "1 ano",
+        "one-month": "1 mês",
+        "best-value": "Melhor valor",
+        "my-prepaid": "Os meus pré‑pagos",
+        "six-months": "6 meses",
+        "verify-now": "Verificar agora",
+        "call-credit": "Crédito de chamadas",
+        "my-products": "Os meus produtos",
+        "offer-rates": "Tarifas da oferta",
+        "call-goes-to": "A chamada vai para",
+        "data-balance": "Saldo de dados",
+        "july-01-2025": "01 jul. 2025",
+        "my-recharges": "As minhas recargas",
+        "phone-number": "Número de telefone",
+        "receptionist": "Rececionista",
+        "three-months": "3 meses",
+        "phone-numbers": "Números de telefone",
+        "twelve-months": "12 meses",
+        "august-01-2025": "01 ago. 2025",
+        "popular-numbers": "Números populares",
+        "my-phone-numbers": "Os meus números",
+        "terms-of-service": "Termos de serviço",
+        "upload-documents": "Carregar documentos",
+        "start-earning-now": "Registe-se e comece a ganhar",
+        "invite-friends-now": "Convide amigos agora",
+        "describe-your-issue": "Descreva o seu problema",
+        "refer-and-earn-desc": "Ofereça $3 aos amigos em dados eSIM",
+        "call-credit-required": "Crédito necessário",
+        "refer-and-earn-title": "Indique e ganhe",
+        "verify-your-identity": "Verificar identidade",
+        "call-credit-required-note": "Nota: é necessário crédito para chamadas.",
+        "verify-your-identity-desc": "Por segurança, conclua a verificação KYC."
+    },
+    "delete": "Eliminar",
+    "gender": {
+        "male": "Masculino",
+        "female": "Feminino"
+    },
+    "id_doc": "Documento de identificação",
+    "months": {
+        "may": "Maio",
+        "july": "Julho",
+        "june": "Junho",
+        "april": "Abril",
+        "march": "Março",
+        "august": "Agosto",
+        "january": "Janeiro",
+        "october": "Outubro",
+        "december": "Dezembro",
+        "february": "Fevereiro",
+        "november": "Novembro",
+        "september": "Setembro"
+    },
+      "search": "Buscar",
+  "my-esim": {
+    "tab-current": "Atuais",
+    "tab-expired": "Expirados",
+    "screen-title": "Minhas eSIM"
+  },
+  "payment": {
+    "plan-fail-modal": {
+      "cta": "Tentar de novo",
+      "desc": "Seu plano não foi adicionado",
+      "title": "Falhou"
+    },
+    "plan-success-modal": {
+      "cta": "Ir ao painel",
+      "desc": "Seu plano foi adicionado",
+      "title": "Plano adicionado"
+    }
+  },
+  "profile": {
+    "id": "10000038",
+    "email": "demo@simbuster.com",
+    "title": "Perfil",
+    "refer-earn": "Indique e ganhe",
+    "terms-of-use": "Termos de uso",
+    "video-guides": "Guias em vídeo",
+    "delete-account": "Excluir conta",
+    "privacy-policy": "Política de privacidade",
+    "restore-purchases": "Restaurar compras"
+  },
+  "screens": {
+    "sms": {
+      "get-mobile-number": "Obter número móvel",
+      "select-sender-number": "Escolher número remetente",
+      "get-mobile-number-button": "Obter número móvel",
+      "you-need-one-to-send-sms": "Você precisa de um para enviar SMS",
+      "can-only-text-same-country": "Só SMS para o mesmo país"
+    },
+    "back": "Voltar",
+    "esim": {
+      "otp": "OTP",
+      "terms": {
+        "content": "Ao continuar, você aceita os Termos de Serviço e a Política de Privacidade. Confirme que seu aparelho suporta eSIM e o plano/região escolhidos. Reembolso garantido se a eSIM não for usada ou se a viagem mudar. Sem reembolso após ativar.",
+        "terms-replace": "Termos of Service",
+        "privacy-replace": "Política de privacidade"
+      },
+      "network": "Rede",
+      "buy-esims": "Comprar eSIMs",
+      "data-only": "Só dados",
+      "mobile-data": "Dados móveis",
+      "plans-terms": "Esta eSIM é para viajantes nos EUA. Cobertura em todos os 50 estados.",
+      "rename-esim": "Renomear eSIM",
+      "top-up-data": "Recarregar dados",
+      "usage-terms": "Esta eSIM é para viajantes nos EUA. Cobertura em todos os 50 estados.",
+      "save-changes": "Salvar alterações",
+      "prices-up-to-60": "Até 60% mais barato que outros.",
+      "show-archived-esims": "Mostrar eSIMs arquivadas",
+      "rename-esim-description": "Como quer chamar esta eSIM?",
+      "plan-details-network-desc": "Rede e velocidade variam por local."
+    },
+    "fail": "FALHA",
+    "info": "Info",
+    "keep": "Manter",
+    "save": "Salvar",
+    "clear": "Limpar",
+    "esims": "eSIMs",
+    "guide": "Guia",
+    "retry": "Repetir",
+    "terms": "Termos",
+    "alerts": {
+      "error": "Erro",
+      "purchase-error": "Erro na compra",
+      "purchase-failed": "Compra falhou",
+      "failed-to-purchase": "Falha ao comprar produto",
+      "product-not-available": "Produto indisponível"
+    },
+    "fulfil": "Processar",
+    "how-to": "Como?",
+    "rename": "Renomear",
+    "search": "Buscar",
+    "archive": "Arquivar",
+    "collect": "Coletar",
+    "credits": {
+      "no-expiry": "Sem validade",
+      "sms-credit": "Crédito SMS",
+      "terms-of-use": "Termos de uso",
+      "speech-credit": "Crédito voz",
+      "buster-minutes": "Minutos Buster"
+    },
+    "go-back": "Voltar",
+    "payment": {
+      "cvv": "CVV",
+      "mm-yyyy": "MM/AAAA",
+      "month-mm": "Mês (MM)",
+      "year-yyyy": "Ano (AAAA)",
+      "card-number": "Número do cartão",
+      "checkout-id": "ID do checkout",
+      "card-payment": "Pagamento por cartão",
+      "pay-with-card": "Pagar com cartão",
+      "cardholder-name": "Nome no cartão",
+      "initialize-payment": "Iniciar pagamento",
+      "pay-with-apple-pay": "Pagar com Apple Pay",
+      "pay-with-google-pay": "Pagar com Google Pay",
+      "generate-test-checkout-id": "Gerar checkout ID teste"
+    },
+    "port-in": "Portar p/ dentro",
+    "prepare": "Preparar",
+    "success": "SUCESSO",
+    "surveys": "Pesquisas",
+    "warning": "Atenção!",
+    "you-won": "Você ganhou",
+    "youtube": "YouTube",
+    "continue": "Continuar",
+    "earnings": "Ganhos",
+    "my-plans": "Meus planos",
+    "no-esims": "Sem eSIMs",
+    "port-out": "Portar p/ fora",
+    "withdraw": "Sacar",
+    "scan-card": "Escanear cartão",
+    "try-again": "Tentar de novo",
+    "unarchive": "Desarquivar",
+    "hot-offers": "Ofertas quentes",
+    "promo-code": "Código promo",
+    "show-popup": "Mostrar pop-up",
+    "sip-config": "Config SIP",
+    "sms-credit": "Crédito SMS",
+    "switch-off": "Desativar",
+    "validation": {
+      "cvv-invalid": "CVV must contain only digits",
+      "card-number-invalid": "Card número must be between 13 and 19 digits",
+      "expiry-date-invalid": "Expiry date must be in MM/YYYY format",
+      "card-number-required": "Card número is required",
+      "expiry-date-required": "Expiry date is required",
+      "business-name-required": "Business name is required",
+      "business-name-too-long": "Business name is too long",
+      "language-accent-required": "Language/accent is required",
+      "communication-style-required": "Communication style is required",
+      "business-description-required": "Business description is required",
+      "business-description-too-long": "Business description is too long"
+    },
+    "call-credit": "Crédito voz",
+    "collect-big": "Coletar +",
+    "detect-esim": "Detectar eSIM",
+    "new-message": "Nova mensagem",
+    "reward-zone": "Zona de recompensas",
+    "show-banner": "Mostrar banner",
+    "transfer-in": "Transferir p/ dentro",
+    "voip-config": "Config VoIP",
+    "watch-video": "Ver vídeo",
+    "ai-assistant": {
+      "bot": "Bot",
+      "help": "Ajuda"
+    },
+    "archive-esim": "Arquivar eSIM",
+    "are-you-sure": "Tem certeza?",
+    "no-codes-yet": "Sem códigos ainda",
+    "payment-test": "Teste de pagamento",
+    "step-by-step": "Passo a passo",
+    "terms-of-use": "Termos de uso",
+    "transfer-out": "Transferir p/ fora",
+    "video-guides": "Guias em vídeo",
+    "voice-credit": "Crédito voz",
+    "activate-esim": "Ativar eSIM",
+    "calling-plans": "Planos",
+    "cancel-number": "Cancelar número",
+    "collect-coins": {
+      "claim": "Resgatar",
+      "title": "Coletar moedas",
+      "redeem": "Trocar",
+      "surveys": "Pesquisas",
+      "spin-now": "Girar agora",
+      "use-coins": "Use moedas para pegar o prêmio.",
+      "hot-offers": "Ofertas quentes",
+      "collect-big": "Coletar +",
+      "two-minutes": "2 min",
+      "cannot-claim": "Prêmio indisponível agora",
+      "coin-journey": "Jornada de moedas",
+      "just-me-basic": "Só eu (Básico)",
+      "daily-check-in": "Check-in diário",
+      "slide-to-redeem": "Deslize p/ trocar",
+      "try-again-later": "Tente mais tarde",
+      "offer-unavailable": "Oferta indisponível",
+      "confirm-redemption": "Confirmar troca",
+      "use-coins-to-get-reward": "Use moedas para pegar o prêmio.",
+      "watch-ads-to-collect-coins": "Ver anúncios p/ moedas",
+      "watch-videos-to-collect-coins": "Ver vídeos p/ moedas"
+    },
+    "enter-message": "Digite a mensagem",
+    "excluding-tax": "Sem impostos",
+    "mobile-top-up": "Recarga móvel",
+    "phone-numbers": "Números",
+    "prepaid-codes": "Códigos pré-pagos",
+    "sms-countries": "Países SMS",
+    "archived-esims": "eSIMs arquivadas",
+    "esim-detection": "Detecção eSIM",
+    "no-numbers-yet": "Sem números ainda",
+    "show-animation": "Mostrar show_animation",
+    "copy-push-token": "Copiar token push",
+    "get-free-number": "Pegar número grátis",
+    "install-my-esim": "Instalar minha eSIM",
+    "try-again-later": "Tente mais tarde",
+    "call-transcripts": "Transcrições",
+    "enter-promo-code": "Digite seu código promo",
+    "get-prepaid-code": "Obter código pré-pago",
+    "network-degraded": "Rede degradada",
+    "number-activated": "Número ativado!",
+    "clear-all-history": "Limpar histórico?",
+    "country-of-region": "País/região",
+    "offer-unavailable": "Oferta indisponível",
+    "payment-simulator": "Simulador de pagamento",
+    "promo-code-button": "CÓDIGO PROMO",
+    "rename-number-tag": "Renomear etiqueta",
+    "ai-assistant-title": "Assistente IA",
+    "build-my-reception": "Criar minha Central",
+    "clear-recent-calls": "Limpar chamadas",
+    "how-to-call-number": "Como quer chamar este número?",
+    "no-plans-available": "Sem planos",
+    "required-documents": "Docs obrigatórios",
+    "show-fullscreen-ad": "Mostrar fullscreen_ad",
+    "subscription-terms": "Termos da assinatura",
+    "we-need-these-docs": "Precisamos destes docs",
+    "dont-renew-manually": "Se não renovar, o número será cancelado.",
+    "local-calling-plans": "Planos locais",
+    "see-recharge-status": "Ver status da recarga",
+    "where-need-internet": "Onde precisa de Internet?",
+    "nomupay-payment-test": "Teste Nomupay",
+    "terms-and-conditions": "Termos e condições",
+    "will-delete-call-logs": "Isso apaga chamadas recentes",
+    "esim-will-be-available": "Esta eSIM vai para o arquivo",
+    "action-cannot-be-undone": "Ação irreversível. O número pode ser perdido.",
+    "disabling-smart-calling": "Sem Smart Calling pode custar mais.",
+    "reward-cannot-be-claimed": "Prêmio indisponível agora",
+    "go-to-esim-activation-guide": "Ir ao guia de ativação",
+    "switch-off-automatic-renewal": "Desativar renovação?",
+    "number-successfully-purchased": "Seu número foi comprado e está pronto.",
+    "share-your-link-to-start-earning": "Compartilhe seu link e ganhe"
+  },
+  "support": {
+    "faq": "FAQ",
+    "tab1": "Ajuda e contato",
+    "tab2": "Meus pedidos",
+    "agent": "AGENTE",
+    "links": {
+      "cant_buy": "Não consigo comprar número eSIM",
+      "bad_voice": "Áudio ruim",
+      "cant_hear": "Não ouço nada",
+      "no_credit": "Sem crédito",
+      "cant_recharge": "Não consigo recarregar",
+      "no_calls_esim": "Não recebo chamadas na eSIM",
+      "cant_see_number": "Não veem meu número",
+      "esim_not_renewed": "eSIM não renovou",
+      "dailing_not_ringing": "Chama e não toca"
+    },
+    "titles": {
+      "title1": "Olá!",
+      "title2": "Como podemos ajudar?"
+    },
+    "cta-title": "Enviar pedido",
+    "empty-desc": "Precisa de ajuda?\nEnvie um pedido.",
+    "empty-title": "Sem pedidos ainda",
+    "screen-title": "Suporte",
+    "submit-request": "Enviar pedido",
+    "contact-support": "Falar com suporte",
+    "onboarding-flow": "Onboarding flow – tasks related to user onboarding…",
+    "partner-with-us": "Seja parceiro",
+    "whatsapp-support": "Suporte WhatsApp",
+    "content-not-available": "Algum conteúdo ainda não está",
+    "phone-number-info-needed": "Falta info do número"
+  },
+  "continue": "Continuar",
+  "kyc-flow": {
+    "key-action-items": {
+      "cta": "Enviar",
+      "title": "Verificação",
+      "pending": "Pendente",
+      "description": "Pronto após aprovação (1–2 dias úteis).",
+      "info-banners": {
+        "how-to": {
+          "title": "Como?",
+          "subtext": "Guia em vídeo"
+        },
+        "verification": {
+          "title": "Verificação",
+          "subtext": "step by step"
+        }
+      },
+      "info-required": "Info necessária",
+      "cta-processing": "Processando",
+      "identity-section": {
+        "title": "Identidade",
+        "subtext": "Pessoal ou empresa"
+      },
+      "agreement-section": {
+        "title": "Acordo",
+        "subtext": "Assinatura"
+      },
+      "documents-section": {
+        "title": "Documentos",
+        "subtext": "Enviar"
+      },
+      "required-documents": {
+        "address": {
+          "title": "Endereço",
+          "default": "Endereço = DDD do número",
+          "worldwide": "Endereço mundial aceito"
+        },
+        "business": {
+          "title": "Empresa",
+          "certificate": "Certificado de registro"
+        },
+        "personal": {
+          "title": "Pessoal",
+          "identity": "Passaporte ou ID",
+          "certificate": "Certificado de registro",
+          "utility-bill": "Conta recente (≤6 meses)"
+        }
+      }
+    }
+  },
+  "settings": {
+    "title": "Configurações",
+    "currency": "Moeda",
+    "app-language": "Idioma do app",
+    "release-esim": "Liberar eSIM",
+    "notifications": "Notificações",
+    "default-country": "País padrão"
+  },
+  "sign-out": {
+    "title": "Sair?",
+    "cancel": "Cancelar",
+    "confirm": "Sair",
+    "description": "Você sairá deste aparelho. Continuar?"
+  },
+  "ai-credit": {
+    "terms": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  "countries": {
+    "screen-title": "Países e rede"
+  },
+  "dashboard": {
+    "refer": "Indique e ganhe",
+    "banners": {
+      "banner_1": {
+        "cta": "Recarregar",
+        "title": "Acabando?",
+        "description": "Recarregue em segundos"
+      },
+      "banner_2": {
+        "cta": "Testar",
+        "title": "Novo: IA ao vivo",
+        "description": "Teste a Central"
+      },
+      "banner_3": {
+        "cta": "Ver planos",
+        "title": "Economize em chamadas",
+        "description": "Até 70% off"
+      },
+      "banner_4": {
+        "cta": "Recarregar",
+        "title": "Acabando?",
+        "description": "Recarregar in seconds "
+      },
+      "banner_5": {
+        "cta": "Escolher",
+        "title": "Precisa de 2º número?",
+        "description": "Móvel e fixo"
+      },
+      "banner_6": {
+        "cta": "Ver detalhes",
+        "title": "Ofertas por tempo",
+        "description": "Até 90% off"
+      }
+    },
+    "support": "Suporte",
+    "mobile_data": "eSIMs de dados",
+    "my_products": "Meus produtos",
+    "ai_assistant": "Assistente IA",
+    "banner_cta_1": "Convidar",
+    "banner_cta_2": "testar",
+    "banner_cta_3": "Ver planos",
+    "calling_plan": "Planos e pacotes",
+    "coin_balance": "Moedas",
+    "receptionist": "Central",
+    "rewards_zone": "Zona de recompensas",
+    "phone_numbers": "Números",
+    "prepaid_codes": "Códigos pré-pagos",
+    "banner_label_1": "Indique e ganhe",
+    "banner_label_2": "Indique e ganhe",
+    "banner_label_3": "Indique e ganhe",
+    "refer_and_earn": "Indique e ganhe",
+    "special_offers": "Ofertas especiais",
+    "wallet_balance": "Saldo",
+    "mobile_recharge": "Recarga móvel",
+    "banner_subtitle_1": "Dê US$3 em dados eSIM",
+    "banner_subtitle_2": "Dê US$3 em dados eSIM",
+    "banner_subtitle_3": "Dê US$3 em dados eSIM"
+  },
+  "esim-card": {
+    "data": "Dados",
+    "info": "Info",
+    "voice-plus": "Voz+"
+  },
+  "gift-card": {
+    "terms-of-use": "Termos de uso",
+    "enjoy-message": "Aproveite seu gift card!"
+  },
+  "components": {
+    "id": "ID",
+    "free": "Grátis",
+    "oops": "Ops!",
+    "copy-stack-trace": "Copiar stack trace",
+    "available-countries": "Países disponíveis"
+  },
+  "issue-info": {
+    "title": "Info do problema",
+    "agent-message": "Só passando para ver se você conseguiu revisar os detalhes do fluxo de onboarding. Se tiver dúvidas ou feedback, me avise. Obrigado!"
+  },
+  "phone-book": {
+    "no-permission-cta": "Ir às configurações",
+    "no-permission-desc1": "Sem contatos, não dá p/ baratear chamadas",
+    "no-permission-desc2": "Permita o acesso abaixo",
+    "no-permission-title": "Você não liberou contatos",
+    "phone-number-placeholder": "digite o número"
+  },
+  "refer-earn": {
+    "test": "Teste",
+    "earn-tab": {
+      "faq": {
+        "step1": {
+          "title": "Passo 1",
+          "description": "Compartilhe seu link/código"
+        },
+        "step2": {
+          "title": "Passo 2",
+          "description": "Amigo se cadastra pelo seu link"
+        },
+        "step3": {
+          "title": "Passo 3",
+          "description": "Você ganha quando ele compra."
+        },
+        "title": "FAQ"
+      },
+      "un-sign-in": {
+        "tip1": "Convide e ganhe*",
+        "tip2": "Acompanhe ganhos no app",
+        "tip3": "Saque para o banco"
+      },
+      "how-it-works": {
+        "earn": {
+          "title": "Você ganha quando compram",
+          "description": "Ganhos somam a cada compra."
+        },
+        "join": {
+          "title": "Eles se cadastram e compram",
+          "description": "Seu amigo compra um serviço."
+        },
+        "refer": {
+          "title": "Compartilhe seu link",
+          "description": "Envie seu link pessoal."
+        },
+        "title": "Como funciona"
+      },
+      "become-an-affiliate": "Virar parceiro"
+    },
+    "earnings": "Ganhos",
+    "withdraw": "Sacar",
+    "share-link": "Compartilhar meu link",
+    "bank-details": "Informe dados bancários",
+    "how-it-works": "Como funciona",
+    "screen-title": "Indique e ganhe",
+    "whos-earning": "Quem está te rendendo",
+    "track-amounts": "Acompanhe no app",
+    "log-in-website": "Entre no site",
+    "my-network-tab": {
+      "level": "Nível",
+      "balance": "Saldo",
+      "earnings": "Ganhos",
+      "top-tab1": "Meus indicados",
+      "top-tab2": "Indique e ganhe",
+      "bottom-tab1": "Meu progresso",
+      "bottom-tab2": "Top ganhadores",
+      "my-team-tab": {
+        "label": "Nível"
+      },
+      "balance-badge": {
+        "title": "Saldo"
+      },
+      "steps-section": {
+        "step1": "Refer",
+        "step2": "Join",
+        "step3": "Earn"
+      },
+      "earnings-badge": {
+        "title": "Ganhos"
+      },
+      "training-badge": {
+        "title": "Treino",
+        "description": "escola"
+      },
+      "tutorial-badge": {
+        "title": "Tutorial",
+        "description": "ver vídeo"
+      },
+      "store-referal-link": "Salvar link",
+      "invite-button-label": "Compartilhe seu link e ganhe",
+      "unlock-to-start-earning": "Desbloqueie p/ ganhar",
+      "share-referral-link-label": "Compartilhar link"
+    },
+    "total-earnings": "Seus ganhos totais",
+    "earn-every-time": "Você ganha quando compram",
+    "earnings-wallet": "Vá em Ganhos ou Carteira",
+    "share-your-link": "Compartilhe seu link",
+    "share-link-start": "Compartilhe seu link e ganhe",
+    "share-my-link-now": "Compartilhar meu link",
+    "withdraw-securely": "Saque seguro p/ banco",
+    "earnings-generated": "Ganhos só de compras dos indicados.",
+    "secure-withdrawals": "Saques seguros",
+    "your-total-earnings": "Seus ganhos totais",
+    "track-amounts-in-app": "Acompanhe no app",
+    "log-in-on-our-website": "Entre no site",
+    "earnings-from-referrals": "Ganhos por indicação",
+    "withdraw-securely-to-bank": "Saque seguro p/ banco",
+    "number-of-referrals-to-unlock": "mais indicações p/ liberar",
+    "enter-bank-details-and-confirm": "Informe dados bancários",
+    "earnings-from-referral-purchases": "Ganhos por indicação",
+    "go-to-earnings-or-wallet-section": "Vá em Ganhos ou Carteira"
+  },
+    "sms-credit": {
+    "terms": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  "verify-kyc": {
+    "title": "Informação"
+  },
+  "call-screen": {
+    "unstable-connection": "Ligação instável"
+  },
+  "maintanance": {
+    "cta": "Tentar novamente",
+    "title": "Voltamos já!",
+    "description": "Estamos a fazer manutenção para melhorar a sua experiência. Esta funcionalidade está temporariamente indisponível. Volte em breve."
+  },
+  "my-products": {
+    "info-banners": {
+      "left": {
+        "title": "Indique e ganhe",
+        "subtext": "Receba dinheiro"
+      },
+      "right": {
+        "title": "Ofertas especiais",
+        "subtext": "Melhores ofertas"
+      }
+    }
+  },
+  "promo-cards": {
+    "no-codes": "Sem códigos pré-pagos"
+  },
+  "upload-docs": {
+    "256-encrypted": "Encriptação 256 bits.",
+    "gdpr-compliant": "Compatível com GDPR."
+  },
+  "video_inapp": {
+    "ai_bot": {
+      "title": "Assistente IA",
+      "subtitle": "Como configurar"
+    },
+    "ivr_help": {
+      "title": "Como funciona a Central",
+      "subtitle": "Instale e fique ativo"
+    },
+    "esim_help": {
+      "title": "Como funciona o eSIM",
+      "subtitle": "Instale e fique ativo"
+    },
+    "kyc_numbers": {
+      "title": "Verificar números (KYC)",
+      "subtitle": "Envie documentos em minutos"
+    }
+  },
+  "ai-assistant": {
+    "help": "Ajuda",
+    "guide": {
+      "bottomSection": {
+        "label": "O Buster vai ler e aprender.",
+        "badge_label": "Guia de docs"
+      },
+      "pick_role_desc": "Atribua ao Buster um trabalho — suporte, vendas, reservas e mais.",
+      "pick_role_title": "Escolher função",
+      "hire_buster_desc": "Último passo! Escolha uma voz, atribua um número e fique ativo.",
+      "hire_buster_title": "Contratar Buster",
+      "teach_buster_desc": "Envie documentos ou partilhe o conhecimento do seu negócio para o Buster aprender o essencial.",
+      "teach_buster_title": "Ensinar Buster",
+      "interview_buster_desc": "Responda a algumas perguntas para o Buster entender o seu negócio e tom.",
+      "interview_buster_title": "Entrevistar Buster"
+    },
+    "my-team": {
+      "empty-title": "Nenhum membro encontrado"
+    },
+    "optional": "(opcional)",
+    "doc-guide": {
+      "title": "Guia de documentos",
+      "avoid-section": {
+        "title": "O que evitar",
+        "step-1": {
+          "title": "Imagens, gráficos, capturas de ecrã"
+        },
+        "step-2": {
+          "title": "PDFs apenas com imagens"
+        },
+        "step-3": {
+          "title": "Links externos não serão seguidos"
+        },
+        "step-4": {
+          "title": "Vídeos incorporados ou formulários interativos"
+        },
+        "step-5": {
+          "title": "Manuais internos cheios de jargão"
+        },
+        "step-6": {
+          "title": "Docs Word com formatação desnecessária ou assinaturas"
+        },
+        "description": "Isto pode confundir ou prejudicar o treino do Buster:"
+      },
+      "include-section": {
+        "title": "O que incluir",
+        "step-1": {
+          "title": "Sobre o seu negócio",
+          "description": "O que faz, quem ajuda, como trabalha"
+        },
+        "step-2": {
+          "title": "Produtos ou serviços",
+          "description": "Nomes, descrições, preços, recursos"
+        },
+        "step-3": {
+          "title": "FAQs ou perguntas comuns",
+          "description": "Prazos, reservas, reembolsos, horários de suporte"
+        },
+        "step-4": {
+          "title": "Scripts ou respostas telefónicas",
+          "description": "Saudações de chamada e como explica aos clientes"
+        },
+        "step-5": {
+          "title": "Ofertas e promoções",
+          "description": "Campanhas atuais (descontos, ofertas sazonais)"
+        },
+        "step-6": {
+          "title": "Detalhes do negócio",
+          "description": "Localização, horários, email, telefone, políticas"
+        },
+        "description": "Isto ajuda o Buster a dar respostas corretas:"
+      },
+      "pro-tips-section": {
+        "title": "Dicas para melhores resultados",
+        "description": "1. Escreva de forma clara e simples.",
+        "description-2": "2. Use pontos ou parágrafos curtos.",
+        "description-3": "3. Escreva como para um novo colaborador."
+      },
+      "template-section": {
+        "title": "Modelo de exemplo",
+        "description": "Bem-vindo à Spark Cleaning!",
+        "description-2": "Fazemos limpeza doméstica e de escritório em Londres.",
+        "description-3": "Serviços: limpeza profunda, janelas e manutenção semanal.",
+        "description-4": "Preços a partir de $49 por visita.",
+        "description-5": "Aberto Seg–Sáb, 9h–18h.",
+        "description-6": "Perguntas frequentes:",
+        "description-7": "Quanto dura a visita? (Normalmente 2–3 horas)",
+        "description-8": "Trazem o vosso equipamento? (Sim)",
+        "description-9": "Como remarcar? (Ligue ou email 24h antes)"
+      }
+    },
+    "hire-desk": {
+      "card-left": {
+        "steps": {
+          "deploy": "Ativar",
+          "training": "Treino",
+          "interview": "Entrevista"
+        },
+        "title": "Contratar Buster",
+        "subtitle": "para o emprego ideal"
+      },
+      "card-right": {
+        "title": "Horário de trabalho",
+        "subtitle": "Planos e minutos"
+      },
+      "assign-button-label": "Atribuir função ao Buster"
+    },
+    "main-tabs": {
+      "my-team": "Minha equipa",
+      "hiring-desk": "Contratação"
+    },
+    "my-buster": {
+      "title": "O meu bot",
+      "button": "Testar este Buster",
+      "sections": {
+        "call-setup": {
+          "title": "Configuração de chamadas"
+        },
+        "qa-briefing": {
+          "items": {
+            "item-1": {
+              "title": "Qual é o nome do seu negócio"
+            },
+            "item-2": {
+              "title": "O que faz o seu negócio?"
+            },
+            "item-3": {
+              "title": "Como devo responder se perguntarem por preços?",
+              "answer": "Ir de férias"
+            },
+            "item-4": {
+              "title": "Qual deve ser o meu tom?"
+            },
+            "item-5": {
+              "title": "Como lida com chamadores difíceis?"
+            },
+            "item-6": {
+              "title": "Idioma"
+            }
+          },
+          "title": "Briefing de Q&A"
+        },
+        "upload-docs": {
+          "title": "Enviar documentos",
+          "instructions": "2. Instruções",
+          "upload-button": "pdf, doc, docx"
+        },
+        "call-history": {
+          "title": "Enviar documentos",
+          "subtitle": "(transcrições)"
+        },
+        "what-buster-knows": {
+          "title": "O que o Buster sabe",
+          "description": "Escreva info importante, perguntas comuns e o que o Buster deve saber",
+          "placeholder": "Exemplo:\n- Prestamos serviços de canalização\n- Aberto Seg–Sáb, 9h–18h\n- Pergunta comum: Cobram taxa de deslocação?\n- Resposta: Primeiros 30 min grátis"
+        },
+        "communication-style": {
+          "title": "Estilo de comunicação",
+          "input-title-1": "Como deve o Buster falar?",
+          "input-title-2": "Idioma / sotaque",
+          "buster-will-speak": "O Buster vai falar em: "
+        }
+      }
+    },
+    "hire-buster": {
+      "title": "Contratar Buster",
+      "tones": {
+        "excited": "Entusiasmado",
+        "neutral": "Neutro",
+        "serious": "Sério",
+        "friendly": "Amigável",
+        "professional": "Profissional"
+      },
+      "training-step": {
+        "title": "3. O treino",
+        "description": "Ensine o Buster a responder melhor",
+        "help-button": "Ajuda",
+        "badge-button": "Guia de docs",
+        "business-info-accordion": {
+          "title": "a. Info do negócio e FAQs",
+          "input-title-1": "Escreva info importante, perguntas comuns e o que o Buster deve saber",
+          "input-1-placeholder": "Exemplo:\n- Prestamos serviços de canalização\n- Aberto Seg–Sáb, 9h–18h\n- Pergunta comum: Cobram taxa de deslocação?\n- Resposta: Primeiros 30 min grátis",
+          "you-will-be-able-upload-docs-later": "*Upload de documentos disponível após Contratar"
+        },
+        "buster-identity-accordion": {
+          "title": "c. Dar nome ao Buster",
+          "subtitle": "(Identidade)",
+          "input-title-1": "Como deve o Buster apresentar-se nas chamadas?",
+          "input-1-placeholder": "ex.: Bob, Alice"
+        },
+        "document-upload-accordion": {
+          "title": "b. Enviar documento",
+          "subtitle": "(opcional)",
+          "info-label-1": "O Buster vai ler e aprender.",
+          "info-label-2": "Conforme GDPR e CCPA. Os seus dados estão seguros.",
+          "input-title-1": "pdf, doc, docx"
+        }
+      },
+      "bottom-buttons": {
+        "back": "Voltar",
+        "next": "Seguinte"
+      },
+      "interview-step": {
+        "title": "2. A entrevista",
+        "description": "Algumas perguntas para ajudar o Buster",
+        "business-info-accordion": {
+          "title": "a. Sobre o seu negócio",
+          "input-title-1": "Qual é o nome do seu negócio",
+          "input-title-2": "O que faz o seu negócio?",
+          "input-1-placeholder": "Como se chama o seu negócio?",
+          "input-2-placeholder": "ex.: florista, consultor jurídico, café..."
+        },
+        "communication-style-accordion": {
+          "title": "b. Estilo de comunicação",
+          "input-title-1": "Como deve o Buster falar?",
+          "input-title-2": "Idioma / sotaque",
+          "buster-will-speak": "O Buster vai falar em: "
+        },
+        "handling-situations-accordion": {
+          "title": "c. Situações",
+          "input-title-1": "Algo importante a evitar?",
+          "input-1-placeholder": "ex.: reembolsos, descontos, ofertas"
+        }
+      },
+      "find-vacancy-step": {
+        "title": "1. Preencher vaga",
+        "description": "O que deve o Buster fazer por si?"
+      }
+    },
+    "how-to-hire": {
+      "title": "Como contratar",
+      "button": "Contratar Buster"
+    },
+    "screen-title": "Assistente IA",
+    "team-members": {
+      "bot": "Bot",
+      "max": "Max",
+      "alex": "Alex",
+      "dominic": "Dominic"
+    },
+    "bot-vacancies": {
+      "info-bot": {
+        "title": "Bot informativo",
+        "description": "Partilhe horários, localização e outras infos"
+      },
+      "custom-role": {
+        "title": "Função personalizada",
+        "description": "Defina o seu próprio papel de assistente"
+      },
+      "hotline-bot": {
+        "title": "Bot de emergência",
+        "description": "Atenda urgências rapidamente"
+      },
+      "sales-queries": {
+        "title": "Pedidos de vendas",
+        "description": "Ajuda a explicar produtos e orientar compradores"
+      },
+      "support-calls": {
+        "title": "Chamadas de suporte",
+        "description": "Responda a dúvidas de suporte"
+      },
+      "knowledge-base": {
+        "title": "Base de conhecimento",
+        "description": "Responda com base nos seus docs e FAQ"
+      }
+    },
+    "accent-language": {
+      "amy": "Inglês (GB) - Feminino",
+      "matthew": "Inglês (EUA) - Feminino",
+      "tiffany": "Inglês (EUA) - Masculino"
+    },
+    "mention-refunds": "Mencionar reembolsos? Frases a evitar?",
+    "call-transcripts": {
+      "title": "Transcrições de chamadas"
+    },
+    "create-completed": {
+      "title": "Pronto para contratar o Buster?",
+      "subtitle": "Vamos ficar ativos. Pronto para trabalhar!",
+      "swipe-button-label": "Deslize para contratar"
+    },
+    "number-selection": {
+      "title": "Escolher um número",
+      "subtitle": "As pessoas vão ligar para falar com o Buster."
+    },
+    "choose-buster-setup": {
+      "title": "Configuração de chamadas do Buster",
+      "description": "De onde deve o Buster atender?",
+      "simple-title": "Linha direta (simples)",
+      "receptionist-title": "Parte da receção (Central)",
+      "simple-description": "O Buster atende diretamente num número dedicado",
+      "receptionist-description": "O Buster atende após o cliente premir 1, 2 ou 3"
+    },
+    "communication-style": {
+      "excited": "Entusiasmado",
+      "neutral": "Neutro",
+      "serious": "Sério",
+      "friendly": "Amigável",
+      "professional": "Profissional"
+    },
+    "handling-situations": "c. Situações",
+    "call-transcripts-detail": {
+      "title": "Transcrições de chamadas",
+      "ai-bot-label": "Agente de voz IA",
+      "caller-label": "Chamador"
+    }
+  },
+  "app-language": {
+    "title": "Idioma da aplicação"
+  },
+  "call-credits": {
+    "extra": "extra",
+    "plans": {
+      "plan-1": "Plano básico",
+      "plan-2": "Poupança inteligente",
+      "plan-3": "Power Saver Bónus",
+      "plan-4": "Utilizador intensivo",
+      "subtitle-1": "Crédito +$10",
+      "subtitle-2": "Crédito +$15",
+      "subtitle-3": "Crédito +$20",
+      "subtitle-4": "Crédito +$20"
+    },
+    "title": "Crédito de chamadas*",
+    "heavy-user": "Utilizador intensivo",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "power-saver": "Power Saver",
+    "top-up-bonus": "Bónus de recarga",
+    "description-card": "para chamadas (receção em números gratuitos)",
+    "bonus-credit-deals": "Ofertas de bónus de crédito"
+  },
+      "country_name": {
+        "abw": "Aruba",
+        "afg": "Afeganistão",
+        "ago": "Angola",
+        "aia": "Anguila",
+        "ala": "Ilhas Aland",
+        "alb": "Albânia",
+        "and": "Andorra",
+        "are": "Emirados Árabes Unidos",
+        "arg": "Argentina",
+        "arm": "Armênia",
+        "asm": "Samoa Americana",
+        "atg": "Antígua e Barbuda",
+        "aus": "Austrália",
+        "aut": "Áustria",
+        "aze": "Azerbaijão",
+        "bdi": "Burundi",
+        "bel": "Bélgica",
+        "ben": "Benin",
+        "bes": "Países Baixos Caribenhos",
+        "bfa": "Burquina Faso",
+        "bgd": "Bangladesh",
+        "bgr": "Bulgária",
+        "bhr": "Barein",
+        "bhs": "Bahamas",
+        "bih": "Bósnia e Herzegovina",
+        "blm": "São Bartolomeu",
+        "blr": "Bielorrússia",
+        "blz": "Belize",
+        "bmu": "Bermudas",
+        "bol": "Bolívia",
+        "bra": "Brasil",
+        "brb": "Barbados",
+        "brn": "Brunei",
+        "btn": "Butão",
+        "bwa": "Botsuana",
+        "caf": "República Centro-Africana",
+        "can": "Canadá",
+        "cck": "Ilhas Cocos (Keeling)",
+        "che": "Suíça",
+        "chl": "Chile",
+        "chn": "China",
+        "civ": "Costa do Marfim",
+        "cmr": "Camarões",
+        "cod": "Congo - Kinshasa",
+        "cog": "República do Congo",
+        "cok": "Ilhas Cook",
+        "col": "Colômbia",
+        "com": "Comores",
+        "cpv": "Cabo Verde",
+        "cri": "Costa Rica",
+        "cub": "Cuba",
+        "cuw": "Curaçao",
+        "cxr": "Ilha Christmas",
+        "cym": "Ilhas Cayman",
+        "cyp": "Chipre",
+        "cze": "Chéquia",
+        "deu": "Alemanha",
+        "dji": "Djibuti",
+        "dma": "Dominica",
+        "dnk": "Dinamarca",
+        "dom": "República Dominicana",
+        "dza": "Argélia",
+        "ecu": "Equador",
+        "egy": "Egito",
+        "eri": "Eritreia",
+        "esh": "Saara Ocidental",
+        "esp": "Espanha",
+        "est": "Estônia",
+        "eth": "Etiópia",
+        "fin": "Finlândia",
+        "fji": "Fiji",
+        "flk": "Ilhas Malvinas",
+        "fra": "França",
+        "fro": "Ilhas Faroé",
+        "fsm": "Micronésia",
+        "gab": "Gabão",
+        "gbr": "Reino Unido",
+        "geo": "Geórgia",
+        "ggy": "Guernesey",
+        "gha": "Gana",
+        "gib": "Gibraltar",
+        "gin": "Guiné",
+        "glp": "Guadalupe",
+        "gmb": "Gâmbia",
+        "gnb": "Guiné-Bissau",
+        "gnq": "Guiné Equatorial",
+        "grc": "Grécia",
+        "grd": "Granada",
+        "grl": "Groenlândia",
+        "gtm": "Guatemala",
+        "guf": "Guiana Francesa",
+        "gum": "Guam",
+        "guy": "Guiana",
+        "hkg": "Hong Kong",
+        "hnd": "Honduras",
+        "hrv": "Croácia",
+        "hti": "Haiti",
+        "hun": "Hungria",
+        "idn": "Indonésia",
+        "imn": "Ilha de Man",
+        "ind": "Índia",
+        "iot": "Território Britânico do Oceano Índico",
+        "irl": "Irlanda",
+        "irn": "Irã",
+        "irq": "Iraque",
+        "isl": "Islândia",
+        "isr": "Israel",
+        "ita": "Itália",
+        "jam": "Jamaica",
+        "jey": "Jersey",
+        "jor": "Jordânia",
+        "jpn": "Japão",
+        "kaz": "Cazaquistão",
+        "ken": "Quênia",
+        "kgz": "Quirguistão",
+        "khm": "Camboja",
+        "kir": "Quiribati",
+        "kna": "São Cristóvão e Névis",
+        "kor": "Coreia do Sul",
+        "kwt": "Kuwait",
+        "lao": "Laos",
+        "lbn": "Líbano",
+        "lbr": "Libéria",
+        "lby": "Líbia",
+        "lca": "Santa Lúcia",
+        "lie": "Liechtenstein",
+        "lka": "Sri Lanka",
+        "lso": "Lesoto",
+        "ltu": "Lituânia",
+        "lux": "Luxemburgo",
+        "lva": "Letônia",
+        "mac": "Macau",
+        "maf": "São Martinho (parte francesa)",
+        "mar": "Marrocos",
+        "mco": "Mônaco",
+        "mda": "Moldávia",
+        "mdg": "Madagascar",
+        "mdv": "Maldivas",
+        "mex": "México",
+        "mhl": "Ilhas Marshall",
+        "mkd": "Macedônia do Norte",
+        "mli": "Mali",
+        "mlt": "Malta",
+        "mmr": "Mianmar (Birmânia)",
+        "mne": "Montenegro",
+        "mng": "Mongólia",
+        "mnp": "Ilhas Marianas do Norte",
+        "moz": "Moçambique",
+        "mrt": "Mauritânia",
+        "msr": "Montserrat",
+        "mtq": "Martinica",
+        "mus": "Maurício",
+        "mwi": "Malaui",
+        "mys": "Malásia",
+        "myt": "Mayotte",
+        "nam": "Namíbia",
+        "ncl": "Nova Caledónia",
+        "ner": "Níger",
+        "nfk": "Ilha Norfolk",
+        "nga": "Nigéria",
+        "nic": "Nicarágua",
+        "niu": "Niue",
+        "nld": "Países Baixos",
+        "nor": "Noruega",
+        "npl": "Nepal",
+        "nru": "Nauru",
+        "nzl": "Nova Zelândia",
+        "omn": "Omã",
+        "pak": "Paquistão",
+        "pan": "Panamá",
+        "per": "Peru",
+        "phl": "Filipinas",
+        "plw": "Palau",
+        "png": "Papua-Nova Guiné",
+        "pol": "Polônia",
+        "pri": "Porto Rico",
+        "prk": "Coreia do Norte",
+        "prt": "Portugal",
+        "pry": "Paraguai",
+        "pse": "Palestina",
+        "pyf": "Polinésia Francesa",
+        "qat": "Catar",
+        "reu": "Reunião",
+        "rom": "Roménia",
+        "rus": "Rússia",
+        "rwa": "Ruanda",
+        "sau": "Arábia Saudita",
+        "sdn": "Sudão",
+        "sen": "Senegal",
+        "sgp": "Singapura",
+        "sgs": "Geórgia do Sul e Ilhas Sandwich do Sul",
+        "shn": "Santa Helena",
+        "sjm": "Svalbard e Jan Mayen",
+        "slb": "Ilhas Salomão",
+        "sle": "Serra Leoa",
+        "slv": "El Salvador",
+        "smr": "San Marino",
+        "som": "Somália",
+        "spm": "Saint‑Pierre e Miquelon",
+        "srb": "Sérvia",
+        "ssd": "Sudão do Sul",
+        "stp": "São Tomé e Príncipe",
+        "sur": "Suriname",
+        "svk": "Eslováquia",
+        "svn": "Eslovênia",
+        "swe": "Suécia",
+        "swz": "Essuatíni",
+        "sxm": "Sint Maarten (parte neerlandesa)",
+        "syc": "Seicheles",
+        "syr": "Síria",
+        "tca": "Ilhas Turcas e Caicos",
+        "tcd": "Chade",
+        "tgo": "Togo",
+        "tha": "Tailândia",
+        "tjk": "Tadjiquistão",
+        "tkl": "Tokelau",
+        "tkm": "Turcomenistão",
+        "tls": "Timor-Leste",
+        "ton": "Tonga",
+        "tto": "Trinidad e Tobago",
+        "tun": "Tunísia",
+        "tur": "Turquia",
+        "tuv": "Tuvalu",
+        "twn": "Taiwan",
+        "tza": "Tanzânia",
+        "uga": "Uganda",
+        "ukr": "Ucrânia",
+        "unk": "Kosovo",
+        "ury": "Uruguai",
+        "usa": "Estados Unidos",
+        "uzb": "Uzbequistão",
+        "vat": "Santa Sé (Vaticano)",
+        "vct": "São Vicente e Granadinas",
+        "ven": "Venezuela",
+        "vgb": "Ilhas Virgens Britânicas",
+        "vir": "Ilhas Virgens Americanas",
+        "vnm": "Vietnã",
+        "vut": "Vanuatu",
+        "wlf": "Wallis e Futuna",
+        "wsm": "Samoa",
+        "yem": "Iêmen",
+        "zaf": "África do Sul",
+        "zmb": "Zâmbia",
+        "zwe": "Zimbábue"
+    },
+        "report-issue": {
+        "note": "Confirme que já viu as FAQ antes de enviar o problema.",
+        "title": "Reportar problema",
+        "button": "Reportar problema",
+        "partner-with-us": {
+            "button": "Enviar mensagem",
+            "placeholder": "Escreva a sua mensagem",
+            "get-in-touch": "Contacte-nos"
+        }
+    },
+    "terms-of-use": {
+        "title": "Termos de utilização",
+        "general-terms": "Termos e condições gerais",
+        "validity-point-1": "Mantêm-se válidos até serem terminados ou alterados pelo fornecedor da app.",
+        "validity-point-2": "Atualizações ou alterações serão comunicadas aos utilizadores com rapidez.",
+        "validity-point-3": "Quaisquer alterações entram em vigor conforme indicado no momento da comunicação.",
+        "validity-of-terms": "Validade dos termos e condições gerais",
+        "general-terms-description": "Lorem input"
+    },
+    "address_proof": "Uma fatura recente de serviços (menos de 6 meses)",
+    "app-languages": {
+        "af": "Africânder",
+        "ar": "Árabe",
+        "bg": "Búlgaro",
+        "cs": "Checo",
+        "da": "Dinamarquês",
+        "de": "Alemão",
+        "el": "Grego",
+        "en": "Inglês",
+        "es": "Espanhol",
+        "fi": "Finlandês",
+        "fr": "Francês",
+        "he": "Hebraico",
+        "hu": "Húngaro",
+        "is": "Islandês",
+        "it": "Italiano",
+        "ja": "Japonês",
+        "ko": "Coreano",
+        "nl": "Neerlandês",
+        "no": "Norueguês",
+        "pl": "Polaco",
+        "pt": "Português",
+        "ro": "Romeno",
+        "ru": "Russo",
+        "sv": "Sueco",
+        "th": "Tailandês",
+        "tl": "Tagalo",
+        "tr": "Turco",
+        "uk": "Ucraniano",
+        "vi": "Vietnamita",
+        "zh": "Chinês (Mandarim)",
+        "yue": "Chinês (Cantonês)"
+    },
+    "calling-plans": {
+        "tabs": {
+            "offers": "Ofertas",
+            "my-plans": "Os meus planos"
+        },
+        "local": [],
+        "plans": {
+            "sms_plans": {
+                "desc": "Até 70% em SMS",
+                "title": "Planos de SMS"
+            },
+            "speech_credit": {
+                "desc": "Até 70% em chamadas na UE",
+                "title": "Crédito de chamadas"
+            },
+            "buster_minutes": {
+                "desc": "Até 70% em chamadas IA",
+                "title": "Minutos Buster"
+            }
+        },
+        "europe": {
+            "rates": "Tarifas",
+            "recommended": "Recomendado"
+        },
+        "offers": {
+            "usa-canada": "EUA e Canadá",
+            "ramadan-offer": "Oferta do Ramadão",
+            "se-asia-bundle": "Pacote Sudeste Asiático"
+        },
+        "shared": {
+            "description-long": "Tarifas locais para a União Europeia (descrição longa)",
+            "description-short": "Tarifas locais para a União Europeia"
+        },
+        "titles": {
+            "local": "Planos de chamadas locais",
+            "europe": "Planos de chamadas na Europa",
+            "offers": "Ofertas de chamadas",
+            "special-offers": "Ofertas especiais"
+        },
+        "special": {
+            "terms": "Termos",
+            "hot-offer": "OFERTA QUENTE",
+            "terms-long": "Crédito grátis ($2) só na 1.ª compra. O preço pode variar por moeda e impostos.",
+            "france-number": "Número de França",
+            "national-0870": "0870 Nacional"
+        },
+        "my-plans": {
+            "check-usage-button": "Ver consumo"
+        }
+    },
+    "collect-coins": {
+        "claim": "Reclamar",
+        "title": "Recolher moedas",
+        "redeem": "Resgatar",
+        "surveys": "Inquéritos",
+        "spin-now": "Rodar agora",
+        "use-coins": "Use as suas moedas para obter esta recompensa.",
+        "hot-offers": "Ofertas quentes",
+        "collect-big": "Ganhe a sério",
+        "two-minutes": "2 minutos",
+        "cannot-claim": "Esta recompensa não pode ser reclamada neste momento",
+        "coin-journey": "Jornada de moedas",
+        "just-me-basic": "Só eu (Básico)",
+        "daily-check-in": "Check-in diário",
+        "slide-to-redeem": "Deslize para resgatar",
+        "try-again-later": "Tente novamente mais tarde",
+        "offer-unavailable": "Oferta indisponível",
+        "confirm-redemption": "Confirmar resgate",
+        "watch-ads-to-collect-coins": "Veja anúncios para ganhar moedas",
+        "watch-videos-to-collect-coins": "Veja vídeos para ganhar moedas"
+    },
+    "country-codes": {
+        "screen-title": "Selecionar país do telefone"
+    },
+    "fix_vat_or_id": "<b>Mensagem!</b> Corrija o seu NIF/IVA ou número de ID",
+    "kyc-agreement": {
+        "cta": "Guardar e assinar",
+        "title": "Acordo",
+        "confirmation": "Confirmação *",
+        "section-title": "Acordo tripartido *",
+        "checkbox-label": "Confirmo que aceito os Termos e condições e que assinei o acordo",
+        "email-input-label": "E-mail",
+        "section-description": "Assine eletronicamente — demora menos de 1 minuto"
+    },
+    "kyc-documents": {
+        "title": "Documentos",
+        "passport": {
+            "title": "Passaporte ou ID",
+            "subtitle": "Documento com foto (bem visível)"
+        },
+        "file-types": "jpg, pdf, doc",
+        "certificate": {
+            "title": "Certidão de constituição",
+            "subtitle": "Carregue uma cópia nítida"
+        },
+        "utility-bill": {
+            "title": "Fatura de serviços (comprovativo de morada)",
+            "subtitle": "Com menos de 6 meses"
+        }
+    },
+    "my-esim-usage": {
+        "data": "Dados",
+        "days": "dias",
+        "speed": "Velocidade",
+        "expiry": "Validade",
+        "expired": "Expirado",
+        "service": "Serviço",
+        "validity": "Validade: {{0}} dias",
+        "button-title": "Ativar dados agora",
+        "plan-details": "Detalhes do plano",
+        "screen-title": "França",
+        "activate-before": "Ativar até",
+        "esim-troubleshooting": "Resolução de problemas eSIM",
+        "install-instructions": "Instruções de instalação"
+    },
+    "network-error": {
+        "title": "Sem ligação à Internet",
+        "description": "Está offline. Verifique a ligação e tente novamente."
+    },
+    "payment-modal": {
+        "card": {
+            "title": "Dados do cartão",
+            "pay-amount": "Pagar",
+            "billing-address": "Morada de faturação",
+            "country-of-region": "País/Região"
+        },
+        "titles": {
+            "select-payment": "Selecionar pagamento",
+            "payment-information": "Informação de pagamento"
+        },
+        "additional-info": "Líquido (incl.). Cobrado em USD. Podem aplicar-se taxas cambiais."
+    },
+    "phone-numbers": {
+        "categories": {
+            "get-free-numbers": {
+                "title": "Obter números grátis",
+                "description": "Escolha um grátis"
+            }
+        },
+        "screen-title": "Números de telefone"
+    },
+    "prepaid-codes": {
+        "cta": "Obter código pré-pago ",
+        "about": "Sobre",
+        "title": "Códigos pré-pagos",
+        "details": "Detalhes",
+        "countries": "Países disponíveis",
+        "tab1-title": "Códigos pré-pagos",
+        "tab2-title": "Os meus códigos",
+        "screen-title": "Códigos pré-pagos",
+        "popular-codes": "Códigos populares",
+        "amount-slider-label": "ESCOLHER VALOR",
+        "country-selector-label": "SELECIONAR PAÍS"
+    },
+    "secret-screen": {
+        "title": "Ecrã secreto"
+    },
+    "select-option": "Selecionar uma opção",
+    "speech-credit": {
+        "terms": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    "country-number": {
+        "number-tab": "Número",
+        "utility-bill": "Uma fatura recente de serviços",
+        "address-match": "A morada deve corresponder ao indicativo do número",
+        "advertisement": "80% de desconto no anual = só $1/mês!",
+        "default-title": "Número do país",
+        "passport-or-id": "Número do passaporte ou ID nacional",
+        "number-plan-tab": "Número + Plano",
+        "no-numbers-found": "Nenhum número encontrado",
+        "terms-of-service": "Termos da subscrição",
+        "incorporation-cert": "Certidão de constituição",
+        "required-documents": "Documentos necessários",
+        "receptionist-puzzle": "Puzzle <b>Rececionista (Central)</b> incluído em cada número",
+        "terms-of-service-description": "Ao continuar, aceita os Termos de serviço e a Política de privacidade. A subscrição do número renova automaticamente, salvo cancelamento até 24 horas antes do fim do período atual. A renovação é cobrada nas 24 horas seguintes à taxa e taxas em vigor nessa altura. Sem reembolsos após o número ser usado ou se não for devolvido em 5 horas após a compra.",
+        "terms-of-service-description-terms-replace": "Termos de serviço",
+        "terms-of-service-description-privacy-replace": "Política de privacidade"
+    },
+    "delete-account": {
+        "title": "Eliminar conta",
+        "cancel": "Cancelar",
+        "confirm": "Eliminar",
+        "description": "Tem a certeza? Isto remove todos os dados do sistema e não pode ser restaurado."
+    },
+    "device-blocked": {
+        "title": "Dispositivo bloqueado",
+        "description": "Não pode executar esta aplicação por motivos de segurança."
+    },
+    "error-boundary": {
+        "error": "Ocorreu um erro",
+        "try-again": "Tentar novamente"
+    },
+    "no-call-credit": {
+        "cta": "Adicionar crédito",
+        "title": "Crédito de chamada insuficiente",
+        "description": "O Buster precisa de crédito para receber chamadas."
+    },
+    "privacy-policy": {
+        "title": "Política de privacidade",
+        "section-1-title": "Termos e condições gerais",
+        "section-2-title": "Pontos de validade",
+        "section-1-content": "Comprometemo-nos a proteger a sua privacidade e a segurança da sua informação. Esta Política de privacidade explica como recolhemos, usamos e protegemos os seus dados quando interage com os nossos serviços. Ao utilizar a plataforma, aceita as práticas descritas nesta política.",
+        "section-2-content": "Os seus dados estão seguros. Não partilhamos a sua informação pessoal com terceiros. Tudo é guardado com segurança e usado apenas para melhorar a sua experiência eSIM."
+    },
+    "random-avatars": {
+        "title1": "Obrigado pela chamada!",
+        "title2": "Prima 1, 2 ou 3",
+        "title3": "A pessoa certa atende",
+        "description1": "Voz familiar e simpática",
+        "description2": "Encaminhamento da Central, à sua medida",
+        "description3": "Nunca perde uma chamada"
+    },
+    "special_offers": {
+        "common": {
+            "days": "dias",
+            "info": "Info",
+            "terms": "Termos",
+            "offer_rates": "Tarifas da oferta"
+        },
+        "offers": {
+            "0870_national": {
+                "terms": "Crédito grátis ($2) só na 1.ª compra. O preço pode variar por moeda e impostos",
+                "title": "0870 Nacional",
+                "subtitle": "Tarifas locais para a União Europeia"
+            },
+            "france_number": {
+                "terms": "",
+                "title": "Número de França",
+                "subtitle": "Tarifas locais para a União Europeia"
+            }
+        },
+        "screen": {
+            "title": "Ofertas especiais"
+        }
+    },
+    "build-reception": {
+        "title": "Criar a minha receção"
+    },
+    "country-details": {
+        "id": "ID",
+        "otp": "OTP",
+        "sms": "SMS",
+        "voice": "Voz",
+        "default-title": "Categoria",
+        "greet-callers": "Cumprimente quem liga, mensagens personalizadas, menus, encaminhamento e voicemail incluído.",
+        "receptionist-puzzle": "Puzzle <b>Rececionista (Central)</b> incluído em cada número"
+    },
+    "default-country": {
+        "title": "País predefinido"
+    },
+    "document_groups": {
+        "loa_required": {
+            "business": [
+                "Certidão de constituição"
+            ],
+            "documents": [
+                "Passaporte ou ID nacional",
+                "Carta de autorização (LOA)"
+            ]
+        },
+        "standard_global": {
+            "business": [
+                "Certidão de constituição"
+            ],
+            "documents": [
+                "Passaporte ou ID nacional"
+            ]
+        },
+        "regulated_market": {
+            "business": [
+                "Certidão de constituição"
+            ],
+            "documents": [
+                "Passaporte ou ID nacional",
+                "Uma fatura recente de serviços (até 6 meses)",
+                "Descrição de utilização do serviço"
+            ]
+        },
+        "strict_address_match": {
+            "business": [
+                "Certidão de constituição"
+            ],
+            "documents": [
+                "Passaporte ou ID nacional",
+                "Uma fatura recente de serviços (até 6 meses)",
+                "A morada deve corresponder à região do número"
+            ]
+        }
+    },
+    "how-can-we-help": {
+        "title": "Como podemos ajudar?",
+        "options": {
+            "option1": "Não consigo comprar número ou eSIM",
+            "option2": "Número ou eSIM não funciona",
+            "option3": "Não recebo chamadas ou SMS",
+            "option4": "Não consigo fazer chamadas",
+            "option5": "Qualidade fraca ou sem áudio",
+            "option6": "Problema de recarga ou crédito",
+            "option7": "Buster ou Rececionista não funciona",
+            "option8": "Erro ou falha na app",
+            "option9": "Outro problema"
+        },
+        "cant-hear": "Não ouço nada",
+        "no-credit": "Nenhum crédito adicionado",
+        "not-renewed": "eSIM não renovado automaticamente",
+        "not-ringing": "Marca, mas não toca",
+        "cant-buy-esim": "Não consigo comprar número eSIM",
+        "cant-see-number": "As pessoas não veem o meu número",
+        "bad-voice-quality": "Má qualidade de voz",
+        "not-receiving-calls": "Não recebo chamadas no meu eSIM",
+        "not-able-to-recharge": "Não consigo recarregar"
+    },
+    "id_doc_subtitle": "Documento com foto (bem visível)",
+    "kyc-clear-modal": {
+        "cta": "Limpar",
+        "title": "Limpar informação?",
+        "description": "Terá de voltar a introduzir os dados",
+        "ctaAdditional": "Cancelar"
+    },
+    "mobile-recharge": {
+        "tab1": "Recarga",
+        "tab2": "Histórico",
+        "history": {
+            "no-history": "Sem recargas recentes"
+        },
+        "data-tab": "Dados",
+        "easy-steps": {
+            "cta": "Começar recarga",
+            "title": "3 passos simples",
+            "point-1": "Introduza o número",
+            "point-2": "Escolha operador e valor",
+            "point-3": "Recarga enviada"
+        },
+        "airtime-tab": "Saldo",
+        "bundles-tab": "Pacotes",
+        "enjoy-topup": "Aproveite a sua recarga!",
+        "button-title": "Recarregar",
+        "screen-title": "Recarga móvel",
+        "network-label": "ESCOLHER REDE",
+        "bundle-tooltip": "Mais info",
+        "phone-book-title": "Enviar recarga para",
+        "amount-slider-label": "INTRODUZIR VALOR",
+        "payment-status-modal": {
+            "error": {
+                "title": "Envio falhou!",
+                "description": "Tente novamente ou confirme os \ndados corretos da rede de destino \nantes de voltar a tentar."
+            },
+            "success": {
+                "title": "Envio com sucesso!",
+                "description": "A recarga foi enviada.\n O seu contacto deverá recebê-la em breve."
+            }
+        },
+        "refill-details-modal": {
+            "pin": "PIN",
+            "date": "Data",
+            "title": "Detalhes da recarga",
+            "amount": "Valor",
+            "status": "Estado",
+            "network": "Rede",
+            "statuses": {
+                "pending": "Pendente",
+                "completed": "Concluído"
+            },
+            "send-again": "Enviar de novo",
+            "description": "Os valores enviados podem variar ligeiramente e estar sujeitos a impostos no país de destino."
+        },
+        "mobile-networks-modal": {
+            "cta": "Enviar recarga"
+        },
+        "refil-in-190-countries": "Recargas móveis em 190+ países",
+        "phone-number-input-label": "INTRODUZIR NÚMERO"
+    },
+    "recharge-failed": {
+        "cta": "Tentar novamente",
+        "title": "Recarga falhou!",
+        "description": "Algo correu mal com o pagamento. Tente novamente ou use outro método."
+    },
+    "select-currency": {
+        "title": "Selecionar moeda"
+    },
+    "select-timezone": "Selecionar fuso horário",
+    "toll-free-modal": {
+        "title": "Número gratuito",
+        "subtitle": "Chamadas recebidas em números gratuitos usam crédito. Adicione crédito ao saldo para evitar falhas.",
+        "button-label": "Continuar"
+    },
+    "activation_times": {
+        "AIA": "up_to_4_weeks",
+        "ANT": "up_to_4_weeks",
+        "ARE": "1-3_business_days",
+        "AUT": "1-3_business_days",
+        "BGR": "1-3_business_days",
+        "BHR": "1-3_business_days",
+        "BRA": "1-3_business_days",
+        "BRB": "up_to_4_weeks",
+        "CHE": "1-3_business_days",
+        "CHN": "1-3_business_days",
+        "CUW": "up_to_4_weeks",
+        "DEU": "1-3_business_days",
+        "DMA": "up_to_4_weeks",
+        "ESP": "1-3_business_days",
+        "GRC": "1-3_business_days",
+        "GRD": "up_to_4_weeks",
+        "HKG": "1-3_business_days",
+        "IDN": "1-3_business_days",
+        "IND": "1-3_business_days",
+        "ITA": "1-3_business_days",
+        "JAM": "up_to_4_weeks",
+        "JPN": "1-3_business_days",
+        "KWT": "1-3_business_days",
+        "MAF": "up_to_4_weeks",
+        "MYS": "1-3_business_days",
+        "OMN": "1-3_business_days",
+        "PAN": "1-3_business_days",
+        "POL": "1-3_business_days",
+        "QAT": "1-3_business_days",
+        "SAU": "up_to_4_weeks",
+        "THA": "1-3_business_days",
+        "URY": "1-3_business_days",
+        "VGB": "up_to_4_weeks",
+        "BRA:toll_free": "up_to_7_business_days",
+        "CHE:toll_free": "up_to_2_weeks",
+        "PAN:toll_free": "up_to_4_weeks",
+        "URY:toll_free": "up_to_6_weeks"
+    },
+    "call-transcripts": {
+        "user": "UTILIZADOR",
+        "title": "Transcrições de chamadas",
+        "assistant": "ASSISTENTE"
+    },
+    "esims-data-plans": {
+        "speed": "Velocidade 4G/LTE",
+        "network": "Rede: {{0}}",
+        "validity": "Validade: {{0}}",
+        "data-only": "Só dados",
+        "blue-notes": {
+            "note-1": {
+                "title": "Preços transparentes!",
+                "description": "Tarifas claras, sem custos escondidos"
+            },
+            "note-2": {
+                "title": "Mudou os planos?",
+                "description": "eSIMs não usados podem ter\ndireito a garantia de reembolso"
+            }
+        },
+        "speed-desc": "Este plano prevê velocidade 4G. É compatível.",
+        "price-match": "Igualamos o preço",
+        "button-title": "Pagar $4,50",
+        "plan-details": "Detalhes do plano",
+        "data-only-desc": "Este plano não inclui número — não terá chamadas nem SMS."
+    },
+    "low-credit-modal": {
+        "cta": "Continuar",
+        "desc": "Recomendamos pelo menos 100 créditos para criar a sua receção.",
+        "title": "Crédito de voz insuficiente",
+        "ctaAdditional": "Adicionar crédito de voz"
+    },
+    "recharge-success": {
+        "cta": "Ver estado da recarga",
+        "title": "Recarga concluída!",
+        "description": "O seu saldo foi atualizado. Já pode usar os serviços sem interrupções."
+    },
+    "verify-kyc-modal": {
+        "desc": "Precisamos do seu ID para ativar o número.\nDemora 1–2 min. Rápido e fácil.\nFaça agora ou depois.",
+        "title": "Verificar identidade",
+        "verify-now": "Começar agora"
+    },
+    "ivr-simple-puzzle": {
+        "just-me-basic": "Só eu (Básico)"
+    },
+    "phone-number-card": {
+        "save": "Guardar",
+        "my-us-number": "O meu número EUA",
+        "only-letters-numbers": "Apenas letras e números."
+    },
+    "call-goes-to-modal": {
+        "title": "A chamada vai para",
+        "assignment-changed-desc": "As chamadas passam a seguir esta configuração de imediato.",
+        "assignment-changed-title": "Atribuição alterada!"
+    },
+    "incorporation_cert": "Certidão de constituição",
+    "invalid-user-modal": {
+        "cta": "Continuar",
+        "desc": "Um ou mais destinos ainda não têm conta no Simbuster.",
+        "title": "Concluir configuração"
+    },
+    "required-documents": {
+        "bill": "Uma fatura recente de serviços",
+        "address": "A morada deve corresponder ao indicativo do número",
+        "passport": "Número do passaporte ou ID nacional",
+        "certificate": "Certidão de constituição"
+    },
+    "warning-esim-modal": {
+        "desc": "Este dispositivo pode não ser compatível com eSIM. Quer continuar?",
+        "title": "Aviso!",
+        "ok-button": "Continuar",
+        "cancel-button": "Cancelar"
+    },
+    "change-country-code": {
+        "title": "Alterar indicativo do país?",
+        "cancel": "Cancelar",
+        "confirm": "Alterar",
+        "description": "Isto irá reformatar os números guardados para o novo país."
+    },
+    "go-to-dashboard-tip": {
+        "title": "Voltar ao painel",
+        "description": "Toque aqui para voltar ao painel a qualquer momento"
+    },
+    "kyc-attention-modal": {
+        "title": "Pronto para enviar?",
+        "description": "Confirme que o nome e a morada coincidem e que os documentos estão nítidos. Se faltarem dados, enviaremos e-mail.",
+        "button-label": "Enviar"
+    },
+    "national-rate-modal": {
+        "title": "Tarifa nacional",
+        "subtitle": "Chamadas recebidas em números nacionais costumam ser dentro do mesmo país. Não nos responsabilizamos por restrições impostas por operadores no estrangeiro.",
+        "button-label": "Continuar"
+    },
+    "phone-number-detail": {
+        "id": "ID",
+        "kyc": "KYC",
+        "ai-agent": "Agente IA",
+        "verified": "Verificado",
+        "cancels-on": "Cancela em",
+        "in-progress": "Em progresso",
+        "calling-plan": "Plano de chamadas",
+        "receptionist": "Rececionista",
+        "to-me-on-app": "Para mim (nesta app)",
+        "cancel-number": "Cancelar número",
+        "automatic-renewal": "Renovação automática",
+        "call-forwarding-phone": "Reencaminhamento (telemóvel)",
+        "kyc-pending-description": "O número ficará pronto após aprovação. Tempo estimado: 3–5 dias úteis.",
+        "data-security-description": "Os seus dados estão seguros. Não partilhamos a sua informação pessoal com terceiros. Tudo é guardado com segurança e usado apenas para melhorar a sua experiência eSIM."
+    },
+    "country-select-modal": {
+        "title": "Selecionar ID do chamador"
+    },
+    "unarchive-esim-modal": {
+        "title": "Desarquivar eSIM",
+        "description": "Este eSIM ficará disponível nos seus eSIMs ativos",
+        "button-label": "Desarquivar"
+    },
+    "new-version-available": {
+        "cta": "Atualizar agora",
+        "title": "Nova versão disponível!",
+        "description": "Atualize para as últimas funcionalidades"
+    },
+    "order-confirmed-modal": {
+        "cta": "Ver a sua encomenda",
+        "title": "Encomenda confirmada!",
+        "description": "Pagamento concluído com sucesso"
+    },
+    "personal-business-tab": {
+        "zip": "Código postal",
+        "city": "Cidade",
+        "clear": "Limpar",
+        "submit": "Enviar",
+        "tax_id": "NIF",
+        "country": "País",
+        "continue": "Continuar",
+        "id_number": "Número de ID",
+        "last-name": "Apelido",
+        "vat-title": "N.º de IVA",
+        "file-types": "jpg, pdf, doc",
+        "first-name": "Nome",
+        "terms-desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "address-line": "Linha de morada",
+        "business-name": "Nome do negócio",
+        "contact-number": "Contacto",
+        "company-id-title": "ID da empresa",
+        "terms-of-service": "Termos de serviço",
+        "upload-documents": "Carregar documentos",
+        "business-info-title": "Info do negócio",
+        "personal-info-title": "Info pessoal",
+        "address-details-title": "Dados da morada",
+        "additional-details-title": "Info adicional",
+        "address-details-description": "A morada deve corresponder à área local"
+    },
+    "address_proof_6_months": "Uma fatura recente de serviços (menos de 6 meses)",
+    "address_proof_subtitle": "Com menos de 6 meses",
+    "better-value-available": {
+        "title": "Melhor opção disponível!",
+        "switch-now": "Sim, trocar agora",
+        "description": "A opção recomendada dá-lhe mais. Porque não poupar mais?",
+        "continue-anyway": "Não, continuar na mesma"
+    },
+    "keep-this-number-modal": {
+        "title": "Manter este número",
+        "description": "Tem de receber e atender pelo menos 1 chamada nos primeiros 30 dias. Caso contrário, pode ser desativado.",
+        "button-label": "Continuar"
+    },
+    "notifications-settings": {
+        "title": "Definições",
+        "rewards-zone": "Zona de recompensas",
+        "esim-and-voip": "eSIM e VoIP",
+        "refer-and-earn": "Indique e ganhe",
+        "everything-else": "Tudo o resto",
+        "deals-and-offers": "Promoções e ofertas",
+        "payments-and-subscription": "Pagamentos e subscrição"
+    },
+    "address_must_match_area": "A morada deve corresponder ao indicativo do número",
+    "slide-to-get-free-offer": {
+        "title": "Obter oferta grátis!",
+        "subtitle": "Vamos obter o seu número grátis para usar…",
+        "button-label": "Deslize para obter"
+    },
+    "free-number-claimed-modal": {
+        "title": "Número grátis já usado",
+        "description": "Já usou a oferta de 1 número grátis. Para adicionar outro, compre um novo número.",
+        "button-label": "Comprar um número"
+    },
+    "number-already-used-modal": {
+        "title": "Número já em uso",
+        "subtitle": "Quer movê-lo para aqui?",
+        "button-label": "Não",
+        "button-label-2": "Sim"
+    },
+    "no-phone-numbers-available": {
+        "cta": "OK",
+        "title": "Número indisponível",
+        "description": "O número usado não está disponível. Adicione um número para continuar."
+    },
+    "notifications-screen-title": "Notificações",
+    "incorporation_cert_subtitle": "Carregue uma cópia nítida",
+    "select-country-screen-title": "Selecionar país",
+    "esim-already-installed-modal": {
+        "title": "eSIM já instalado",
+        "description": "Este eSIM já foi instalado e só funciona se o reinstalar no mesmo dispositivo. Instalar noutro telemóvel pode falhar e não será reembolsado.",
+        "button-label": "Continuar"
+    },
+    "buster-language-not-supported": {
+        "cta": "Continuar",
+        "desc": "O Buster ainda não suporta o idioma do seu dispositivo. Continue para escolher um idioma suportado no passo seguinte.",
+        "title": "Idioma não suportado"
+    },
+    "buster-insufficient-call-credit": {
+        "cta": "Adicionar crédito",
+        "desc": "O Buster precisa de crédito para receber chamadas.",
+        "title": "Crédito de chamada insuficiente"
+    },
+    "warning-number-social-opt-modal": {
+        "title": "Aviso!",
+        "subtitle": "Este número pode não suportar verificação OTP de redes sociais. Não nos responsabilizamos por restrições de operadores. SMS entre telemóveis funcionam.",
+        "button-label": "Continuar",
+        "additional-button-label": "Obter número para redes sociais"
+    }
+}
