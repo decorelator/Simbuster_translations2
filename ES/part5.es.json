@@ -1,0 +1,701 @@
+{
+    "report-issue": {
+        "note": "Revisa FAQ antes de enviar.",
+        "title": "Reportar problema",
+        "button": "Reportar problema",
+        "partner-with-us": {
+            "button": "Enviar mensaje",
+            "placeholder": "Escribe tu mensaje",
+            "get-in-touch": "Contáctanos"
+        }
+    },
+    "terms-of-use": {
+        "title": "Términos de uso",
+        "general-terms": "Términos generales",
+        "validity-point-1": "Siguen vigentes hasta que se cambien o terminen.",
+        "validity-point-2": "Las actualizaciones se avisarán a tiempo.",
+        "validity-point-3": "Los cambios rigen desde lo indicado.",
+        "validity-of-terms": "Validez de términos generales",
+        "general-terms-description": "Texto de ejemplo"
+    },
+    "address_proof": "Factura reciente (<6 meses)",
+    "app-languages": {
+        "af": "Afrikáans",
+        "ar": "Árabe",
+        "bg": "Búlgaro",
+        "cs": "Checo",
+        "da": "Danés",
+        "de": "Alemán",
+        "el": "Griego",
+        "en": "Inglés",
+        "es": "Español",
+        "fi": "Finés",
+        "fr": "Francés",
+        "he": "Hebreo",
+        "hu": "Húngaro",
+        "is": "Islandés",
+        "it": "Italiano",
+        "ja": "Japonés",
+        "ko": "Coreano",
+        "nl": "Neerlandés",
+        "no": "Noruego",
+        "pl": "Polaco",
+        "pt": "Portugués",
+        "ro": "Rumano",
+        "ru": "Ruso",
+        "sv": "Sueco",
+        "th": "Tailandés",
+        "tl": "Tagalo",
+        "tr": "Turco",
+        "uk": "Ucraniano",
+        "vi": "Vietnamita",
+        "zh": "Chino (mandarín)",
+        "yue": "Chino (cantonés)"
+    },
+    "calling-plans": {
+        "tabs": {
+            "offers": "Ofertas",
+            "my-plans": "Mis planes"
+        },
+        "local": [],
+        "plans": {
+            "sms_plans": {
+                "desc": "Hasta 70% en SMS",
+                "title": "Planes SMS"
+            },
+            "speech_credit": {
+                "desc": "Hasta 70% UE",
+                "title": "Crédito voz"
+            },
+            "buster_minutes": {
+                "desc": "Hasta 70% en IA",
+                "title": "Minutos Buster"
+            }
+        },
+        "europe": {
+            "rates": "Tarifas",
+            "recommended": "Recomendado"
+        },
+        "offers": {
+            "usa-canada": "USA y Canadá",
+            "ramadan-offer": "Oferta Ramadán",
+            "se-asia-bundle": "Pack Asia SE"
+        },
+        "shared": {
+            "description-long": "Tarifas locales UE (desc. larga)",
+            "description-short": "Tarifas locales UE"
+        },
+        "titles": {
+            "local": "Planes locales",
+            "europe": "Planes Europa",
+            "offers": "Ofertas de llamadas",
+            "special-offers": "Ofertas especiales"
+        },
+        "special": {
+            "terms": "Términos",
+            "hot-offer": "OFERTA TOP",
+            "terms-long": "Llamada local ($2) solo en 1ª compra. Puede variar por moneda e impuestos.",
+            "france-number": "Número Francia",
+            "national-0870": "0870 Nacional"
+        },
+        "my-plans": {
+            "check-usage-button": "Ver uso"
+        }
+    },
+    "collect-coins": {
+        "claim": "Reclamar",
+        "title": "Gana monedas",
+        "redeem": "Canjear",
+        "surveys": "Encuestas",
+        "spin-now": "Gira ahora",
+        "use-coins": "Usa tus monedas para este premio.",
+        "hot-offers": "Ofertas top",
+        "collect-big": "Gana más",
+        "two-minutes": "2 minutos",
+        "cannot-claim": "No disponible ahora",
+        "coin-journey": "Ruta de monedas",
+        "just-me-basic": "Solo yo (Básico)",
+        "daily-check-in": "Check-in diario",
+        "slide-to-redeem": "Desliza para canjear",
+        "try-again-later": "Intenta luego",
+        "offer-unavailable": "Oferta no disponible",
+        "confirm-redemption": "Confirmar canje",
+        "watch-ads-to-collect-coins": "Ver anuncios",
+        "watch-videos-to-collect-coins": "Ver videos"
+    },
+    "country-codes": {
+        "screen-title": "Elegir país"
+    },
+    "fix_vat_or_id": "<b>¡Mensaje!</b> Corrige tu IVA o tu ID",
+    "kyc-agreement": {
+        "cta": "Guardar y firmar",
+        "title": "Acuerdo",
+        "confirmation": "Confirmación *",
+        "section-title": "Acuerdo tripartito *",
+        "checkbox-label": "Confirmo que acepto los Términos y he firmado el acuerdo",
+        "email-input-label": "Email",
+        "section-description": "Firma digital, menos de 1 min"
+    },
+    "kyc-documents": {
+        "title": "documentos",
+        "passport": {
+            "title": "Pasaporte o ID",
+            "subtitle": "Foto ID (clara)"
+        },
+        "file-types": "jpg, pdf, doc",
+        "certificate": {
+            "title": "Cert. constitución",
+            "subtitle": "Sube copia clara"
+        },
+        "utility-bill": {
+            "title": "Factura (domicilio)",
+            "subtitle": "Menos de 6 meses"
+        }
+    },
+    "my-esim-usage": {
+        "data": "Datos",
+        "days": "días",
+        "speed": "Velocidad",
+        "expiry": "Validez",
+        "expired": "Vencido",
+        "service": "Servicio",
+        "validity": "Validez: {{0}} días",
+        "button-title": "Activa datos ya",
+        "plan-details": "Detalles del plan",
+        "screen-title": "Francia",
+        "activate-before": "Activa antes de",
+        "esim-troubleshooting": "Ayuda eSIM",
+        "install-instructions": "Instrucciones"
+    },
+    "network-error": {
+        "title": "Sin internet",
+        "description": "Estás sin conexión. Revisa tu red y prueba otra vez."
+    },
+    "payment-modal": {
+        "card": {
+            "title": "Datos de tarjeta",
+            "pay-amount": "Pagar",
+            "billing-address": "Dirección fact.",
+            "country-of-region": "País/Región"
+        },
+        "titles": {
+            "select-payment": "Elegir pago",
+            "payment-information": "Info de pago"
+        },
+        "additional-info": "Neto (incl.). Cobro en USD. Puede haber cargos FX."
+    },
+    "phone-numbers": {
+        "categories": {
+            "get-free-numbers": {
+                "title": "Números gratis",
+                "description": "Elige gratis"
+            }
+        },
+        "screen-title": "Números"
+    },
+    "prepaid-codes": {
+        "cta": "Obtener código",
+        "about": "Acerca de",
+        "title": "Códigos prepago",
+        "details": "Detalles",
+        "countries": "Países disponibles",
+        "tab1-title": "Códigos prepago",
+        "tab2-title": "Mis códigos",
+        "screen-title": "Códigos prepago",
+        "popular-codes": "Códigos populares",
+        "amount-slider-label": "ELIGE MONTO",
+        "country-selector-label": "ELIGE PAÍS"
+    },
+    "secret-screen": {
+        "title": "Pantalla secreta"
+    },
+    "select-option": "Elige una opción",
+    "speech-credit": {
+        "terms": "Texto de ejemplo."
+    },
+    "country-number": {
+        "number-tab": "Número",
+        "utility-bill": "Factura reciente",
+        "address-match": "Dirección debe coincidir",
+        "advertisement": "80% dto anual = $1/mes",
+        "default-title": "Número país",
+        "passport-or-id": "Pasaporte o ID",
+        "number-plan-tab": "Número + Plan",
+        "no-numbers-found": "Sin números",
+        "terms-of-service": "Términos",
+        "incorporation-cert": "Cert. constitución",
+        "required-documents": "Docs requeridos",
+        "receptionist-puzzle": "<b>Centralita (IVR)</b> incluida en cada número",
+        "terms-of-service-description": "Al continuar, aceptas nuestros Términos y Privacidad. La suscripción se renueva auto salvo cancelación 24 h antes. La renovación se cobra en las 24 h previas con la tarifa vigente. Sin reembolso si el número se usa o no se devuelve en 5 h.",
+        "terms-of-service-description-terms-replace": "Términos",
+        "terms-of-service-description-privacy-replace": "Privacidad"
+    },
+    "delete-account": {
+        "title": "Eliminar cuenta",
+        "cancel": "Cancelar",
+        "confirm": "Eliminar",
+        "description": "¿Seguro? Se borrará todo y no se podrá recuperar."
+    },
+    "device-blocked": {
+        "title": "Dispositivo bloqueado",
+        "description": "No puedes usar la app por seguridad."
+    },
+    "error-boundary": {
+        "error": "Hay un error",
+        "try-again": "Reintentar"
+    },
+    "no-call-credit": {
+        "cta": "Añadir saldo",
+        "title": "Saldo insuficiente",
+        "description": "Buster necesita crédito voz para recibir llamadas"
+    },
+    "privacy-policy": {
+        "title": "Privacidad",
+        "section-1-title": "Términos generales",
+        "section-2-title": "Puntos de validez",
+        "section-1-content": "Protegemos tu privacidad y la seguridad de tus datos. Esta Política explica cómo recopilamos, usamos y protegemos tu info. Al usar la app, aceptas estas prácticas.",
+        "section-2-content": "Tus datos están seguros. No los compartimos. Se guardan y usan solo para mejorar tu eSIM."
+    },
+    "random-avatars": {
+        "title1": "¡Gracias por llamar!",
+        "title2": "Pulsa 1, 2, 3",
+        "title3": "Responde quien debe",
+        "description1": "Voz cercana",
+        "description2": "Ruta IVR personal",
+        "description3": "No pierdes llamadas"
+    },
+    "special_offers": {
+        "common": {
+            "days": "días",
+            "info": "Info",
+            "terms": "Términos",
+            "offer_rates": "Tarifas"
+        },
+        "offers": {
+            "0870_national": {
+                "terms": "Crédito gratis ($2) solo en 1ª compra. Puede variar por moneda e impuestos",
+                "title": "0870 Nacional",
+                "subtitle": "Tarifas locales UE"
+            },
+            "france_number": {
+                "terms": "",
+                "title": "Número Francia",
+                "subtitle": "Tarifas locales UE"
+            }
+        },
+        "screen": {
+            "title": "Ofertas especiales"
+        }
+    },
+    "build-reception": {
+        "title": "Crear mi centralita"
+    },
+    "country-details": {
+        "id": "ID",
+        "otp": "OTP",
+        "sms": "SMS",
+        "voice": "Voz",
+        "default-title": "Categoría",
+        "greet-callers": "Saluda, mensajes, menús, desvío, buzón incluido.",
+        "receptionist-puzzle": "<b>Centralita (IVR)</b> incluida en cada número"
+    },
+    "default-country": {
+        "title": "País por defecto"
+    },
+    "document_groups": {
+        "loa_required": {
+            "business": [
+                "Cert. constitución"
+            ],
+            "documents": [
+                "Pasaporte o ID",
+                "Carta de autorización (LOA)"
+            ]
+        },
+        "standard_global": {
+            "business": [
+                "Cert. constitución"
+            ],
+            "documents": [
+                "Pasaporte o ID"
+            ]
+        },
+        "regulated_market": {
+            "business": [
+                "Cert. constitución"
+            ],
+            "documents": [
+                "Pasaporte o ID",
+                "Factura reciente (≤6 meses)",
+                "Descripción de uso"
+            ]
+        },
+        "strict_address_match": {
+            "business": [
+                "Cert. constitución"
+            ],
+            "documents": [
+                "Pasaporte o ID",
+                "Factura reciente (≤6 meses)",
+                "Dirección = región"
+            ]
+        }
+    },
+    "how-can-we-help": {
+        "title": "¿En qué te ayudamos?",
+        "options": {
+            "option1": "No puedo comprar",
+            "option2": "No funciona",
+            "option3": "No recibo llamadas/SMS",
+            "option4": "No puedo llamar",
+            "option5": "Poca calidad",
+            "option6": "Problema de saldo",
+            "option7": "Buster/centralita falla",
+            "option8": "Error o cierre",
+            "option9": "Otro"
+        },
+        "cant-hear": "No oigo nada",
+        "no-credit": "Sin saldo",
+        "not-renewed": "No se renovó eSIM",
+        "not-ringing": "Marca, no suena",
+        "cant-buy-esim": "No puedo comprar eSIM",
+        "cant-see-number": "No ven mi número",
+        "bad-voice-quality": "Mala calidad",
+        "not-receiving-calls": "No recibo llamadas",
+        "not-able-to-recharge": "No puedo recargar"
+    },
+    "id_doc_subtitle": "Foto ID (clara)",
+    "kyc-clear-modal": {
+        "cta": "Limpiar",
+        "title": "¿Borrar datos?",
+        "description": "Tendrás que reingresar",
+        "ctaAdditional": "Cancelar"
+    },
+    "mobile-recharge": {
+        "tab1": "Recargar",
+        "tab2": "Historial",
+        "history": {
+            "no-history": "Sin recargas"
+        },
+        "data-tab": "Datos",
+        "easy-steps": {
+            "cta": "Empezar",
+            "title": "3 pasos fáciles",
+            "point-1": "Ingresa número",
+            "point-2": "Elige operador y monto",
+            "point-3": "Recarga enviada"
+        },
+        "airtime-tab": "Saldo",
+        "bundles-tab": "Paquetes",
+        "enjoy-topup": "¡Listo!",
+        "button-title": "Recargar",
+        "screen-title": "Recarga móvil",
+        "network-label": "ELIGE RED",
+        "bundle-tooltip": "Más info",
+        "phone-book-title": "Enviar a",
+        "amount-slider-label": "INGRESA MONTO",
+        "payment-status-modal": {
+            "error": {
+                "title": "¡Envío falló!",
+                "description": "Inténtalo de nuevo o confirma la \nred de destino correcta \nantes de reintentar."
+            },
+            "success": {
+                "title": "¡Enviado!",
+                "description": "La recarga fue enviada.\n Tu contacto la recibirá pronto."
+            }
+        },
+        "refill-details-modal": {
+            "pin": "PIN",
+            "date": "Fecha",
+            "title": "Detalles",
+            "amount": "Monto",
+            "status": "Estado",
+            "network": "Red",
+            "statuses": {
+                "pending": "Pendiente",
+                "completed": "Completado"
+            },
+            "send-again": "Enviar otra vez",
+            "description": "El monto enviado puede variar por impuestos del país destino"
+        },
+        "mobile-networks-modal": {
+            "cta": "Enviar recarga"
+        },
+        "refil-in-190-countries": "Recarga móvil en 190+ países",
+        "phone-number-input-label": "INGRESA NÚMERO"
+    },
+    "recharge-failed": {
+        "cta": "Reintentar",
+        "title": "¡Recarga fallida!",
+        "description": "Algo salió mal. Reintenta o usa otro método."
+    },
+    "select-currency": {
+        "title": "Elegir moneda"
+    },
+    "select-timezone": "Elegir zona hor.",
+    "toll-free-modal": {
+        "title": "Gratuito",
+        "subtitle": "Las llamadas entrantes a números gratuitos usan crédito voz. Añade saldo o pueden fallar.",
+        "button-label": "Continuar"
+    },
+    "activation_times": {
+        "AIA": "up_to_4_weeks",
+        "ANT": "up_to_4_weeks",
+        "ARE": "1-3_business_days",
+        "AUT": "1-3_business_days",
+        "BGR": "1-3_business_days",
+        "BHR": "1-3_business_days",
+        "BRA": "1-3_business_days",
+        "BRB": "up_to_4_weeks",
+        "CHE": "1-3_business_days",
+        "CHN": "1-3_business_days",
+        "CUW": "up_to_4_weeks",
+        "DEU": "1-3_business_days",
+        "DMA": "up_to_4_weeks",
+        "ESP": "1-3_business_days",
+        "GRC": "1-3_business_days",
+        "GRD": "up_to_4_weeks",
+        "HKG": "1-3_business_days",
+        "IDN": "1-3_business_days",
+        "IND": "1-3_business_days",
+        "ITA": "1-3_business_days",
+        "JAM": "up_to_4_weeks",
+        "JPN": "1-3_business_days",
+        "KWT": "1-3_business_days",
+        "MAF": "up_to_4_weeks",
+        "MYS": "1-3_business_days",
+        "OMN": "1-3_business_days",
+        "PAN": "1-3_business_days",
+        "POL": "1-3_business_days",
+        "QAT": "1-3_business_days",
+        "SAU": "up_to_4_weeks",
+        "THA": "1-3_business_days",
+        "URY": "1-3_business_days",
+        "VGB": "up_to_4_weeks",
+        "BRA:toll_free": "up_to_7_business_days",
+        "CHE:toll_free": "up_to_2_weeks",
+        "PAN:toll_free": "up_to_4_weeks",
+        "URY:toll_free": "up_to_6_weeks"
+    },
+    "call-transcripts": {
+        "user": "USUARIO",
+        "title": "Transcripción",
+        "assistant": "ASISTENTE"
+    },
+    "esims-data-plans": {
+        "speed": "Vel. 4G/LTE",
+        "network": "Red: {{0}}",
+        "validity": "Validez: {{0}}",
+        "data-only": "Solo datos",
+        "blue-notes": {
+            "note-1": {
+                "title": "¡Precio claro!",
+                "description": "Tarifas claras, sin extras"
+            },
+            "note-2": {
+                "title": "¿Cambió tu viaje?",
+                "description": "eSIM sin usar puede tener\nreembolso"
+            }
+        },
+        "speed-desc": "Este plan debería tener 4G. Compatible.",
+        "price-match": "Mejor precio",
+        "button-title": "Pagar $4.50",
+        "plan-details": "Detalles del plan",
+        "data-only-desc": "Este plan no incluye número; sin llamadas ni SMS."
+    },
+    "low-credit-modal": {
+        "cta": "Continuar",
+        "desc": "Recomendado: 100+ créditos para crear tu centralita",
+        "title": "Crédito voz bajo",
+        "ctaAdditional": "Añadir crédito voz"
+    },
+    "recharge-success": {
+        "cta": "Ver estado",
+        "title": "¡Recarga OK!",
+        "description": "Saldo actualizado. Ya puedes usar el servicio."
+    },
+    "verify-kyc-modal": {
+        "desc": "Necesitamos tu ID para activar.\nTarda 1–2 min. Rápido.\nAhora o luego.",
+        "title": "Verifica identidad",
+        "verify-now": "Empezar"
+    },
+    "ivr-simple-puzzle": {
+        "just-me-basic": "Solo yo (Básico)"
+    },
+    "phone-number-card": {
+        "save": "Guardar",
+        "my-us-number": "Mi número USA",
+        "only-letters-numbers": "Solo letras y números."
+    },
+    "call-goes-to-modal": {
+        "title": "Llamada va a",
+        "assignment-changed-desc": "Se aplica al instante.",
+        "assignment-changed-title": "¡Asignación cambiada!"
+    },
+    "incorporation_cert": "Cert. constitución",
+    "invalid-user-modal": {
+        "cta": "Continuar",
+        "desc": "Uno o más destinos no tienen Simbuster.",
+        "title": "Termina la config."
+    },
+    "required-documents": {
+        "bill": "Factura reciente",
+        "address": "Dirección debe coincidir",
+        "passport": "Pasaporte o ID",
+        "certificate": "Cert. constitución"
+    },
+    "warning-esim-modal": {
+        "desc": "Este móvil quizá no soporte eSIM. ¿Continuar? ",
+        "title": "¡Aviso!",
+        "ok-button": "Continuar",
+        "cancel-button": "Cancelar"
+    },
+    "change-country-code": {
+        "title": "¿Cambiar prefijo?",
+        "cancel": "Cancelar",
+        "confirm": "Cambiar",
+        "description": "Reformateará tus números al nuevo país."
+    },
+    "go-to-dashboard-tip": {
+        "title": "Volver al inicio",
+        "description": "Toca aquí para volver al inicio cuando quieras"
+    },
+    "kyc-attention-modal": {
+        "title": "¿Listo para enviar?",
+        "description": "Asegura que nombre/dirección coincidan y los docs estén claros. Si falta algo, te escribimos.",
+        "button-label": "Enviar"
+    },
+    "national-rate-modal": {
+        "title": "Tarifa nacional",
+        "subtitle": "Las llamadas entrantes en números nacionales suelen ser dentro del país. No respondemos por restricciones de operadores desde el extranjero.",
+        "button-label": "Continuar"
+    },
+    "phone-number-detail": {
+        "id": "ID",
+        "kyc": "KYC",
+        "ai-agent": "Agente IA",
+        "verified": "Verificado",
+        "cancels-on": "Cancela el",
+        "in-progress": "En curso",
+        "calling-plan": "Plan de llamadas",
+        "receptionist": "Centralita",
+        "to-me-on-app": "A mí (en app)",
+        "cancel-number": "Cancelar número",
+        "automatic-renewal": "Renovación auto.",
+        "call-forwarding-phone": "Desvío (tel.)",
+        "kyc-pending-description": "Listo tras aprobación. Aprox. 3–5 días hábiles.",
+        "data-security-description": "Tus datos están seguros. No los compartimos. Se guardan y usan solo para mejorar tu eSIM."
+    },
+    "country-select-modal": {
+        "title": "Elegir ID de llamada"
+    },
+    "unarchive-esim-modal": {
+        "title": "Desarchivar eSIM",
+        "description": "Esta eSIM estará en tus eSIM activas",
+        "button-label": "Desarchivar"
+    },
+    "new-version-available": {
+        "cta": "Actualizar",
+        "title": "¡Nueva versión!",
+        "description": "Actualiza para novedades"
+    },
+    "order-confirmed-modal": {
+        "cta": "Ver pedido",
+        "title": "¡Pedido confirmado!",
+        "description": "Pago exitoso"
+    },
+    "personal-business-tab": {
+        "zip": "CP",
+        "city": "Ciudad",
+        "clear": "Limpiar",
+        "submit": "Enviar",
+        "tax_id": "NIF",
+        "country": "País",
+        "continue": "Continuar",
+        "id_number": "Nº ID",
+        "last-name": "Apellido",
+        "vat-title": "Nº IVA",
+        "file-types": "jpg, pdf, doc",
+        "first-name": "Nombre",
+        "terms-desc": "Texto de ejemplo (placeholder).",
+        "address-line": "Dirección",
+        "business-name": "Nombre empresa",
+        "contact-number": "Tel. contacto",
+        "company-id-title": "ID empresa",
+        "terms-of-service": "Términos",
+        "upload-documents": "Subir docs",
+        "business-info-title": "Info empresa",
+        "personal-info-title": "Info personal",
+        "address-details-title": "Dirección",
+        "additional-details-title": "Info extra",
+        "address-details-description": "Dirección = zona"
+    },
+    "address_proof_6_months": "Factura reciente (<6 meses)",
+    "address_proof_subtitle": "Menos de 6 meses",
+    "better-value-available": {
+        "title": "¡Mejor opción!",
+        "switch-now": "Sí, cambiar",
+        "description": "La opción recomendada te da más. ¿Por qué no ahorrar?",
+        "continue-anyway": "No, seguir"
+    },
+    "keep-this-number-modal": {
+        "title": "Conservar número",
+        "description": "Debes recibir y contestar al menos 1 llamada en 30 días. Si no, se puede desactivar",
+        "button-label": "Continuar"
+    },
+    "notifications-settings": {
+        "title": "Ajustes",
+        "rewards-zone": "Zona de premios",
+        "esim-and-voip": "eSIM y VoIP",
+        "refer-and-earn": "Invita y gana",
+        "everything-else": "Lo demás",
+        "deals-and-offers": "Ofertas",
+        "payments-and-subscription": "Pagos y suscripción"
+    },
+    "address_must_match_area": "Dirección = prefijo",
+    "slide-to-get-free-offer": {
+        "title": "¡Oferta gratis!",
+        "subtitle": "Vamos por tu número gratis...",
+        "button-label": "Desliza"
+    },
+    "free-number-claimed-modal": {
+        "title": "Número gratis usado",
+        "description": "Ya usaste tu número gratis. Para otro, compra uno nuevo",
+        "button-label": "Comprar número"
+    },
+    "number-already-used-modal": {
+        "title": "Número en uso",
+        "subtitle": "¿Moverlo aquí?",
+        "button-label": "No",
+        "button-label-2": "Sí"
+    },
+    "no-phone-numbers-available": {
+        "cta": "Ok",
+        "title": "Número disponible",
+        "description": "Ese número no está disponible. Añade uno para seguir."
+    },
+    "notifications-screen-title": "Notificaciones",
+    "incorporation_cert_subtitle": "Sube copia clara",
+    "select-country-screen-title": "Elegir país",
+    "esim-already-installed-modal": {
+        "title": "eSIM ya instalada",
+        "description": "Esta eSIM ya se instaló y solo funcionará si la reinstalas en el mismo móvil. En otro puede fallar y no se reembolsa.",
+        "button-label": "Continuar"
+    },
+    "buster-language-not-supported": {
+        "cta": "Continuar",
+        "desc": "Buster no soporta tu idioma. Elige uno compatible en el siguiente paso",
+        "title": "Idioma no compatible"
+    },
+    "buster-insufficient-call-credit": {
+        "cta": "Añadir saldo",
+        "desc": "Buster necesita crédito voz para recibir llamadas",
+        "title": "Saldo insuficiente"
+    },
+    "warning-number-social-opt-modal": {
+        "title": "¡Aviso!",
+        "subtitle": "Este número puede no servir para OTP de redes. No respondemos por restricciones. SMS entre móviles sí funciona.",
+        "button-label": "Continuar",
+        "additional-button-label": "Número para redes"
+    }
+}
