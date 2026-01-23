@@ -2018,9 +2018,9 @@
     "title": "Build my Reception"
   },
   "category_groups": {
-    "pick_a_number": {
-      "name": "Pick a number",
-      "description": "Ready to use instantly"
+    "magic_numbers": {
+      "name": "Magic Numbers",
+      "description": "Get a free starter number"
     },
     "mobile_numbers": {
       "name": "Mobile numbers",

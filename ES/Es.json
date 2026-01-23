@@ -2018,9 +2018,9 @@
     "title": "Crear mi centralita"
   },
   "category_groups": {
-    "pick_a_number": {
-      "name": "Elige un número",
-      "description": "Listo al instante"
+    "magic_numbers": {
+      "name": "Números mágicos",
+      "description": "Consigue un número inicial gratis"
     },
     "mobile_numbers": {
       "name": "Números móviles",

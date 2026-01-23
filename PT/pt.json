@@ -2018,9 +2018,9 @@
     "title": "Criar a minha receção"
   },
   "category_groups": {
-    "pick_a_number": {
-      "name": "Escolhe um número",
-      "description": "Pronto a usar já"
+    "magic_numbers": {
+      "name": "Números mágicos",
+      "description": "Obtém um número inicial grátis"
     },
     "mobile_numbers": {
       "name": "Números móveis",
