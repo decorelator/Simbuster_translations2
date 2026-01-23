@@ -2,6 +2,21 @@
   "faq": {
     "title": "FAQ"
   },
+  "iap": {
+    "restore": {
+      "init-error": "No se pudo iniciar IAP. Inténtalo de nuevo.",
+      "error-title": "Error",
+      "error-message": "No se pudieron restaurar las compras. Inténtalo más tarde.",
+      "success-title": "Éxito",
+      "success-message": "¡Compras restauradas!\n\nVerificadas: {{verifiedCount}} compra(s){{failedCount}}",
+      "no-purchases-title": "Info",
+      "no-purchases-message": "No se encontraron compras para restaurar.",
+      "error-message-generic": "No se pudieron restaurar las compras. Inténtalo de nuevo.",
+      "success-message-failed": "\nFallidas: {{failedCount}}",
+      "verification-failed-title": "Aviso",
+      "verification-failed-message": "Se encontraron {{count}} compra(s), pero falló la verificación."
+    }
+  },
   "ivr": {
     "menu": "Menú",
     "plan": {
@@ -230,7 +245,12 @@
       "title3": "Decide quién recibe",
       "title4": "Centralita activa en tu línea"
     },
-    "country-selection-screen-title": "Países disponibles"
+    "country-selection-screen-title": "Países disponibles",
+    "ivr-choose-assigned-number-modal": {
+      "cta": "Llamar",
+      "desc": "Elige un número para probar",
+      "title": "Elige un número disponible"
+    }
   },
   "auth": {
     "otp": {
@@ -266,6 +286,10 @@
     "terms": "Términos",
     "how-to": "¿Cómo?",
     "warning": "¡Ojo! La mayoría de eSIM solo se instalan 1 vez. Si la borras, no podrás reinstalarla.",
+    "dashboard": {
+      "my-esims": "Mis eSIMs",
+      "buy-esims": "Comprar eSIMs"
+    },
     "data-esim": "eSIM de datos",
     "guide-steps": {
       "pay": {
@@ -372,10 +396,23 @@
         "after-arrive": "Al llegar"
       },
       "tab-title": "Mi dispositivo",
+      "not-supported": {
+        "title": "eSIM no compatible",
+        "message": "Detectamos que tu dispositivo quizá no sea compatible con eSIM. ¿Quieres continuar?",
+        "cancel-button": "Cancelar",
+        "continue-button": "Continuar"
+      },
       "install-profile": {
         "title": "Instala el perfil eSIM",
         "button": "Instalación 1 toque",
-        "description": "Toca \"Instalar mi perfil eSIM\" y permite acceso"
+        "description": "Toca \"Instalar mi perfil eSIM\" y permite acceso",
+        "go-to-settings-button": "Ir a Ajustes"
+      },
+      "manual-fallback": {
+        "title": "eSIM",
+        "message": "eSimCopied\n\nVe a: Ajustes → Conexiones → Administrador SIM → Añadir plan móvil → Escanear código QR → Introducir código de activación → Pegar.",
+        "ok-button": "OK",
+        "open-settings-button": "Abrir Ajustes"
       },
       "android-link-info": "Para otros Android"
     },
@@ -769,6 +806,33 @@
   },
   "continue": "Continuar",
   "kyc-flow": {
+    "kyc-guide": {
+      "step1": {
+        "title": "Información",
+        "subtext": "Escribe tu nombre y dirección exactamente como en tu ID/comprobante. Responde las preguntas extra."
+      },
+      "step2": {
+        "title": "Documentos (si aplica)",
+        "subtext": "Sube lo solicitado (ID, comprobante, docs de empresa). Que sea claro, página completa, sin borrosidad."
+      },
+      "step3": {
+        "title": "Acuerdo (si aplica)",
+        "subtext": "Si aparece, revisa y firma el acuerdo."
+      },
+      "step4": {
+        "title": "Enviar",
+        "subtext": "Envía solo cuando todos los pasos muestren <b>Listo</b>."
+      },
+      "step5": {
+        "title": "Revisión",
+        "subtext": "La aprobación suele tardar <b>1–2 días hábiles</b>. Si algo falla, te diremos qué corregir."
+      },
+      "step6": {
+        "title": "Tu nuevo número está verificado y disponible",
+        "subtext": "Si completaste todos los pasos correctamente."
+      },
+      "title": "Guía"
+    },
     "key-action-items": {
       "cta": "Enviar",
       "title": "Verificación",
@@ -878,7 +942,7 @@
     "banner_cta_1": "Invita ya",
     "banner_cta_2": "pruébalo",
     "banner_cta_3": "Ver planes",
-    "calling_plan": "Planes y packs",
+    "calling_plan": "Paquetes y planes",
     "coin_balance": "Monedas",
     "receptionist": "Centralita",
     "rewards_zone": "Zona de premios",
@@ -1168,6 +1232,10 @@
       }
     },
     "hire-desk": {
+      "card": {
+        "title": "Hola, soy Buster. \n¡Listo para trabajar!",
+        "subtitle": "Trabajo 24/7, listo para cualquier rol"
+      },
       "card-left": {
         "steps": {
           "deploy": "Lanzar",
@@ -1661,6 +1729,13 @@
       "get-in-touch": "Contáctanos"
     }
   },
+  "rewards_zone": {
+    "spins": "giros",
+    "title": "Zona de premios",
+    "spin-the-wheel": "Gira la ruleta",
+    "collect-coins-everyday": "¡Recoge monedas cada día!",
+    "try-more-spins-tomorrow": "¡Prueba más giros mañana!"
+  },
   "terms-of-use": {
     "title": "Términos de uso",
     "general-terms": "Términos generales",
@@ -1941,6 +2016,28 @@
   },
   "build-reception": {
     "title": "Crear mi centralita"
+  },
+  "category_groups": {
+    "pick_a_number": {
+      "name": "Elige un número",
+      "description": "Listo al instante"
+    },
+    "mobile_numbers": {
+      "name": "Números móviles",
+      "description": "Llamadas y SMS"
+    },
+    "toll_free_numbers": {
+      "name": "Números gratuitos",
+      "description": "Líneas de soporte"
+    },
+    "worldwide_numbers": {
+      "name": "Números globales",
+      "description": "Cobertura global"
+    },
+    "social_media_numbers": {
+      "name": "Números para redes",
+      "description": "WhatsApp, TikTok para OTP"
+    }
   },
   "country-details": {
     "id": "ID",
@@ -2246,6 +2343,9 @@
     "description": "Esta eSIM estará en tus eSIM activas",
     "button-label": "Desarchivar"
   },
+  "low-call-credit-modal": {
+    "desc": "Se cobrará ${{value}} de tu saldo"
+  },
   "new-version-available": {
     "cta": "Actualizar",
     "title": "¡Nueva versión!",
@@ -2349,5 +2449,10 @@
     "subtitle": "Este número puede no servir para OTP de redes. No respondemos por restricciones. SMS entre móviles sí funciona.",
     "button-label": "Continuar",
     "additional-button-label": "Número para redes"
+  },
+  "call-creadit-slider-complete-modal": {
+    "cta": "Añadir saldo",
+    "desc": "Necesitas al menos ${{value}} de saldo para este plan.",
+    "title": "Saldo insuficiente"
   }
 }

@@ -2,6 +2,21 @@
   "faq": {
     "title": "FAQ"
   },
+  "iap": {
+    "restore": {
+      "init-error": "Failed to initialize IAP. Please try again.",
+      "error-title": "Error",
+      "error-message": "Failed to restore purchases. Please try again later.",
+      "success-title": "Success",
+      "success-message": "Purchases restored successfully!\n\nVerified: {{verifiedCount}} purchase(s){{failedCount}}",
+      "no-purchases-title": "Info",
+      "no-purchases-message": "No purchases found to restore.",
+      "error-message-generic": "Failed to restore purchases. Please try again.",
+      "success-message-failed": "\nFailed: {{failedCount}}",
+      "verification-failed-title": "Warning",
+      "verification-failed-message": "Found {{count}} purchase(s), but verification failed."
+    }
+  },
   "ivr": {
     "menu": "Menu",
     "plan": {
@@ -230,7 +245,12 @@
       "title3": "Decide Who Gets the Calls",
       "title4": "Reception is live on your phone line"
     },
-    "country-selection-screen-title": "Available countries"
+    "country-selection-screen-title": "Available countries",
+    "ivr-choose-assigned-number-modal": {
+      "cta": "Call",
+      "desc": "Select a number to test",
+      "title": "Choose available number"
+    }
   },
   "auth": {
     "otp": {
@@ -266,6 +286,10 @@
     "terms": "Terms",
     "how-to": "How to?",
     "warning": "Warning! Most eSIMs can only be installed once. If you remove eSim from your device, you cannot install it again.",
+    "dashboard": {
+      "my-esims": "My eSims",
+      "buy-esims": "Buy eSims"
+    },
     "data-esim": "Data eSim",
     "guide-steps": {
       "pay": {
@@ -372,10 +396,23 @@
         "after-arrive": "After you arrive"
       },
       "tab-title": "My Device",
+      "not-supported": {
+        "title": "eSIM Not Supported",
+        "message": "We detected that your device may not support eSIM. Do you want to continue anyway?",
+        "cancel-button": "Cancel",
+        "continue-button": "Continue"
+      },
       "install-profile": {
         "title": "Install the eSim profile",
         "button": "One-click Install",
-        "description": "Tap \"Install my eSIM profile\" and allow access to profiles"
+        "description": "Tap \"Install my eSIM profile\" and allow access to profiles",
+        "go-to-settings-button": "Go to Settings"
+      },
+      "manual-fallback": {
+        "title": "eSIM",
+        "message": "eSimCopied\n\nPlease go to: Settings → Connections → SIM manager → Add mobile plan → Scan QR code → Enter activation code → Paste.",
+        "ok-button": "OK",
+        "open-settings-button": "Open Settings"
       },
       "android-link-info": "For other Android models"
     },
@@ -769,6 +806,33 @@
   },
   "continue": "Continue",
   "kyc-flow": {
+    "kyc-guide": {
+      "step1": {
+        "title": "Information",
+        "subtext": "Enter your name + address exactly as on your ID/proof of address. Fill any extra questions shown."
+      },
+      "step2": {
+        "title": "Documents (if required)",
+        "subtext": "Upload what’s requested (ID, proof of address, business docs). Make sure it’s clear, full page, not blurry."
+      },
+      "step3": {
+        "title": "Agreement (if required)",
+        "subtext": "If shown, review and sign the agreement."
+      },
+      "step4": {
+        "title": "Submit",
+        "subtext": "Submit only when all steps show <b>Done</b>."
+      },
+      "step5": {
+        "title": "Review",
+        "subtext": "Approval usually <b>1–2 business days</b>. If something fails, we’ll inform you what to fix."
+      },
+      "step6": {
+        "title": "Your new Number is verified & available",
+        "subtext": "If you have completed all the steps correctly."
+      },
+      "title": "Guide"
+    },
     "key-action-items": {
       "cta": "Submit",
       "title": "Verification",
@@ -878,7 +942,7 @@
     "banner_cta_1": "Invite Now",
     "banner_cta_2": "try it",
     "banner_cta_3": "See Plans",
-    "calling_plan": "Plans & Bundles",
+    "calling_plan": "Bundles & Plans",
     "coin_balance": "Coins",
     "receptionist": "Receptionist",
     "rewards_zone": "Rewards Zone",
@@ -1168,6 +1232,10 @@
       }
     },
     "hire-desk": {
+      "card": {
+        "title": "Hi, I'm Buster. \nReady to work!",
+        "subtitle": "I work 24/7, open for any Role"
+      },
       "card-left": {
         "steps": {
           "deploy": "Deploy",
@@ -1661,6 +1729,13 @@
       "get-in-touch": "Get in touch"
     }
   },
+  "rewards_zone": {
+    "spins": "spins",
+    "title": "Rewards Zone",
+    "spin-the-wheel": "Spin the wheel",
+    "collect-coins-everyday": "Collect coins everyday!",
+    "try-more-spins-tomorrow": "Try more spins tomorrow!"
+  },
   "terms-of-use": {
     "title": "Terms of Use",
     "general-terms": "General Terms And Conditions",
@@ -1941,6 +2016,28 @@
   },
   "build-reception": {
     "title": "Build my Reception"
+  },
+  "category_groups": {
+    "pick_a_number": {
+      "name": "Pick a number",
+      "description": "Ready to use instantly"
+    },
+    "mobile_numbers": {
+      "name": "Mobile numbers",
+      "description": "Call & SMS"
+    },
+    "toll_free_numbers": {
+      "name": "Toll free numbers",
+      "description": "Support lines"
+    },
+    "worldwide_numbers": {
+      "name": "Worldwide numbers",
+      "description": "Global coverage"
+    },
+    "social_media_numbers": {
+      "name": "Social Media numbers",
+      "description": "WhatsApp, Tiktok for OTP"
+    }
   },
   "country-details": {
     "id": "ID",
@@ -2246,6 +2343,9 @@
     "description": "This eSim will be available in your active eSims",
     "button-label": "Unarchive"
   },
+  "low-call-credit-modal": {
+    "desc": "${{value}} will be charged from your balance"
+  },
   "new-version-available": {
     "cta": "Update Now",
     "title": "A New Version Is Here!",
@@ -2349,5 +2449,10 @@
     "subtitle": "This number may not support social OTP verification services. We are not responsible for any restrictions that are in place by operators. Messages between phones will work.",
     "button-label": "Continue",
     "additional-button-label": "Get a Social Media Number"
+  },
+  "call-creadit-slider-complete-modal": {
+    "cta": "Add Call Credit",
+    "desc": "You need at least ${{value}} Call Credit to get this Plan.",
+    "title": "Insufficient Call Credits"
   }
 }
