@@ -160,6 +160,7 @@
     "screen-title": "Rececionista",
     "leave-message": "Deixar mensagem",
     "opening-hours": "Horário de funcionamento",
+    "doc-guide-desc": "boas práticas",
     "textFieldError": "Erro no campo de texto",
     "assigned-numbers": "Números atribuídos",
     "build-guide-data": {
@@ -506,7 +507,7 @@
     "my-phone-numbers": "Os meus números",
     "terms-of-service": "Termos de serviço",
     "upload-documents": "Carregar documentos",
-    "start-earning-now": "Registe-se e comece a ganhar",
+    "start-earning-now": "Regista-te e começa",
     "invite-friends-now": "Convide amigos agora",
     "describe-your-issue": "Descreva o seu problema",
     "refer-and-earn-desc": "Ofereça $3 aos amigos em dados eSIM",
@@ -988,6 +989,28 @@
   },
   "refer-earn": {
     "test": "Teste",
+    "guide": {
+      "step1": {
+        "title": "Obtém o teu link",
+        "subtext": "Vai a Recomendar e ganhar → Partilhar. Copia o teu link, código ou QR."
+      },
+      "step2": {
+        "title": "Partilha onde estiveres",
+        "subtext": "Envia a amigos/família. Publica o teu link/código/QR nas redes (bio, stories, vídeos curtos)."
+      },
+      "step3": {
+        "title": "Compras geram ganhos",
+        "subtext": "Quando compram, ganhas um % (varia por produto). Sem prémios por registos."
+      },
+      "step4": {
+        "title": "Acompanha e resgata",
+        "subtext": "Vê Direto / Bónus / Pendente na app. Gere e levanta no nosso site (pode exigir KYC)."
+      },
+      "step5": {
+        "subtext": "Os ganhos só vêm de compras elegíveis concluídas via link/código. As taxas variam por produto. Reembolsos/chargebacks podem reverter. Pagamentos no nosso site; pode exigir KYC. Aplicam-se termos."
+      },
+      "title": "Guia de referidos"
+    },
     "earn-tab": {
       "faq": {
         "step1": {
@@ -1004,15 +1027,16 @@
         },
         "title": "FAQ"
       },
+      "info": "Os ganhos só vêm de compras elegíveis concluídas feitas por referidos. Sem prémios por avaliações. Aplicam-se termos.",
       "un-sign-in": {
         "tip1": "Convide e ganhe*",
         "tip2": "Acompanhe ganhos no app",
-        "tip3": "Saque para o banco"
+        "tip3": "Levantar com segurança"
       },
       "how-it-works": {
         "earn": {
           "title": "Você ganha quando compram",
-          "description": "Ganhos somam a cada compra."
+          "description": "Envia o teu link pessoal aos amigos."
         },
         "join": {
           "title": "Eles se cadastram e compram",
@@ -1020,15 +1044,34 @@
         },
         "refer": {
           "title": "Compartilhe seu link",
-          "description": "Envie seu link pessoal."
+          "description": "Os ganhos acumulam enquanto continuarem a comprar no SimBuster."
         },
         "title": "Como funciona"
       },
-      "become-an-affiliate": "Virar parceiro"
+      "info-banners": {
+        "guide": {
+          "title": "Como?",
+          "description": "saber mais"
+        },
+        "video": {
+          "title": "A tua jogada",
+          "description": "1 min"
+        }
+      },
+      "terms-of-use": {
+        "title": "Termos",
+        "description": "As comissões vêm de compras elegíveis concluídas (números, eSIMs e recargas). Podem ser revertidas por reembolsos/chargebacks. Sem comissões por registos, avaliações ou instalações. Restrições por país/idade e verificações KYC/AML para pagamentos."
+      },
+      "become-an-affiliate": "Virar parceiro",
+      "invite-button-label": "Partilha o teu link"
     },
     "earnings": "Ganhos",
     "withdraw": "Sacar",
     "share-link": "Compartilhar meu link",
+    "share-logic": {
+      "title": "Olá!",
+      "message": "Olá! Gostava de te recomendar esta app"
+    },
     "bank-details": "Informe dados bancários",
     "how-it-works": "Como funciona",
     "screen-title": "Indique e ganhe",
@@ -1039,8 +1082,8 @@
       "level": "Nível",
       "balance": "Saldo",
       "earnings": "Ganhos",
-      "top-tab1": "Meus indicados",
-      "top-tab2": "Indique e ganhe",
+      "top-tab1": "Atividade",
+      "top-tab2": "Visão geral",
       "bottom-tab1": "Meu progresso",
       "bottom-tab2": "Top ganhadores",
       "my-team-tab": {
@@ -1065,9 +1108,20 @@
         "title": "Tutorial",
         "description": "ver vídeo"
       },
+      "refferal-summary": {
+        "title": "Resumo de referidos",
+        "manage-cta": "Gerir",
+        "amount-title": "Atividade recente",
+        "amount-pending-title": "Pendente",
+        "amount-pending-description": "Gerir no site"
+      },
       "store-referal-link": "Salvar link",
-      "invite-button-label": "Compartilhe seu link e ganhe",
-      "unlock-to-start-earning": "Desbloqueie p/ ganhar",
+      "invite-button-label": "Partilha o teu link",
+      "earnings-info-banner": {
+        "desc": "Valor total",
+        "title": "Ganhos"
+      },
+      "unlock-to-start-earning": "Regista-te ou inicia sessão",
       "share-referral-link-label": "Compartilhar link"
     },
     "total-earnings": "Seus ganhos totais",
@@ -1080,12 +1134,28 @@
     "earnings-generated": "Ganhos só de compras dos indicados.",
     "secure-withdrawals": "Saques seguros",
     "your-total-earnings": "Seus ganhos totais",
+    "total-earnings-modal": {
+      "cta": "Partilhar o meu link",
+      "step1": "Ganhos de compras por referidos",
+      "step2": "Acompanha os valores na app",
+      "step3": "Pagamentos seguros após verificação",
+      "title": "Os teus ganhos totais"
+    },
     "track-amounts-in-app": "Acompanhe no app",
     "log-in-on-our-website": "Entre no site",
     "earnings-from-referrals": "Ganhos por indicação",
+    "secure-withdrawals-modal": {
+      "cta": "Iniciar sessão em simbuster.com",
+      "step1": "Inicia sessão no nosso site",
+      "step2": "Abre Ganhos → Levantar",
+      "step3": "Adiciona os dados de pagamento e confirma",
+      "title": "Levantamentos seguros",
+      "additional-info-bottom": "*Mínimo $100. Pode ser exigido KYC"
+    },
     "withdraw-securely-to-bank": "Saque seguro p/ banco",
     "number-of-referrals-to-unlock": "mais indicações p/ liberar",
     "enter-bank-details-and-confirm": "Informe dados bancários",
+    "secure-withdrawals-info-bottom": "*Mínimo $100. Pode ser exigido KYC",
     "earnings-from-referral-purchases": "Ganhos por indicação",
     "go-to-earnings-or-wallet-section": "Vá em Ganhos ou Carteira"
   },
@@ -1719,6 +1789,43 @@
     "zmb": "Zâmbia",
     "zwe": "Zimbábue"
   },
+  "phone-number": {
+    "guide": {
+      "step1": {
+        "title": "Escolhe o teu número",
+        "subtext": "● Escolhe <b>País</b>\n● Escolhe <b>Tipo</b>: Móvel / Gratuito / Geográfico\n● Escolhe <b>Área/Zona</b> (se aparecer)"
+      },
+      "step2": {
+        "title": "Comprar",
+        "subtext": "● Toca em <b>Comprar</b> e paga\n● Se forem necessários dados extra, pedimos <b>após a compra</b> (alguns números exigem ID/verificação)"
+      },
+      "step3": {
+        "title": "O teu número está pronto na app",
+        "subtext": "● <b>Usar na app</b> (atender no SimBuster)\n● <b>Reencaminhar para um telefone</b> (PSTN)\n● <b>Partilhar com um colega</b> (outro utilizador SimBuster via email)\n● <b>Enviar para a IA</b> ou criar uma Rececionista/IVR"
+      },
+      "step4": {
+        "title": "Renovações",
+        "subtext": "● Aparece em <b>Os meus números</b>\n● Podes receber chamadas/SMS (consoante as funções do número)"
+      },
+      "step5": {
+        "title": "Renovações",
+        "subtext": "Vê a validade, liga/desliga a renovação automática ou renova em Gerir número."
+      },
+      "title": "Guia de numeração"
+    },
+    "info-banners": {
+      "guide": {
+        "title": "Como?",
+        "subtext": "passo a passo"
+      },
+      "video": {
+        "title": "Guia",
+        "subtext": "Ver vídeo"
+      }
+    },
+    "info-block-1": "<b>Rececionista (IVR)</b> incluída com cada número",
+    "info-block-2": "Saúda quem liga, mensagens personalizadas, menus, encaminhamento e correio de voz <b>incluídos.</b>"
+  },
   "report-issue": {
     "note": "Confirme que já viu as FAQ antes de enviar o problema.",
     "title": "Reportar problema",
@@ -2022,6 +2129,10 @@
       "name": "Números mágicos",
       "description": "Obtém um número inicial grátis"
     },
+    "pick_a_number": {
+      "name": "Escolhe um número",
+      "description": "Pronto a usar já"
+    },
     "mobile_numbers": {
       "name": "Números móveis",
       "description": "Chamadas e SMS"
@@ -2037,6 +2148,10 @@
     "social_media_numbers": {
       "name": "Números para redes sociais",
       "description": "WhatsApp, TikTok para OTP"
+    },
+    "verification_numbers": {
+      "name": "Números de verificação",
+      "description": "para registos em apps"
     }
   },
   "country-details": {
@@ -2123,6 +2238,29 @@
   "mobile-recharge": {
     "tab1": "Recarga",
     "tab2": "Histórico",
+    "guide": {
+      "step1": {
+        "title": "Escolhe quem recarregar",
+        "subtext": "Introduz um número ou escolhe um contacto."
+      },
+      "step2": {
+        "title": "Escolhe o que enviar",
+        "subtext": "Escolhe <b>Carregar</b> (saldo) ou <b>Planos</b> (Dados / Voz / SMS)."
+      },
+      "step3": {
+        "title": "Define valor / plano",
+        "subtext": "Desliza para escolher o valor ou toca num plano."
+      },
+      "step4": {
+        "title": "Paga e envia",
+        "subtext": "Revê os detalhes e toca em <b>Pagar</b>."
+      },
+      "step5": {
+        "title": "Entregue de imediato",
+        "subtext": "O destinatário recebe de imediato (normalmente em segundos)."
+      },
+      "title": "Guia de recarga"
+    },
     "history": {
       "no-history": "Sem recargas recentes"
     },
@@ -2138,6 +2276,16 @@
     "bundles-tab": "Pacotes",
     "enjoy-topup": "Aproveite a sua recarga!",
     "button-title": "Recarregar",
+    "info-banners": {
+      "guide": {
+        "title": "Como?",
+        "subtext": "passo a passo"
+      },
+      "video": {
+        "title": "Guia",
+        "subtext": "Ver vídeo"
+      }
+    },
     "screen-title": "Recarga móvel",
     "network-label": "ESCOLHER REDE",
     "bundle-tooltip": "Mais info",
