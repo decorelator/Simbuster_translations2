@@ -7,9 +7,17 @@ REM Project root = parent of diffScript
 for %%I in ("%SCRIPT_DIR%..") do set "ROOT=%%~fI"
 
 REM Inputs/outputs
-set "ES_IN=%ROOT%\es\es.json"
+set "SCHEMA=%ROOT%\new_translations.json"
+set "ES_IN=%ROOT%\ES\es.json"
 set "DELTA=%SCRIPT_DIR%deltas\delta_es.json"
-set "ES_OUT=%ROOT%\es\es_updated.json"
+set "ES_OUT=%ROOT%\ES\es_updated.json"
+
+if not exist "%SCHEMA%" (
+  echo [ERROR] Schema file not found: "%SCHEMA%"
+  echo Expected new_translations.json in project root.
+  pause
+  exit /b 1
+)
 
 if not exist "%ES_IN%" (
   echo [ERROR] Spanish file not found: "%ES_IN%"
@@ -25,7 +33,7 @@ if not exist "%DELTA%" (
   exit /b 1
 )
 
-py "%SCRIPT_DIR%apply_delta.py" "%ES_IN%" "%DELTA%" "%ES_OUT%"
+py "%SCRIPT_DIR%apply_delta.py" "%SCHEMA%" "%ES_IN%" "%DELTA%" "%ES_OUT%"
 if errorlevel 1 (
   echo [ERROR] apply_delta.py failed.
   pause

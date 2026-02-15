@@ -160,6 +160,7 @@
     "screen-title": "Receptionist",
     "leave-message": "Leave a message",
     "opening-hours": "Opening hours",
+    "doc-guide-desc": "best practices",
     "textFieldError": "Text field error",
     "assigned-numbers": "Assigned Numbers",
     "build-guide-data": {
@@ -271,8 +272,10 @@
       "continue-cta": "Continue",
       "full-name-label": "Full Name",
       "email-placeholder": "Enter your email",
+      "refferal-code-label": "Referral Code",
       "country-picker-label": "Country",
-      "full-name-placeholder": "Full Name"
+      "full-name-placeholder": "Full Name",
+      "refferal-code-placeholder": "optional"
     }
   },
   "back": "Back",
@@ -294,29 +297,41 @@
     "guide-steps": {
       "pay": {
         "title": "Pay",
-        "description": "Checkout. eSIM issued instantly."
+        "description": "Checkout. eSIM issued instantly.",
+        "title.samsung": "Pay",
+        "description.samsung": "Checkout. eSIM issued instantly."
       },
       "install": {
-        "title": "Install (on Wi-Fi, before you leave)"
+        "title": "Install (on Wi-Fi, before you leave)",
+        "title.samsung": "Install (on Wi-Fi, before you leave)"
       },
       "pick-plan": {
         "title": "Pick plan",
-        "description": "Choose data + days. No contract."
+        "description": "Choose data + days. No contract.",
+        "title.samsung": "Pick plan",
+        "description.samsung": "Choose data + days. No contract."
       },
       "give-label": {
         "title": "Give label to new eSIM",
-        "description": "Settings → Cellular/Mobile → rename to Simbuster"
+        "description": "Settings → Connections → SIM manager → Simbuster eSIM → SIM name",
+        "title.samsung": "Give label to new eSIM",
+        "description.samsung": "Settings → Connections → SIM manager → Simbuster eSIM → SIM name"
       },
       "on-arrival": {
         "title": "On arrival: use for data",
-        "description": "Set Mobile Data = Trip eSIM and Data Roaming ON.\n(iPhone: Settings → Mobile Data. Android:\nSettings → Network → SIMs.)\n"
+        "description": "Set Mobile Data = Trip eSIM and Data Roaming ON.\n(iPhone: Settings → Mobile Data. Android:\nSettings → Network → SIMs.)\n",
+        "title.samsung": "On arrival: use for data",
+        "description.samsung": "Set Mobile Data = Trip eSIM and Data Roaming ON.\n(iPhone: Settings → Mobile Data. Android:\nSettings → Network → SIMs.)\n"
       },
       "monitor-usage": {
-        "title": "Monitor usage & Add bundles anytime"
+        "title": "Monitor usage & Add bundles anytime",
+        "title.samsung": "Monitor usage & Add bundles anytime"
       },
       "choose-destination": {
         "title": "Choose destination",
-        "description": "Select country/region"
+        "description": "Select country/region",
+        "title.samsung": "Choose destination",
+        "description.samsung": "Select country/region"
       }
     },
     "mobile-data": "Mobile Data",
@@ -329,19 +344,28 @@
         "title": "Activate eSim",
         "button": "Activate",
         "description": "Activate only at your destination",
-        "after-arrive": "After you arrive"
+        "after-arrive": "After you arrive",
+        "title.samsung": "Activate eSim",
+        "button.samsung": "Activate",
+        "description.samsung": "Activate only at your destination",
+        "after-arrive.samsung": "After you arrive"
       },
       "tab-title": "Manual",
       "give-label": {
-        "title": "Give label to new eSIM"
+        "title": "Give label to new eSIM",
+        "title.samsung": "Give label to new eSIM"
       },
       "add-mobile-plan": {
         "title": "Add Mobile Plan",
-        "description": "Settings > Mobile Service > Add eSIM"
+        "description": "Settings → Connections → SIM manager → Add eSIM",
+        "title.samsung": "Add Mobile Plan",
+        "description.samsung": "Settings → Connections → SIM manager → Add eSIM"
       },
       "enter-activation-code": {
         "title": "Enter the Activation Code",
+        "description": "Scan the QR code you got from your service provider.",
         "sm-dp-address": "SM-DP+Address",
+        "title.samsung": "Enter the Activation Code",
         "activation-code": "Activation code"
       }
     },
@@ -356,44 +380,67 @@
       "steps-after-arrival-info": "These steps are only after arriving at your destination and installing your eSIM."
     },
     "install-title": "Install my eSim",
+    "my-esim-usage": {
+      "days": "days",
+      "hours": "hours",
+      "minutes": "minutes",
+      "expire_in": "Expires in: {{0}}"
+    },
     "activate-title": "Activate eSim",
     "install-button": "Install",
     "share-qr-guide": {
       "scan-qr": {
-        "title": "Scan the QR code"
+        "title": "Scan the QR code",
+        "description": "Tap \"Add using QR code\" > Scan QR code > Your mobile plan will be downloaded and activated on your eSIM.",
+        "title.samsung": "Scan the QR code"
       },
       "send-qr": {
         "title": "Send QR Code to another device or PC",
         "button": "Send QR Code",
-        "share-message": "Send QR Code"
+        "share-message": "Send QR Code",
+        "title.samsung": "Send QR Code to another device or PC",
+        "button.samsung": "Send QR Code"
       },
       "activate": {
         "title": "Activate eSim",
         "button": "Activate",
         "description": "Activate only at your destination",
-        "after-arrive": "After you arrive"
+        "after-arrive": "After you arrive",
+        "title.samsung": "Activate eSim",
+        "button.samsung": "Activate",
+        "description.samsung": "Activate only at your destination",
+        "after-arrive.samsung": "After you arrive"
       },
       "tab-title": "Share QR",
       "give-label": {
-        "title": "Give label to new eSIM"
+        "title": "Give label to new eSIM",
+        "title.samsung": "Give label to new eSIM"
       },
       "add-mobile-plan": {
         "title": "Add mobile plan",
-        "description": "Settings > Mobile Service > SIMs  >  Add eSIM"
+        "description": "Settings > Mobile Service > SIMS > Add eSIM",
+        "title.samsung": "Add mobile plan",
+        "description.samsung": "Settings > Mobile Service > SIMS > Add eSIM"
       }
     },
     "where-internet": "Where do you need Internet?",
     "activate-button": "Activate",
     "my-device-guide": {
       "install": {
-        "title": "Install eSim",
-        "description": "Install it before your trip -  make sure you have an internet connection."
+        "title": "Give label to the new eSim",
+        "description": "Install it before your trip -  make sure you have an internet connection.",
+        "title.samsung": "Give label to the new eSim",
+        "description.samsung": "Install it before your trip -  make sure you have an internet connection."
       },
       "activate": {
         "title": "Activate eSim",
         "button": "Activate",
         "description": "Activate only at your destination",
-        "after-arrive": "After you arrive"
+        "after-arrive": "After you arrive",
+        "title.samsung": "Activate eSim",
+        "button.samsung": "Activate",
+        "description.samsung": "Activate only at your destination",
+        "after-arrive.samsung": "After you arrive"
       },
       "tab-title": "My Device",
       "not-supported": {
@@ -405,7 +452,10 @@
       "install-profile": {
         "title": "Install the eSim profile",
         "button": "One-click Install",
-        "description": "Tap \"Install my eSIM profile\" and allow access to profiles",
+        "description": "Tap \"Install my eSIM profile\" and follow instructions on screen",
+        "title.samsung": "Install the eSim profile",
+        "button.samsung": "One-click Install",
+        "description.samsung": "Tap \"Install my eSIM profile\" and follow instructions on screen",
         "go-to-settings-button": "Go to Settings"
       },
       "manual-fallback": {
@@ -498,15 +548,17 @@
     "my-recharges": "My Recharges",
     "phone-number": "Phone Number",
     "receptionist": "Receptionist",
+    "save-changes": "Save changes",
     "three-months": "3 months",
     "phone-numbers": "Phone Numbers",
     "twelve-months": "12 months",
     "august-01-2025": "01 Aug, 2025",
     "popular-numbers": "Popular Numbers",
     "my-phone-numbers": "My Phone Numbers",
+    "phone-book-title": "Phone Book",
     "terms-of-service": "Terms of service",
     "upload-documents": "Upload documents",
-    "start-earning-now": "Sign Up & Start Earning",
+    "start-earning-now": "Sign Up & Get Started",
     "invite-friends-now": "Invite Friends Now",
     "describe-your-issue": "Describe your issue",
     "refer-and-earn-desc": "Get friends $3 on eSIM DATA",
@@ -577,7 +629,7 @@
     "esim": {
       "otp": "OTP",
       "terms": {
-        "content": "By continuing, you agree to our Terms of Service and Privacy Policy. It’s your responsibility to confirm your device supports eSim and the selected plan/region. Refunds are guaranteed if eSim is unused or your travel plans change. No refunds once the eSim is activated.",
+        "content": "By continuing, you agree to our Terms of Service and Privacy Policy. It’s your responsibility to confirm your device supports eSim and the selected plan/region. Refunds are guaranteed 7 days after purchase, if eSim is unused or your travel plans change. No refunds once the eSim is activated.",
         "terms-replace": "Terms of Service",
         "privacy-replace": "Privacy Policy"
       },
@@ -833,6 +885,24 @@
       },
       "title": "Guide"
     },
+    "kyc-documents": {
+      "dob": "Date of birth",
+      "email": "Email",
+      "id_doc": "ID / Passport",
+      "tax-id": "Personal Tax ID",
+      "id-number": "ID number",
+      "company_id": "Company Number",
+      "cro-number": "CRO Number",
+      "vat-number": "VAT Number",
+      "utility-bill": "Utility bill",
+      "address-proof": "Address Proof",
+      "place-of-birth": "Place of Birth",
+      "selfie-with-id": "Selfie with ID",
+      "id_doc.subtitle": "ID document",
+      "incorporation-cert": "Incorporation certificate",
+      "service-usage-description": "Service usage description",
+      "regulator-allocation-proof": "Regulator allocation proof"
+    },
     "key-action-items": {
       "cta": "Submit",
       "title": "Verification",
@@ -877,6 +947,9 @@
           "identity": "Passport number or national ID",
           "certificate": "Incorporation certificate",
           "utility-bill": "A recent utility bill (under 6 months)"
+        },
+        "additional-info": {
+          "title": "Additional Info"
         }
       }
     }
@@ -911,13 +984,13 @@
       },
       "banner_2": {
         "cta": "Try it",
-        "title": "New: AI Assistnat is Live",
+        "title": "New: AI Assistant is Live",
         "description": "Try the Receptionist"
       },
       "banner_3": {
         "cta": "See plans",
-        "title": "Save Big on Global Calling",
-        "description": "Upto 70% off "
+        "title": "A Virtual Voice",
+        "description": "Answers calls for you"
       },
       "banner_4": {
         "cta": "Recharge now",
@@ -988,6 +1061,28 @@
   },
   "refer-earn": {
     "test": "Test",
+    "guide": {
+      "step1": {
+        "title": "Get your link",
+        "subtext": "Go to Refer & Earn → Share. Copy your link, code, or QR."
+      },
+      "step2": {
+        "title": "Share where you are",
+        "subtext": "Send to friends/family. Post your link/code/QR on socials (bio, stories, short videos)."
+      },
+      "step3": {
+        "title": "Purchases create earnings",
+        "subtext": "When people buy, you earn a % (varies by product). No rewards for sign-ups."
+      },
+      "step4": {
+        "title": "Track & redeem",
+        "subtext": "See Direct / Bonus / Pending in-app. Manage & withdraw on our website (KYC may be required)."
+      },
+      "step5": {
+        "subtext": "Earnings come only from completed, eligible purchases via your link/code. Rates vary by product. refunds/chargebacks may reverse. Payouts on our website; KYC may be required. Terms apply."
+      },
+      "title": "Referral Guide"
+    },
     "earn-tab": {
       "faq": {
         "step1": {
@@ -1004,15 +1099,16 @@
         },
         "title": "FAQ"
       },
+      "info": "Earnings are generated only from completed eligible purchases made by referred users. No rewards for reviews. Terms apply.",
       "un-sign-in": {
         "tip1": "Invite & Earn* from Purchases",
         "tip2": "Track Your Earnings in App",
-        "tip3": "Withdraw Earnings to your Bank"
+        "tip3": "Withdraw Securely"
       },
       "how-it-works": {
         "earn": {
           "title": "You earn every time they buy",
-          "description": "Earnings add up as they keep purchasing on SimBuster."
+          "description": "Send your personal invite link to friends."
         },
         "join": {
           "title": "They sign up & buy",
@@ -1020,15 +1116,34 @@
         },
         "refer": {
           "title": "Share your link",
-          "description": "Send your personal invite link to friends."
+          "description": "Earnings add up as they keep purchasing on SimBuster."
         },
         "title": "How it works"
       },
-      "become-an-affiliate": "Become and Partner"
+      "info-banners": {
+        "guide": {
+          "title": "How to?",
+          "description": "learn more"
+        },
+        "video": {
+          "title": "Your Move",
+          "description": "1 min"
+        }
+      },
+      "terms-of-use": {
+        "title": "Terms",
+        "description": "Referral commissions are funded by completed, eligible purchases of numbers, eSims and  Top ups. Commissions may be reversed on refunds/chargebacks. No commissions for sign-ups, reviews, or installs. Country/age restrictions and KYC/AML checks apply for earnings payouts."
+      },
+      "become-an-affiliate": "Become and Partner",
+      "invite-button-label": "Your Move: Share"
     },
     "earnings": "Earnings",
     "withdraw": "Withdraw",
     "share-link": "Share my link now",
+    "share-logic": {
+      "title": "Hey!",
+      "message": "Hey! I would like to recommend you this app"
+    },
     "bank-details": "Enter your bank details and confirm",
     "how-it-works": "How it works",
     "screen-title": "Refer & Earn",
@@ -1039,8 +1154,8 @@
       "level": "Level",
       "balance": "Balance",
       "earnings": "Earnings",
-      "top-tab1": "My Referrals",
-      "top-tab2": "Refer & Earn",
+      "top-tab1": "Activity",
+      "top-tab2": "Overview",
       "bottom-tab1": "My Progress",
       "bottom-tab2": "Top Earners",
       "my-team-tab": {
@@ -1065,27 +1180,54 @@
         "title": "Tutorial",
         "description": "watch video"
       },
-      "store-referal-link": "Store referal link",
-      "invite-button-label": "Share Your Link to Start Earning",
-      "unlock-to-start-earning": "Unlock to Start Earning",
+      "refferal-summary": {
+        "title": "Referral Summary",
+        "manage-cta": "Manage",
+        "amount-title": "Recent Acivity",
+        "amount-pending-title": "Pending",
+        "amount-pending-description": "Manage on website"
+      },
+      "store-referal-link": "Your Referal Link",
+      "invite-button-label": "Your Move: Share",
+      "earnings-info-banner": {
+        "desc": "Total Amount",
+        "title": "Earnings"
+      },
+      "unlock-to-start-earning": "Sign Up or Login",
       "share-referral-link-label": "Share referral link"
     },
     "total-earnings": "Your Total Earnings",
     "earn-every-time": "You earn every time they buy",
     "earnings-wallet": "Go to the Earnings or Wallet section",
-    "share-your-link": "Share your link",
+    "share-your-link": "Your Move: Share",
     "share-link-start": "Share Your Link to Start Earning",
     "share-my-link-now": "Share my link now",
     "withdraw-securely": "Withdraw securely to Bank",
     "earnings-generated": "Earnings are generated only from purchases made by referred users.",
     "secure-withdrawals": "Secure Withdrawals",
     "your-total-earnings": "Your Total Earnings",
+    "total-earnings-modal": {
+      "cta": "Share my link now",
+      "step1": "Earnings from referral purchases",
+      "step2": "Track amounts in-app",
+      "step3": "Secure payouts once verified",
+      "title": "Your Total Earnings"
+    },
     "track-amounts-in-app": "Track amounts in-app",
     "log-in-on-our-website": "Log in on our website",
     "earnings-from-referrals": "Earnings from referral purchases",
+    "secure-withdrawals-modal": {
+      "cta": "Login to simbuster.com",
+      "step1": "Log in on our website",
+      "step2": "Open Earnings → Withdraw",
+      "step3": "Add payout details and confirm",
+      "title": "Secure Withdrawals",
+      "additional-info-bottom": "*$100 minimum.  KYC may be required"
+    },
     "withdraw-securely-to-bank": "Withdraw securely to Bank",
     "number-of-referrals-to-unlock": "more referrals to unlock",
     "enter-bank-details-and-confirm": "Enter your bank details and confirm",
+    "secure-withdrawals-info-bottom": "*$100 minimum.  KYC may be required",
     "earnings-from-referral-purchases": "Earnings from referral purchases",
     "go-to-earnings-or-wallet-section": "Go to the Earnings or Wallet section"
   },
@@ -1719,6 +1861,71 @@
     "zmb": "Zambia",
     "zwe": "Zimbabwe"
   },
+  "phone-number": {
+    "guide": {
+      "step1": {
+        "title": "Choose your number",
+        "subtext": "● Pick <b>Country</b>\n● Pick <b>Type</b>: Mobile / Toll-Free / Geographic\n● Choose <b>Area/Zone</b> (if shown)"
+      },
+      "step2": {
+        "title": "Buy",
+        "subtext": "● Tap <b>Buy</b> and pay\n● If extra details are needed, we’ll ask <b>after purchase</b> (some numbers require ID/verification)"
+      },
+      "step3": {
+        "title": "Your number is ready in the app",
+        "subtext": "● <b>Use in app</b> (answer in SimBuster)\n● <b>Forward to a phone</b> (PSTN)\n● <b>Share with a teammate</b> (another SimBuster user via email)\n● <b>Send to AI</b> or create a Receptionist/IVR"
+      },
+      "step4": {
+        "title": "Renewals",
+        "subtext": "● It appears in <b>My Numbers</b>\n● You can receive calls/SMS (based on the number’s features)"
+      },
+      "step5": {
+        "title": "Renewals",
+        "subtext": "View expiry, turn on/off auto-renew, or renew anytime from Manage Number."
+      },
+      "title": "Numbering Guide"
+    },
+    "alert-modals": {
+      "0cost": {
+        "title": "Keep this number",
+        "subtitle": "you must receive and answer at least one incoming call within the first 30 days. If not, it may be deactivated",
+        "button-label": "Buy a Phone Number"
+      },
+      "social": {
+        "title": "Warning!",
+        "subtitle": "This number may not support social OTP verification services. We are not responsible for any restrictions that are in place by operators. Messages between phones will work.",
+        "button-label": "Continue",
+        "additional-button-label": "Get a Social Media Number"
+      },
+      "fallback": {
+        "title": "Important Information",
+        "subtitle": "Something important may have been missed. Please contact support if you have any questions.",
+        "button-label": "Continue"
+      },
+      "national": {
+        "title": "National Rate",
+        "subtitle": "Incoming calls on National numbers are usually within the same country. We are not responsible for any restrictions that are in place by operators from abroad.",
+        "button-label": "Continue"
+      },
+      "tollfree": {
+        "title": "Toll Free",
+        "subtitle": "Incoming calls on Toll free numbers use call credit. Please make sure you add credit to your balance or calls may fail.",
+        "button-label": "Continue"
+      }
+    },
+    "info-banners": {
+      "guide": {
+        "title": "How to?",
+        "subtext": "step by step"
+      },
+      "video": {
+        "title": "Guide",
+        "subtext": "Watch video"
+      }
+    },
+    "info-block-1": "<b>Receptionist (IVR)</b> puzzle  included with every number",
+    "info-block-2": "Greet callers, custom messages, add menus, route calls, voicemail <b>built-in.</b>"
+  },
   "report-issue": {
     "note": "Make sure you checked FAQ before sending the issue.",
     "title": "Report Issue",
@@ -1890,6 +2097,7 @@
     "button-title": "Activate Data Now",
     "plan-details": "Plan details",
     "screen-title": "France",
+    "activate-until": "Activate Until",
     "activate-before": "Activate before",
     "esim-troubleshooting": "eSIM Troubleshooting",
     "install-instructions": "Installation Instruction"
@@ -1918,7 +2126,10 @@
         "description": "Pick one for free"
       }
     },
-    "screen-title": "Phone Numbers"
+    "screen-title": "Phone Numbers",
+    "country-phone-numbers": {
+      "top-info-block-title": "<b>Receptionist (IVR)</b> puzzle included with every number"
+    }
   },
   "prepaid-codes": {
     "cta": "Get prepaid code ",
@@ -2022,6 +2233,10 @@
       "name": "Magic Numbers",
       "description": "Get a free starter number"
     },
+    "pick_a_number": {
+      "name": "Pick a number",
+      "description": "Ready to use instantly"
+    },
     "mobile_numbers": {
       "name": "Mobile numbers",
       "description": "Call & SMS"
@@ -2037,6 +2252,10 @@
     "social_media_numbers": {
       "name": "Social Media numbers",
       "description": "WhatsApp, Tiktok for OTP"
+    },
+    "verification_numbers": {
+      "name": "Verification Numbers",
+      "description": "for app sign-ups"
     }
   },
   "country-details": {
@@ -2123,6 +2342,29 @@
   "mobile-recharge": {
     "tab1": "Top-Up",
     "tab2": "Refill History",
+    "guide": {
+      "step1": {
+        "title": "Choose who to top up",
+        "subtext": "Enter a phone number or pick a contact."
+      },
+      "step2": {
+        "title": "Pick what to send",
+        "subtext": "Select <b>Top Up</b> (credit) or <b>Plans</b> (Data / Voice / SMS)."
+      },
+      "step3": {
+        "title": "Set the amount / plan",
+        "subtext": "Slide to choose the amount, or tap a plan."
+      },
+      "step4": {
+        "title": "Pay & send",
+        "subtext": "Review the details, then tap <b>Pay</b>."
+      },
+      "step5": {
+        "title": "Delivered instantly",
+        "subtext": "The receiver gets it immediately (usually within seconds)."
+      },
+      "title": "Recharge Guide"
+    },
     "history": {
       "no-history": "No Recent Refills"
     },
@@ -2138,6 +2380,16 @@
     "bundles-tab": "Bundles",
     "enjoy-topup": "Enjoy your top-up!",
     "button-title": "Recharge",
+    "info-banners": {
+      "guide": {
+        "title": "How to?",
+        "subtext": "step by step"
+      },
+      "video": {
+        "title": "Guide",
+        "subtext": "Watch video"
+      }
+    },
     "screen-title": "Mobile Recharge",
     "network-label": "CHOOSE NETWORK",
     "bundle-tooltip": "More Info",
@@ -2226,6 +2478,9 @@
     "PAN:toll_free": "up_to_4_weeks",
     "URY:toll_free": "up_to_6_weeks"
   },
+  "app-block-screen": {
+    "title": "Click to open app"
+  },
   "call-transcripts": {
     "user": "USER",
     "title": "Call Transcripts",
@@ -2243,7 +2498,7 @@
       },
       "note-2": {
         "title": "Travel Plans Changed?",
-        "description": "Unused eSims may be eligible for\na refund guarantee"
+        "description": "Unused eSims may be eligible for\na 7 day refund guarantee"
       }
     },
     "speed-desc": "This data plan is expected to have 4G speed. We Support.",
@@ -2258,6 +2513,11 @@
     "title": "Insufficient Speech Credits",
     "ctaAdditional": "Add Speech Credit"
   },
+  "order-fail-modal": {
+    "cta": "Ok",
+    "title": "Order Failed!",
+    "description": "Your payment was not successful"
+  },
   "recharge-success": {
     "cta": "See recharge status",
     "title": "Recharge Successful!",
@@ -2267,6 +2527,12 @@
     "desc": "We need your ID to activate the number.\nTakes 1–2 minutes. Quick & Easy.\nDo it now or later.",
     "title": "Verify Your Identity",
     "verify-now": "Start Now"
+  },
+  "caller-id-warning": {
+    "title": "Warning",
+    "cancel": "Cancel",
+    "continue": "Continue",
+    "description": "No matching caller ID found for this destination. Using default caller ID."
   },
   "ivr-simple-puzzle": {
     "just-me-basic": "Just me (Basic)"
@@ -2390,19 +2656,22 @@
     "description": "The recommended option gives you more. Why not save more?",
     "continue-anyway": "No, Continue Anyway"
   },
-  "keep-this-number-modal": {
-    "title": "Keep this number",
-    "description": "you must receive and answer at least one incoming call within the first 30 days. If not, it may be deactivated",
-    "button-label": "Continue"
-  },
   "notifications-settings": {
     "title": "Settings",
-    "rewards-zone": "Rewards Zone",
-    "esim-and-voip": "eSIM & VoIP",
-    "refer-and-earn": "Refer & Earn",
-    "everything-else": "Everything else",
-    "deals-and-offers": "Deals & Offers",
-    "payments-and-subscription": "Payments & Subscription"
+    "deal-alerts": "Deal Alerts",
+    "deal_alerts": "Deal Alerts",
+    "push-enabled": "Push Enabled",
+    "push_enabled": "Push Enabled",
+    "email-enabled": "Email Enabled",
+    "email_enabled": "Email Enabled",
+    "reward-alerts": "Reward Alerts",
+    "reward_alerts": "Reward Alerts",
+    "payment-alerts": "Payment Alerts",
+    "payment_alerts": "Payment Alerts",
+    "marketing-alerts": "Marketing Alerts",
+    "marketing_alerts": "Marketing Alerts",
+    "refer-earn-alerts": "Refer & Earn Alerts",
+    "refer_earn_alerts": "Refer & Earn Alerts"
   },
   "address_must_match_area": "Address must match the number area code",
   "slide-to-get-free-offer": {
@@ -2421,12 +2690,22 @@
     "button-label": "No",
     "button-label-2": "Yes"
   },
+  "contacts-permissions-modal": {
+    "title": "We need access to Contacts",
+    "subtitle": "Allow contacts access to use this feature.",
+    "button-label": "Allow contacts"
+  },
   "no-phone-numbers-available": {
     "cta": "Ok",
     "title": "Phone Number Available",
     "description": "Used phone number is not available. Please add a phone number to continue."
   },
   "notifications-screen-title": "Notifications",
+  "esim-is-not-activated-modal": {
+    "title": "eSIM is not activated",
+    "subtitle": "This eSIM is not activated. Please activate it to use it.",
+    "button-label": "OK"
+  },
   "incorporation_cert_subtitle": "Upload a clear copy",
   "select-country-screen-title": "Select country",
   "esim-already-installed-modal": {
@@ -2443,12 +2722,6 @@
     "cta": "Add credit",
     "desc": "Buster requires call credit to receive incoming calls",
     "title": "Insufficient call credit"
-  },
-  "warning-number-social-opt-modal": {
-    "title": "Warning!",
-    "subtitle": "This number may not support social OTP verification services. We are not responsible for any restrictions that are in place by operators. Messages between phones will work.",
-    "button-label": "Continue",
-    "additional-button-label": "Get a Social Media Number"
   },
   "call-creadit-slider-complete-modal": {
     "cta": "Add Call Credit",

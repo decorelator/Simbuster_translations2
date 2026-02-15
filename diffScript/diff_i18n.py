@@ -8,27 +8,22 @@ def load_json(path: Path):
 def save_json(path: Path, obj):
     path.write_text(json.dumps(obj, ensure_ascii=False, indent=2), encoding="utf-8")
 
-def flatten(obj, prefix=""):
+def flatten(obj, prefix="", sep="."):
+    """
+    Flattens nested dict into { "a.b.c": value }.
+    Assumes your JSON is реально вложенный (dict внутри dict).
+    """
     out = {}
     if not isinstance(obj, dict):
         return out
+
     for k, v in obj.items():
-        p = f"{prefix}.{k}" if prefix else k
+        p = f"{prefix}{sep}{k}" if prefix else k
         if isinstance(v, dict):
-            out.update(flatten(v, p))
+            out.update(flatten(v, p, sep=sep))
         else:
             out[p] = v
     return out
-
-def unflatten(flat_map):
-    root = {}
-    for path, val in flat_map.items():
-        cur = root
-        parts = path.split(".")
-        for key in parts[:-1]:
-            cur = cur.setdefault(key, {})
-        cur[parts[-1]] = val
-    return root
 
 def main():
     if len(sys.argv) != 4:
@@ -45,13 +40,14 @@ def main():
     oldk = set(old.keys())
     newk = set(new.keys())
 
-    added = {k: new[k] for k in sorted(newk - oldk)}
+    added   = {k: new[k] for k in sorted(newk - oldk)}
     removed = sorted(oldk - newk)
     changed = {k: new[k] for k in sorted(newk & oldk) if old[k] != new[k]}
 
+    # ВАЖНО: added/changed сохраняем ПЛОСКО (без unflatten), чтобы не ловить коллизии
     delta = {
-        "added": unflatten(added),
-        "changed": unflatten(changed),
+        "added": added,
+        "changed": changed,
         "removed": removed
     }
 
